@@ -52,7 +52,7 @@ User Question
 ```bash
 conda create -n mas python==3.12 -y
 conda activate mas
-cd /apdcephfs/share_303747097/yichaoafeng/OrchMAS-main/verl
+cd verl
 pip3 install -e .
 pip3 install vllm==0.8.3
 pip3 install flash-attn==2.7.4.post1 --no-build-isolation
