@@ -1,0 +1,1250 @@
+[
+  {
+    "data_id": 114,
+    "most_common_answer": "Yes, the proposed monthly payment of $854.80 is correct",
+    "all_predicted_answers": [
+      "Yes, the proposed monthly payment of $854.80 is correct"
+    ],
+    "answer_distribution": {
+      "Yes, the proposed monthly payment of $854.80 is correct": 1
+    },
+    "ground_truth": [
+      "804.62"
+    ]
+  },
+  {
+    "data_id": 115,
+    "most_common_answer": "Thus, the total number of different lock combinations possible for the bicycle lock is indeed \\( \\boxed{4096} \\)",
+    "all_predicted_answers": [
+      "Thus, the total number of different lock combinations possible for the bicycle lock is indeed \\( \\boxed{4096} \\)"
+    ],
+    "answer_distribution": {
+      "Thus, the total number of different lock combinations possible for the bicycle lock is indeed \\( \\boxed{4096} \\)": 1
+    },
+    "ground_truth": [
+      "4096"
+    ]
+  },
+  {
+    "data_id": 119,
+    "most_common_answer": "Yes, the proposed number of possible 13-card hands that can be selected from a deck of 52 playing cards is correct: 635,013,559,600",
+    "all_predicted_answers": [
+      "Yes, the proposed number of possible 13-card hands that can be selected from a deck of 52 playing cards is correct: 635,013,559,600"
+    ],
+    "answer_distribution": {
+      "Yes, the proposed number of possible 13-card hands that can be selected from a deck of 52 playing cards is correct: 635,013,559,600": 1
+    },
+    "ground_truth": [
+      "635013559600"
+    ]
+  },
+  {
+    "data_id": 64,
+    "most_common_answer": "is:",
+    "all_predicted_answers": [
+      "is:"
+    ],
+    "answer_distribution": {
+      "is:": 1
+    },
+    "ground_truth": [
+      "0"
+    ]
+  },
+  {
+    "data_id": 68,
+    "most_common_answer": "No, the correct quantity of the drug in the body after the third tablet is 157.625 mg",
+    "all_predicted_answers": [
+      "No, the correct quantity of the drug in the body after the third tablet is 157.625 mg"
+    ],
+    "answer_distribution": {
+      "No, the correct quantity of the drug in the body after the third tablet is 157.625 mg": 1
+    },
+    "ground_truth": [
+      "157.875"
+    ]
+  },
+  {
+    "data_id": 110,
+    "most_common_answer": "is incorrect. The correct work done is \\( 4.5 \\) ft-lb",
+    "all_predicted_answers": [
+      "is incorrect. The correct work done is \\( 4.5 \\) ft-lb"
+    ],
+    "answer_distribution": {
+      "is incorrect. The correct work done is \\( 4.5 \\) ft-lb": 1
+    },
+    "ground_truth": [
+      "4.5"
+    ]
+  },
+  {
+    "data_id": 137,
+    "most_common_answer": "of 1,900 km above Earth's surface is correct",
+    "all_predicted_answers": [
+      "of 1,900 km above Earth's surface is correct"
+    ],
+    "answer_distribution": {
+      "of 1,900 km above Earth's surface is correct": 1
+    },
+    "ground_truth": [
+      "1900"
+    ]
+  },
+  {
+    "data_id": 235,
+    "most_common_answer": "Yes, \\( 1000 \\,",
+    "all_predicted_answers": [
+      "Yes, \\( 1000 \\,"
+    ],
+    "answer_distribution": {
+      "Yes, \\( 1000 \\,": 1
+    },
+    "ground_truth": [
+      "1000"
+    ]
+  },
+  {
+    "data_id": 267,
+    "most_common_answer": "\\left[ x + \\frac{x^3}{3} \\right]_{-1}^{2} = \\left( 2 + \\frac{2^3}{3} \\right)",
+    "all_predicted_answers": [
+      "\\left[ x + \\frac{x^3}{3} \\right]_{-1}^{2} = \\left( 2 + \\frac{2^3}{3} \\right)"
+    ],
+    "answer_distribution": {
+      "\\left[ x + \\frac{x^3}{3} \\right]_{-1}^{2} = \\left( 2 + \\frac{2^3}{3} \\right)": 1
+    },
+    "ground_truth": [
+      "2"
+    ]
+  },
+  {
+    "data_id": 90,
+    "most_common_answer": "Yes, the overall displacement from the beginning of your drive to your arrival at the station is 10.4 km",
+    "all_predicted_answers": [
+      "Yes, the overall displacement from the beginning of your drive to your arrival at the station is 10.4 km"
+    ],
+    "answer_distribution": {
+      "Yes, the overall displacement from the beginning of your drive to your arrival at the station is 10.4 km": 1
+    },
+    "ground_truth": [
+      "10.4"
+    ]
+  },
+  {
+    "data_id": 17,
+    "most_common_answer": "Yes, the proposed energy gap of approximately \\(3.54 \\, \\text{eV}\\) is correct",
+    "all_predicted_answers": [
+      "Yes, the proposed energy gap of approximately \\(3.54 \\, \\text{eV}\\) is correct"
+    ],
+    "answer_distribution": {
+      "Yes, the proposed energy gap of approximately \\(3.54 \\, \\text{eV}\\) is correct": 1
+    },
+    "ground_truth": [
+      "3.54"
+    ]
+  },
+  {
+    "data_id": 221,
+    "most_common_answer": "Mass of each block",
+    "all_predicted_answers": [
+      "Mass of each block"
+    ],
+    "answer_distribution": {
+      "Mass of each block": 1
+    },
+    "ground_truth": [
+      "0"
+    ]
+  },
+  {
+    "data_id": 257,
+    "most_common_answer": "is:",
+    "all_predicted_answers": [
+      "is:"
+    ],
+    "answer_distribution": {
+      "is:": 1
+    },
+    "ground_truth": [
+      "0"
+    ]
+  },
+  {
+    "data_id": 59,
+    "most_common_answer": "of 311,875,200 is correct",
+    "all_predicted_answers": [
+      "of 311,875,200 is correct"
+    ],
+    "answer_distribution": {
+      "of 311,875,200 is correct": 1
+    },
+    "ground_truth": [
+      "311875200"
+    ]
+  },
+  {
+    "data_id": 142,
+    "most_common_answer": "Yes, the magnitude of the electric dip",
+    "all_predicted_answers": [
+      "Yes, the magnitude of the electric dip"
+    ],
+    "answer_distribution": {
+      "Yes, the magnitude of the electric dip": 1
+    },
+    "ground_truth": [
+      "9.30"
+    ]
+  },
+  {
+    "data_id": 5,
+    "most_common_answer": "d = \\frac{2",
+    "all_predicted_answers": [
+      "d = \\frac{2"
+    ],
+    "answer_distribution": {
+      "d = \\frac{2": 1
+    },
+    "ground_truth": [
+      "0.139"
+    ]
+  },
+  {
+    "data_id": 11,
+    "most_common_answer": "\\[ P = \\frac{nRT}{V} \\]",
+    "all_predicted_answers": [
+      "\\[ P = \\frac{nRT}{V} \\]"
+    ],
+    "answer_distribution": {
+      "\\[ P = \\frac{nRT}{V} \\]": 1
+    },
+    "ground_truth": [
+      "3.0"
+    ]
+  },
+  {
+    "data_id": 106,
+    "most_common_answer": "Yes, the magnitude of the spin angular momentum of a proton is approximately \\( 9.136 \\times 10^{-35} \\, \\text{J s} \\)",
+    "all_predicted_answers": [
+      "Yes, the magnitude of the spin angular momentum of a proton is approximately \\( 9.136 \\times 10^{-35} \\, \\text{J s} \\)"
+    ],
+    "answer_distribution": {
+      "Yes, the magnitude of the spin angular momentum of a proton is approximately \\( 9.136 \\times 10^{-35} \\, \\text{J s} \\)": 1
+    },
+    "ground_truth": [
+      "9.13"
+    ]
+  },
+  {
+    "data_id": 236,
+    "most_common_answer": "The volume of the tetrahedron \\( S \\) is \\( 10 \\, \\text{cm}^3 \\)",
+    "all_predicted_answers": [
+      "The volume of the tetrahedron \\( S \\) is \\( 10 \\, \\text{cm}^3 \\)"
+    ],
+    "answer_distribution": {
+      "The volume of the tetrahedron \\( S \\) is \\( 10 \\, \\text{cm}^3 \\)": 1
+    },
+    "ground_truth": [
+      "10"
+    ]
+  },
+  {
+    "data_id": 243,
+    "most_common_answer": "The integral of \\( \\frac{1}{\\sqrt{u}} \\",
+    "all_predicted_answers": [
+      "The integral of \\( \\frac{1}{\\sqrt{u}} \\"
+    ],
+    "answer_distribution": {
+      "The integral of \\( \\frac{1}{\\sqrt{u}} \\": 1
+    },
+    "ground_truth": [
+      "6"
+    ]
+  },
+  {
+    "data_id": 20,
+    "most_common_answer": "is not correct. The speed at impact should be calculated considering both the horizontal and vertical components of the projectile's motion. The horizontal component remains constant, while the vertical component changes due to gravity. The final speed at impact is found by combining these components",
+    "all_predicted_answers": [
+      "is not correct. The speed at impact should be calculated considering both the horizontal and vertical components of the projectile's motion. The horizontal component remains constant, while the vertical component changes due to gravity. The final speed at impact is found by combining these components"
+    ],
+    "answer_distribution": {
+      "is not correct. The speed at impact should be calculated considering both the horizontal and vertical components of the projectile's motion. The horizontal component remains constant, while the vertical component changes due to gravity. The final speed at impact is found by combining these components": 1
+    },
+    "ground_truth": [
+      "200"
+    ]
+  },
+  {
+    "data_id": 23,
+    "most_common_answer": "where \\( k \\) is Coulomb's constant, \\( q \\",
+    "all_predicted_answers": [
+      "where \\( k \\) is Coulomb's constant, \\( q \\"
+    ],
+    "answer_distribution": {
+      "where \\( k \\) is Coulomb's constant, \\( q \\": 1
+    },
+    "ground_truth": [
+      "-1.0"
+    ]
+  },
+  {
+    "data_id": 92,
+    "most_common_answer": "2x - 8y + 28 = 0 \\quad \\Rightarrow \\quad 2x = 8y - 28 \\quad \\Rightarrow \\quad",
+    "all_predicted_answers": [
+      "2x - 8y + 28 = 0 \\quad \\Rightarrow \\quad 2x = 8y - 28 \\quad \\Rightarrow \\quad"
+    ],
+    "answer_distribution": {
+      "2x - 8y + 28 = 0 \\quad \\Rightarrow \\quad 2x = 8y - 28 \\quad \\Rightarrow \\quad": 1
+    },
+    "ground_truth": [
+      "-2"
+    ]
+  },
+  {
+    "data_id": 256,
+    "most_common_answer": "is not correct. The kinetic energy of an electron with a momentum of \\(1000 \\, MeV/c\\) can be calculated using the relativistic relationship between momentum and energy",
+    "all_predicted_answers": [
+      "is not correct. The kinetic energy of an electron with a momentum of \\(1000 \\, MeV/c\\) can be calculated using the relativistic relationship between momentum and energy"
+    ],
+    "answer_distribution": {
+      "is not correct. The kinetic energy of an electron with a momentum of \\(1000 \\, MeV/c\\) can be calculated using the relativistic relationship between momentum and energy": 1
+    },
+    "ground_truth": [
+      "999.5"
+    ]
+  },
+  {
+    "data_id": 67,
+    "most_common_answer": "is correct",
+    "all_predicted_answers": [
+      "is correct"
+    ],
+    "answer_distribution": {
+      "is correct": 1
+    },
+    "ground_truth": [
+      "1.5"
+    ]
+  },
+  {
+    "data_id": 107,
+    "most_common_answer": "is correct",
+    "all_predicted_answers": [
+      "is correct"
+    ],
+    "answer_distribution": {
+      "is correct": 1
+    },
+    "ground_truth": [
+      "0.36"
+    ]
+  },
+  {
+    "data_id": 10,
+    "most_common_answer": "is correct",
+    "all_predicted_answers": [
+      "is correct"
+    ],
+    "answer_distribution": {
+      "is correct": 1
+    },
+    "ground_truth": [
+      "2.0"
+    ]
+  },
+  {
+    "data_id": 281,
+    "most_common_answer": "Yes, the proposed change in pressure that indicates a change of \\(1.00 \\, \\text{K}\\) is approximately \\(0.0245 \\, \\text{kPa}\\)",
+    "all_predicted_answers": [
+      "Yes, the proposed change in pressure that indicates a change of \\(1.00 \\, \\text{K}\\) is approximately \\(0.0245 \\, \\text{kPa}\\)"
+    ],
+    "answer_distribution": {
+      "Yes, the proposed change in pressure that indicates a change of \\(1.00 \\, \\text{K}\\) is approximately \\(0.0245 \\, \\text{kPa}\\)": 1
+    },
+    "ground_truth": [
+      "0.0245"
+    ]
+  },
+  {
+    "data_id": 96,
+    "most_common_answer": "Since \\( Y_1^1(\\theta, \\phi) \\) is a spherical harmonic, it is independent of \\( r \\) and can be treated as a function of \\( \\theta \\) and \\( \\phi \\) only. Therefore, we can set \\( u = Y_1^1(\\theta, \\phi) \\) and",
+    "all_predicted_answers": [
+      "Since \\( Y_1^1(\\theta, \\phi) \\) is a spherical harmonic, it is independent of \\( r \\) and can be treated as a function of \\( \\theta \\) and \\( \\phi \\) only. Therefore, we can set \\( u = Y_1^1(\\theta, \\phi) \\) and"
+    ],
+    "answer_distribution": {
+      "Since \\( Y_1^1(\\theta, \\phi) \\) is a spherical harmonic, it is independent of \\( r \\) and can be treated as a function of \\( \\theta \\) and \\( \\phi \\) only. Therefore, we can set \\( u = Y_1^1(\\theta, \\phi) \\) and": 1
+    },
+    "ground_truth": [
+      "-2"
+    ]
+  },
+  {
+    "data_id": 203,
+    "most_common_answer": "Gravitational Force",
+    "all_predicted_answers": [
+      "Gravitational Force"
+    ],
+    "answer_distribution": {
+      "Gravitational Force": 1
+    },
+    "ground_truth": [
+      "9.780"
+    ]
+  },
+  {
+    "data_id": 278,
+    "most_common_answer": "Yes, the proposed wave functions are correct. A $0 \\rightarrow 1$ vibrational transition is allowed because the integral of the product of the wave functions corresponding to these states is non-zero. In contrast, a $0 \\rightarrow 2$ transition is forbidden because the integral of the product of the wave functions corresponding to these states results in zero",
+    "all_predicted_answers": [
+      "Yes, the proposed wave functions are correct. A $0 \\rightarrow 1$ vibrational transition is allowed because the integral of the product of the wave functions corresponding to these states is non-zero. In contrast, a $0 \\rightarrow 2$ transition is forbidden because the integral of the product of the wave functions corresponding to these states results in zero"
+    ],
+    "answer_distribution": {
+      "Yes, the proposed wave functions are correct. A $0 \\rightarrow 1$ vibrational transition is allowed because the integral of the product of the wave functions corresponding to these states is non-zero. In contrast, a $0 \\rightarrow 2$ transition is forbidden because the integral of the product of the wave functions corresponding to these states results in zero": 1
+    },
+    "ground_truth": [
+      "0"
+    ]
+  },
+  {
+    "data_id": 148,
+    "most_common_answer": "5.70 = \\left(8.99 \\times 10^9",
+    "all_predicted_answers": [
+      "5.70 = \\left(8.99 \\times 10^9"
+    ],
+    "answer_distribution": {
+      "5.70 = \\left(8.99 \\times 10^9": 1
+    },
+    "ground_truth": [
+      "1.39"
+    ]
+  },
+  {
+    "data_id": 270,
+    "most_common_answer": "Q = \\",
+    "all_predicted_answers": [
+      "Q = \\"
+    ],
+    "answer_distribution": {
+      "Q = \\": 1
+    },
+    "ground_truth": [
+      "2.00"
+    ]
+  },
+  {
+    "data_id": 175,
+    "most_common_answer": "Yes, the initial values are correct",
+    "all_predicted_answers": [
+      "Yes, the initial values are correct"
+    ],
+    "answer_distribution": {
+      "Yes, the initial values are correct": 1
+    },
+    "ground_truth": [
+      "30"
+    ]
+  },
+  {
+    "data_id": 272,
+    "most_common_answer": "Yes, the proposed total charge in coulombs of \\( 75.0 \\, \\text{kg} \\) of electrons is approximately \\( -1.32 \\times 10^{13} \\, \\text{C} \\)",
+    "all_predicted_answers": [
+      "Yes, the proposed total charge in coulombs of \\( 75.0 \\, \\text{kg} \\) of electrons is approximately \\( -1.32 \\times 10^{13} \\, \\text{C} \\)"
+    ],
+    "answer_distribution": {
+      "Yes, the proposed total charge in coulombs of \\( 75.0 \\, \\text{kg} \\) of electrons is approximately \\( -1.32 \\times 10^{13} \\, \\text{C} \\)": 1
+    },
+    "ground_truth": [
+      "-1.32"
+    ]
+  },
+  {
+    "data_id": 91,
+    "most_common_answer": "4",
+    "all_predicted_answers": [
+      "4"
+    ],
+    "answer_distribution": {
+      "4": 1
+    },
+    "ground_truth": [
+      "0.59"
+    ]
+  },
+  {
+    "data_id": 289,
+    "most_common_answer": "The calculated effective gravitational acceleration at the poles \\( g_p \\approx 9.832 \\, \\text{m/s}^2 \\) agrees well with the value obtained from the formula, confirming the accuracy of both methods",
+    "all_predicted_answers": [
+      "The calculated effective gravitational acceleration at the poles \\( g_p \\approx 9.832 \\, \\text{m/s}^2 \\) agrees well with the value obtained from the formula, confirming the accuracy of both methods"
+    ],
+    "answer_distribution": {
+      "The calculated effective gravitational acceleration at the poles \\( g_p \\approx 9.832 \\, \\text{m/s}^2 \\) agrees well with the value obtained from the formula, confirming the accuracy of both methods": 1
+    },
+    "ground_truth": [
+      "9.832"
+    ]
+  },
+  {
+    "data_id": 279,
+    "most_common_answer": "Yes, the proposed value is correct. The entropy of vaporization of chloroform (\\( \\text{CHCl}_3 \\)) at its normal boiling point of 334.88 K is approximately \\( 87.8 \\, \\text{J/(mol·K)} \\)",
+    "all_predicted_answers": [
+      "Yes, the proposed value is correct. The entropy of vaporization of chloroform (\\( \\text{CHCl}_3 \\)) at its normal boiling point of 334.88 K is approximately \\( 87.8 \\, \\text{J/(mol·K)} \\)"
+    ],
+    "answer_distribution": {
+      "Yes, the proposed value is correct. The entropy of vaporization of chloroform (\\( \\text{CHCl}_3 \\)) at its normal boiling point of 334.88 K is approximately \\( 87.8 \\, \\text{J/(mol·K)} \\)": 1
+    },
+    "ground_truth": [
+      "+87.8"
+    ]
+  },
+  {
+    "data_id": 240,
+    "most_common_answer": "No, the proposed calculation is not correct. The round trip distance is not the first step; instead, you need to calculate the time experienced by the astronaut using time dilation due to their speed",
+    "all_predicted_answers": [
+      "No, the proposed calculation is not correct. The round trip distance is not the first step; instead, you need to calculate the time experienced by the astronaut using time dilation due to their speed"
+    ],
+    "answer_distribution": {
+      "No, the proposed calculation is not correct. The round trip distance is not the first step; instead, you need to calculate the time experienced by the astronaut using time dilation due to their speed": 1
+    },
+    "ground_truth": [
+      "25.4"
+    ]
+  },
+  {
+    "data_id": 264,
+    "most_common_answer": "is correct. The work done (\\( w \\)) during the process is \\( 0 \\, \\text{J} \\) because the volume is fixed, meaning there is no expansion or compression work done by the gas",
+    "all_predicted_answers": [
+      "is correct. The work done (\\( w \\)) during the process is \\( 0 \\, \\text{J} \\) because the volume is fixed, meaning there is no expansion or compression work done by the gas"
+    ],
+    "answer_distribution": {
+      "is correct. The work done (\\( w \\)) during the process is \\( 0 \\, \\text{J} \\) because the volume is fixed, meaning there is no expansion or compression work done by the gas": 1
+    },
+    "ground_truth": [
+      "0"
+    ]
+  },
+  {
+    "data_id": 104,
+    "most_common_answer": "\\Delta p \\geq \\frac{1.055 \\times 10^{-34}}{2 \\times 10 \\times 10^{-12}} = \\frac{1.055 \\times 10^{-34}}{2 \\times 10^{-11}} = 5.275 \\times",
+    "all_predicted_answers": [
+      "\\Delta p \\geq \\frac{1.055 \\times 10^{-34}}{2 \\times 10 \\times 10^{-12}} = \\frac{1.055 \\times 10^{-34}}{2 \\times 10^{-11}} = 5.275 \\times"
+    ],
+    "answer_distribution": {
+      "\\Delta p \\geq \\frac{1.055 \\times 10^{-34}}{2 \\times 10 \\times 10^{-12}} = \\frac{1.055 \\times 10^{-34}}{2 \\times 10^{-11}} = 5.275 \\times": 1
+    },
+    "ground_truth": [
+      "6.6"
+    ]
+  },
+  {
+    "data_id": 209,
+    "most_common_answer": "Now",
+    "all_predicted_answers": [
+      "Now"
+    ],
+    "answer_distribution": {
+      "Now": 1
+    },
+    "ground_truth": [
+      "3.07"
+    ]
+  },
+  {
+    "data_id": 126,
+    "most_common_answer": "P(X > Y + 15) =",
+    "all_predicted_answers": [
+      "P(X > Y + 15) ="
+    ],
+    "answer_distribution": {
+      "P(X > Y + 15) =": 1
+    },
+    "ground_truth": [
+      "0.3085"
+    ]
+  },
+  {
+    "data_id": 7,
+    "most_common_answer": "dA = w \\, dl + l \\, dw = 24 \\, \\text{cm} \\times 0.1 \\, \\text{cm} + 30 \\, \\text{cm} \\times 0",
+    "all_predicted_answers": [
+      "dA = w \\, dl + l \\, dw = 24 \\, \\text{cm} \\times 0.1 \\, \\text{cm} + 30 \\, \\text{cm} \\times 0"
+    ],
+    "answer_distribution": {
+      "dA = w \\, dl + l \\, dw = 24 \\, \\text{cm} \\times 0.1 \\, \\text{cm} + 30 \\, \\text{cm} \\times 0": 1
+    },
+    "ground_truth": [
+      "5.4"
+    ]
+  },
+  {
+    "data_id": 181,
+    "most_common_answer": "\\text{Average Velocity} = \\frac{y(2.5) - y(2)}{2.5 - 2} = \\frac{0 -",
+    "all_predicted_answers": [
+      "\\text{Average Velocity} = \\frac{y(2.5) - y(2)}{2.5 - 2} = \\frac{0 -"
+    ],
+    "answer_distribution": {
+      "\\text{Average Velocity} = \\frac{y(2.5) - y(2)}{2.5 - 2} = \\frac{0 -": 1
+    },
+    "ground_truth": [
+      "-32"
+    ]
+  },
+  {
+    "data_id": 182,
+    "most_common_answer": "\\frac{4.312}{0.4} = 10.78",
+    "all_predicted_answers": [
+      "\\frac{4.312}{0.4} = 10.78"
+    ],
+    "answer_distribution": {
+      "\\frac{4.312}{0.4} = 10.78": 1
+    },
+    "ground_truth": [
+      "117"
+    ]
+  },
+  {
+    "data_id": 135,
+    "most_common_answer": "Correct",
+    "all_predicted_answers": [
+      "Correct"
+    ],
+    "answer_distribution": {
+      "Correct": 1
+    },
+    "ground_truth": [
+      "8.99"
+    ]
+  },
+  {
+    "data_id": 14,
+    "most_common_answer": "Find \\( z_{\\alpha/2} \\)",
+    "all_predicted_answers": [
+      "Find \\( z_{\\alpha/2} \\)"
+    ],
+    "answer_distribution": {
+      "Find \\( z_{\\alpha/2} \\)": 1
+    },
+    "ground_truth": [
+      "144"
+    ]
+  },
+  {
+    "data_id": 21,
+    "most_common_answer": "Correct",
+    "all_predicted_answers": [
+      "Correct"
+    ],
+    "answer_distribution": {
+      "Correct": 1
+    },
+    "ground_truth": [
+      "24"
+    ]
+  },
+  {
+    "data_id": 22,
+    "most_common_answer": "Next, we standardize the variable to find the probabilities:",
+    "all_predicted_answers": [
+      "Next, we standardize the variable to find the probabilities:"
+    ],
+    "answer_distribution": {
+      "Next, we standardize the variable to find the probabilities:": 1
+    },
+    "ground_truth": [
+      "0.4772"
+    ]
+  },
+  {
+    "data_id": 34,
+    "most_common_answer": "In our case, \\( a = 4 \\) and \\( b = 7",
+    "all_predicted_answers": [
+      "In our case, \\( a = 4 \\) and \\( b = 7"
+    ],
+    "answer_distribution": {
+      "In our case, \\( a = 4 \\) and \\( b = 7": 1
+    },
+    "ground_truth": [
+      "840"
+    ]
+  },
+  {
+    "data_id": 63,
+    "most_common_answer": "Given that the mole fraction of A in the vapor is 0.610, we can find the mole fraction of A",
+    "all_predicted_answers": [
+      "Given that the mole fraction of A in the vapor is 0.610, we can find the mole fraction of A"
+    ],
+    "answer_distribution": {
+      "Given that the mole fraction of A in the vapor is 0.610, we can find the mole fraction of A": 1
+    },
+    "ground_truth": [
+      "0.466"
+    ]
+  },
+  {
+    "data_id": 69,
+    "most_common_answer": "Find the mean of \\( Z \\)",
+    "all_predicted_answers": [
+      "Find the mean of \\( Z \\)"
+    ],
+    "answer_distribution": {
+      "Find the mean of \\( Z \\)": 1
+    },
+    "ground_truth": [
+      "0.4207"
+    ]
+  },
+  {
+    "data_id": 87,
+    "most_common_answer": "3. For \\( [1, 2]",
+    "all_predicted_answers": [
+      "3. For \\( [1, 2]"
+    ],
+    "answer_distribution": {
+      "3. For \\( [1, 2]": 1
+    },
+    "ground_truth": [
+      "-11.875"
+    ]
+  },
+  {
+    "data_id": 95,
+    "most_common_answer": "Mean and Variance of Uniform Distribution",
+    "all_predicted_answers": [
+      "Mean and Variance of Uniform Distribution"
+    ],
+    "answer_distribution": {
+      "Mean and Variance of Uniform Distribution": 1
+    },
+    "ground_truth": [
+      "0.4772"
+    ]
+  },
+  {
+    "data_id": 102,
+    "most_common_answer": "Calculating the probability of drawing two red balls:",
+    "all_predicted_answers": [
+      "Calculating the probability of drawing two red balls:"
+    ],
+    "answer_distribution": {
+      "Calculating the probability of drawing two red balls:": 1
+    },
+    "ground_truth": [
+      "11"
+    ]
+  },
+  {
+    "data_id": 123,
+    "most_common_answer": "Calculate the mean and variance of \\( Y \\)",
+    "all_predicted_answers": [
+      "Calculate the mean and variance of \\( Y \\)"
+    ],
+    "answer_distribution": {
+      "Calculate the mean and variance of \\( Y \\)": 1
+    },
+    "ground_truth": [
+      "0.85"
+    ]
+  },
+  {
+    "data_id": 198,
+    "most_common_answer": "P(0 \\leq x \\leq 2)",
+    "all_predicted_answers": [
+      "P(0 \\leq x \\leq 2)"
+    ],
+    "answer_distribution": {
+      "P(0 \\leq x \\leq 2)": 1
+    },
+    "ground_truth": [
+      "0.4908"
+    ]
+  },
+  {
+    "data_id": 225,
+    "most_common_answer": "\\[",
+    "all_predicted_answers": [
+      "\\["
+    ],
+    "answer_distribution": {
+      "\\[": 1
+    },
+    "ground_truth": [
+      "0.8185"
+    ]
+  },
+  {
+    "data_id": 266,
+    "most_common_answer": "Work to lift the coal",
+    "all_predicted_answers": [
+      "Work to lift the coal"
+    ],
+    "answer_distribution": {
+      "Work to lift the coal": 1
+    },
+    "ground_truth": [
+      "650000"
+    ]
+  },
+  {
+    "data_id": 268,
+    "most_common_answer": "is correct. It will take 540 seconds for the same volume of oxygen gas to effuse under the same temperature and pressure",
+    "all_predicted_answers": [
+      "is correct. It will take 540 seconds for the same volume of oxygen gas to effuse under the same temperature and pressure"
+    ],
+    "answer_distribution": {
+      "is correct. It will take 540 seconds for the same volume of oxygen gas to effuse under the same temperature and pressure": 1
+    },
+    "ground_truth": [
+      "537"
+    ]
+  },
+  {
+    "data_id": 284,
+    "most_common_answer": "According to thermodynamic relations, we know",
+    "all_predicted_answers": [
+      "According to thermodynamic relations, we know"
+    ],
+    "answer_distribution": {
+      "According to thermodynamic relations, we know": 1
+    },
+    "ground_truth": [
+      "-36.5"
+    ]
+  },
+  {
+    "data_id": 52,
+    "most_common_answer": "is not correct. To calculate the number of photons, you need to use the energy of a single photon and then divide the total energy of the light pulse by that energy",
+    "all_predicted_answers": [
+      "is not correct. To calculate the number of photons, you need to use the energy of a single photon and then divide the total energy of the light pulse by that energy"
+    ],
+    "answer_distribution": {
+      "is not correct. To calculate the number of photons, you need to use the energy of a single photon and then divide the total energy of the light pulse by that energy": 1
+    },
+    "ground_truth": [
+      "1.07"
+    ]
+  },
+  {
+    "data_id": 190,
+    "most_common_answer": "Coulomb's Law for Electrical Force (F_e)",
+    "all_predicted_answers": [
+      "Coulomb's Law for Electrical Force (F_e)"
+    ],
+    "answer_distribution": {
+      "Coulomb's Law for Electrical Force (F_e)": 1
+    },
+    "ground_truth": [
+      "4.16"
+    ]
+  },
+  {
+    "data_id": 128,
+    "most_common_answer": "\\]",
+    "all_predicted_answers": [
+      "\\]"
+    ],
+    "answer_distribution": {
+      "\\]": 1
+    },
+    "ground_truth": [
+      "1.602"
+    ]
+  },
+  {
+    "data_id": 151,
+    "most_common_answer": "E \\cdot 4\\pi (0.12)^2 = \\frac{4.00 \\times 10",
+    "all_predicted_answers": [
+      "E \\cdot 4\\pi (0.12)^2 = \\frac{4.00 \\times 10"
+    ],
+    "answer_distribution": {
+      "E \\cdot 4\\pi (0.12)^2 = \\frac{4.00 \\times 10": 1
+    },
+    "ground_truth": [
+      "2.50"
+    ]
+  },
+  {
+    "data_id": 0,
+    "most_common_answer": "No, the proposed age of 15,310 years is incorrect. The correct age of the wood is approximately 11,460 years",
+    "all_predicted_answers": [
+      "No, the proposed age of 15,310 years is incorrect. The correct age of the wood is approximately 11,460 years"
+    ],
+    "answer_distribution": {
+      "No, the proposed age of 15,310 years is incorrect. The correct age of the wood is approximately 11,460 years": 1
+    },
+    "ground_truth": [
+      "4.86"
+    ]
+  },
+  {
+    "data_id": 1,
+    "most_common_answer": "is: The width of the well is approximately \\( 0.80 \\, \\text{nm} \\)",
+    "all_predicted_answers": [
+      "is: The width of the well is approximately \\( 0.80 \\, \\text{nm} \\)"
+    ],
+    "answer_distribution": {
+      "is: The width of the well is approximately \\( 0.80 \\, \\text{nm} \\)": 1
+    },
+    "ground_truth": [
+      "0.264"
+    ]
+  },
+  {
+    "data_id": 2,
+    "most_common_answer": "- \\( n_x =",
+    "all_predicted_answers": [
+      "- \\( n_x ="
+    ],
+    "answer_distribution": {
+      "- \\( n_x =": 1
+    },
+    "ground_truth": [
+      "1.6"
+    ]
+  },
+  {
+    "data_id": 3,
+    "most_common_answer": "F = k \\frac{\\left",
+    "all_predicted_answers": [
+      "F = k \\frac{\\left"
+    ],
+    "answer_distribution": {
+      "F = k \\frac{\\left": 1
+    },
+    "ground_truth": [
+      "3.8"
+    ]
+  },
+  {
+    "data_id": 4,
+    "most_common_answer": "Yes, that is correct. The first step in solving the problem is to calculate the gravitational force components acting on the skier as they descend the hill. This will help determine the skier's acceleration down the incline and ultimately their velocity at the bottom of the hill",
+    "all_predicted_answers": [
+      "Yes, that is correct. The first step in solving the problem is to calculate the gravitational force components acting on the skier as they descend the hill. This will help determine the skier's acceleration down the incline and ultimately their velocity at the bottom of the hill"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct. The first step in solving the problem is to calculate the gravitational force components acting on the skier as they descend the hill. This will help determine the skier's acceleration down the incline and ultimately their velocity at the bottom of the hill": 1
+    },
+    "ground_truth": [
+      "15.6"
+    ]
+  },
+  {
+    "data_id": 6,
+    "most_common_answer": "is incorrect. The satellite will be at its highest point in the orbit when it has rotated $90^{\\circ}$ from perigee, which is the apogee. The distance above Earth at that point is the apogee height of $3,500 \\mathrm{~km}$ above the surface, plus the Earth's radius (approximately $6,371 \\mathrm{~km}$)",
+    "all_predicted_answers": [
+      "is incorrect. The satellite will be at its highest point in the orbit when it has rotated $90^{\\circ}$ from perigee, which is the apogee. The distance above Earth at that point is the apogee height of $3,500 \\mathrm{~km}$ above the surface, plus the Earth's radius (approximately $6,371 \\mathrm{~km}$)"
+    ],
+    "answer_distribution": {
+      "is incorrect. The satellite will be at its highest point in the orbit when it has rotated $90^{\\circ}$ from perigee, which is the apogee. The distance above Earth at that point is the apogee height of $3,500 \\mathrm{~km}$ above the surface, plus the Earth's radius (approximately $6,371 \\mathrm{~km}$)": 1
+    },
+    "ground_truth": [
+      "1590"
+    ]
+  },
+  {
+    "data_id": 8,
+    "most_common_answer": "Yes, the proposed method is correct",
+    "all_predicted_answers": [
+      "Yes, the proposed method is correct"
+    ],
+    "answer_distribution": {
+      "Yes, the proposed method is correct": 1
+    },
+    "ground_truth": [
+      "205"
+    ]
+  },
+  {
+    "data_id": 9,
+    "most_common_answer": "Therefore, the proposed calculation of \\( P(\\text{All survive}) \\approx (0.905",
+    "all_predicted_answers": [
+      "Therefore, the proposed calculation of \\( P(\\text{All survive}) \\approx (0.905"
+    ],
+    "answer_distribution": {
+      "Therefore, the proposed calculation of \\( P(\\text{All survive}) \\approx (0.905": 1
+    },
+    "ground_truth": [
+      "0.03"
+    ]
+  },
+  {
+    "data_id": 12,
+    "most_common_answer": "where \\( m \\) is the mass of the proton, approximately \\( 1.67 \\times 10^{-27} \\, \\mathrm",
+    "all_predicted_answers": [
+      "where \\( m \\) is the mass of the proton, approximately \\( 1.67 \\times 10^{-27} \\, \\mathrm"
+    ],
+    "answer_distribution": {
+      "where \\( m \\) is the mass of the proton, approximately \\( 1.67 \\times 10^{-27} \\, \\mathrm": 1
+    },
+    "ground_truth": [
+      "1.92"
+    ]
+  },
+  {
+    "data_id": 13,
+    "most_common_answer": "2. Now multiply by the mass: \\( 65 \\, \\text{kg} \\times 6",
+    "all_predicted_answers": [
+      "2. Now multiply by the mass: \\( 65 \\, \\text{kg} \\times 6"
+    ],
+    "answer_distribution": {
+      "2. Now multiply by the mass: \\( 65 \\, \\text{kg} \\times 6": 1
+    },
+    "ground_truth": [
+      "420"
+    ]
+  },
+  {
+    "data_id": 15,
+    "most_common_answer": "\\mu = \\frac{(1.00784)(34",
+    "all_predicted_answers": [
+      "\\mu = \\frac{(1.00784)(34"
+    ],
+    "answer_distribution": {
+      "\\mu = \\frac{(1.00784)(34": 1
+    },
+    "ground_truth": [
+      "129"
+    ]
+  },
+  {
+    "data_id": 16,
+    "most_common_answer": "So, the correct approach involves both calculating the average kinetic energy and then using that to find the wavelength",
+    "all_predicted_answers": [
+      "So, the correct approach involves both calculating the average kinetic energy and then using that to find the wavelength"
+    ],
+    "answer_distribution": {
+      "So, the correct approach involves both calculating the average kinetic energy and then using that to find the wavelength": 1
+    },
+    "ground_truth": [
+      "226"
+    ]
+  },
+  {
+    "data_id": 18,
+    "most_common_answer": "E_k = \\frac{3}{2} k_B T = \\frac{3}{2} (1.38 \\times 10^{-23} \\",
+    "all_predicted_answers": [
+      "E_k = \\frac{3}{2} k_B T = \\frac{3}{2} (1.38 \\times 10^{-23} \\"
+    ],
+    "answer_distribution": {
+      "E_k = \\frac{3}{2} k_B T = \\frac{3}{2} (1.38 \\times 10^{-23} \\": 1
+    },
+    "ground_truth": [
+      "226"
+    ]
+  },
+  {
+    "data_id": 19,
+    "most_common_answer": "F\\left(\\frac{3}{4}\\right) = \\left(\\frac{3}{4}\\",
+    "all_predicted_answers": [
+      "F\\left(\\frac{3}{4}\\right) = \\left(\\frac{3}{4}\\"
+    ],
+    "answer_distribution": {
+      "F\\left(\\frac{3}{4}\\right) = \\left(\\frac{3}{4}\\": 1
+    },
+    "ground_truth": [
+      "0.178"
+    ]
+  },
+  {
+    "data_id": 24,
+    "most_common_answer": "The net amount of charge contained in the cube is \\( 8.85 \\times 10^{-6} \\, \\text{C} \\)",
+    "all_predicted_answers": [
+      "The net amount of charge contained in the cube is \\( 8.85 \\times 10^{-6} \\, \\text{C} \\)"
+    ],
+    "answer_distribution": {
+      "The net amount of charge contained in the cube is \\( 8.85 \\times 10^{-6} \\, \\text{C} \\)": 1
+    },
+    "ground_truth": [
+      "3.54"
+    ]
+  },
+  {
+    "data_id": 25,
+    "most_common_answer": "\\[ P_{\\text{solution}} = 33",
+    "all_predicted_answers": [
+      "\\[ P_{\\text{solution}} = 33"
+    ],
+    "answer_distribution": {
+      "\\[ P_{\\text{solution}} = 33": 1
+    },
+    "ground_truth": [
+      "170"
+    ]
+  },
+  {
+    "data_id": 26,
+    "most_common_answer": "= 1 - P(X_1 \\leq 8, X_2 \\leq 8",
+    "all_predicted_answers": [
+      "= 1 - P(X_1 \\leq 8, X_2 \\leq 8"
+    ],
+    "answer_distribution": {
+      "= 1 - P(X_1 \\leq 8, X_2 \\leq 8": 1
+    },
+    "ground_truth": [
+      "0.0384"
+    ]
+  },
+  {
+    "data_id": 27,
+    "most_common_answer": "Setting these two expressions for \\(E_{photon}\\) equal",
+    "all_predicted_answers": [
+      "Setting these two expressions for \\(E_{photon}\\) equal"
+    ],
+    "answer_distribution": {
+      "Setting these two expressions for \\(E_{photon}\\) equal": 1
+    },
+    "ground_truth": [
+      "4"
+    ]
+  },
+  {
+    "data_id": 28,
+    "most_common_answer": "Thus, the volume of water is approximately 67.8 cm³",
+    "all_predicted_answers": [
+      "Thus, the volume of water is approximately 67.8 cm³"
+    ],
+    "answer_distribution": {
+      "Thus, the volume of water is approximately 67.8 cm³": 1
+    },
+    "ground_truth": [
+      "-8"
+    ]
+  },
+  {
+    "data_id": 29,
+    "most_common_answer": "E_1 - E",
+    "all_predicted_answers": [
+      "E_1 - E"
+    ],
+    "answer_distribution": {
+      "E_1 - E": 1
+    },
+    "ground_truth": [
+      "432"
+    ]
+  },
+  {
+    "data_id": 30,
+    "most_common_answer": "The areas",
+    "all_predicted_answers": [
+      "The areas"
+    ],
+    "answer_distribution": {
+      "The areas": 1
+    },
+    "ground_truth": [
+      "1110"
+    ]
+  },
+  {
+    "data_id": 31,
+    "most_common_answer": "Initial Attraction",
+    "all_predicted_answers": [
+      "Initial Attraction"
+    ],
+    "answer_distribution": {
+      "Initial Attraction": 1
+    },
+    "ground_truth": [
+      "-1.00"
+    ]
+  },
+  {
+    "data_id": 32,
+    "most_common_answer": "To find P(I | L), we can use the total probability of irregular heartbeat and the given percentages. However, since we don't have the exact percentage of low blood pressure patients with an irregular heartbeat, we can only express it in terms of the",
+    "all_predicted_answers": [
+      "To find P(I | L), we can use the total probability of irregular heartbeat and the given percentages. However, since we don't have the exact percentage of low blood pressure patients with an irregular heartbeat, we can only express it in terms of the"
+    ],
+    "answer_distribution": {
+      "To find P(I | L), we can use the total probability of irregular heartbeat and the given percentages. However, since we don't have the exact percentage of low blood pressure patients with an irregular heartbeat, we can only express it in terms of the": 1
+    },
+    "ground_truth": [
+      "15.1"
+    ]
+  },
+  {
+    "data_id": 33,
+    "most_common_answer": "is \\(\\frac{1}{3}\\)",
+    "all_predicted_answers": [
+      "is \\(\\frac{1}{3}\\)"
+    ],
+    "answer_distribution": {
+      "is \\(\\frac{1}{3}\\)": 1
+    },
+    "ground_truth": [
+      "0.2"
+    ]
+  },
+  {
+    "data_id": 35,
+    "most_common_answer": "is correct",
+    "all_predicted_answers": [
+      "is correct"
+    ],
+    "answer_distribution": {
+      "is correct": 1
+    },
+    "ground_truth": [
+      "1838.50666349"
+    ]
+  },
+  {
+    "data_id": 36,
+    "most_common_answer": "\\(2.8 \\times 10^6 \\mathrm{~kg}\\)",
+    "all_predicted_answers": [
+      "\\(2.8 \\times 10^6 \\mathrm{~kg}\\)"
+    ],
+    "answer_distribution": {
+      "\\(2.8 \\times 10^6 \\mathrm{~kg}\\)": 1
+    },
+    "ground_truth": [
+      "2.16"
+    ]
+  },
+  {
+    "data_id": 37,
+    "most_common_answer": "\\]",
+    "all_predicted_answers": [
+      "\\]"
+    ],
+    "answer_distribution": {
+      "\\]": 1
+    },
+    "ground_truth": [
+      "0.9966"
+    ]
+  },
+  {
+    "data_id": 38,
+    "most_common_answer": "P(B \\cap A_3) = P(B \\mid A_3) P(A_3) = 0.8",
+    "all_predicted_answers": [
+      "P(B \\cap A_3) = P(B \\mid A_3) P(A_3) = 0.8"
+    ],
+    "answer_distribution": {
+      "P(B \\cap A_3) = P(B \\mid A_3) P(A_3) = 0.8": 1
+    },
+    "ground_truth": [
+      "0.686"
+    ]
+  },
+  {
+    "data_id": 39,
+    "most_common_answer": "dS \\approx \\frac{\\partial S}{\\partial w} \\cdot 0.02w + \\frac{\\partial S}{\\partial h} \\cdot 0.02",
+    "all_predicted_answers": [
+      "dS \\approx \\frac{\\partial S}{\\partial w} \\cdot 0.02w + \\frac{\\partial S}{\\partial h} \\cdot 0.02"
+    ],
+    "answer_distribution": {
+      "dS \\approx \\frac{\\partial S}{\\partial w} \\cdot 0.02w + \\frac{\\partial S}{\\partial h} \\cdot 0.02": 1
+    },
+    "ground_truth": [
+      "2.3"
+    ]
+  },
+  {
+    "data_id": 40,
+    "most_common_answer": "Yes, that step is correct. To express the charge \\( q \\) on the oil drop in terms of elementary charge \\( e \\), you would divide the calculated charge \\( q \\) by the elementary charge \\( e \\) (approximately \\( 1.6 \\times 10^{-19} \\) coulombs). This will give you the number of elementary charges that correspond to the charge on the oil drop",
+    "all_predicted_answers": [
+      "Yes, that step is correct. To express the charge \\( q \\) on the oil drop in terms of elementary charge \\( e \\), you would divide the calculated charge \\( q \\) by the elementary charge \\( e \\) (approximately \\( 1.6 \\times 10^{-19} \\) coulombs). This will give you the number of elementary charges that correspond to the charge on the oil drop"
+    ],
+    "answer_distribution": {
+      "Yes, that step is correct. To express the charge \\( q \\) on the oil drop in terms of elementary charge \\( e \\), you would divide the calculated charge \\( q \\) by the elementary charge \\( e \\) (approximately \\( 1.6 \\times 10^{-19} \\) coulombs). This will give you the number of elementary charges that correspond to the charge on the oil drop": 1
+    },
+    "ground_truth": [
+      "-5"
+    ]
+  }
+]

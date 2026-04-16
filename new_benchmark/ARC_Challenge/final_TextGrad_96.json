@@ -1,0 +1,1250 @@
+[
+  {
+    "data_id": 224,
+    "most_common_answer": "is metals such as gold, silver, and copper, as well as rare earth elements like tantalum and gallium, which are nonrenewable resources used extensively in computers and electronics",
+    "all_predicted_answers": [
+      "is metals such as gold, silver, and copper, as well as rare earth elements like tantalum and gallium, which are nonrenewable resources used extensively in computers and electronics"
+    ],
+    "answer_distribution": {
+      "is metals such as gold, silver, and copper, as well as rare earth elements like tantalum and gallium, which are nonrenewable resources used extensively in computers and electronics": 1
+    },
+    "ground_truth": [
+      "gold"
+    ]
+  },
+  {
+    "data_id": 151,
+    "most_common_answer": "is that Michael should research the \"hematopoietic system\" in addition to the circulatory system. The hematopoietic system specifically focuses on the formation and production of blood cells, including red blood cells",
+    "all_predicted_answers": [
+      "is that Michael should research the \"hematopoietic system\" in addition to the circulatory system. The hematopoietic system specifically focuses on the formation and production of blood cells, including red blood cells"
+    ],
+    "answer_distribution": {
+      "is that Michael should research the \"hematopoietic system\" in addition to the circulatory system. The hematopoietic system specifically focuses on the formation and production of blood cells, including red blood cells": 1
+    },
+    "ground_truth": [
+      "skeletal system"
+    ]
+  },
+  {
+    "data_id": 216,
+    "most_common_answer": "is \"embryo.\" Both an apple seed and a fertilized egg contain an embryo stage that develops into a new organism",
+    "all_predicted_answers": [
+      "is \"embryo.\" Both an apple seed and a fertilized egg contain an embryo stage that develops into a new organism"
+    ],
+    "answer_distribution": {
+      "is \"embryo.\" Both an apple seed and a fertilized egg contain an embryo stage that develops into a new organism": 1
+    },
+    "ground_truth": [
+      "embryo"
+    ]
+  },
+  {
+    "data_id": 15,
+    "most_common_answer": "is correct but could be improved for clarity and completeness. A more precise question and a more detailed answer would enhance understanding. For example:",
+    "all_predicted_answers": [
+      "is correct but could be improved for clarity and completeness. A more precise question and a more detailed answer would enhance understanding. For example:"
+    ],
+    "answer_distribution": {
+      "is correct but could be improved for clarity and completeness. A more precise question and a more detailed answer would enhance understanding. For example:": 1
+    },
+    "ground_truth": [
+      "switch."
+    ]
+  },
+  {
+    "data_id": 125,
+    "most_common_answer": "Yes, the critique effectively highlights that green is a suitable choice for representing an estuary due to the blending of freshwater and saltwater, as well as the presence of diverse aquatic life. It also emphasizes the importance of reflecting the unique characteristics of estuaries rather than just the individual colors of the ocean and river. Overall, the rationale strengthens the argument for using green",
+    "all_predicted_answers": [
+      "Yes, the critique effectively highlights that green is a suitable choice for representing an estuary due to the blending of freshwater and saltwater, as well as the presence of diverse aquatic life. It also emphasizes the importance of reflecting the unique characteristics of estuaries rather than just the individual colors of the ocean and river. Overall, the rationale strengthens the argument for using green"
+    ],
+    "answer_distribution": {
+      "Yes, the critique effectively highlights that green is a suitable choice for representing an estuary due to the blending of freshwater and saltwater, as well as the presence of diverse aquatic life. It also emphasizes the importance of reflecting the unique characteristics of estuaries rather than just the individual colors of the ocean and river. Overall, the rationale strengthens the argument for using green": 1
+    },
+    "ground_truth": [
+      "green"
+    ]
+  },
+  {
+    "data_id": 165,
+    "most_common_answer": "correct. The zygote formed from an RR man and an rr woman would have the allele combination Rr, indicating the child can roll their tongue",
+    "all_predicted_answers": [
+      "correct. The zygote formed from an RR man and an rr woman would have the allele combination Rr, indicating the child can roll their tongue"
+    ],
+    "answer_distribution": {
+      "correct. The zygote formed from an RR man and an rr woman would have the allele combination Rr, indicating the child can roll their tongue": 1
+    },
+    "ground_truth": [
+      "Rr"
+    ]
+  },
+  {
+    "data_id": 171,
+    "most_common_answer": "is evaporation, but it should also include transpiration for a more comprehensive understanding of the processes that return water to the atmosphere",
+    "all_predicted_answers": [
+      "is evaporation, but it should also include transpiration for a more comprehensive understanding of the processes that return water to the atmosphere"
+    ],
+    "answer_distribution": {
+      "is evaporation, but it should also include transpiration for a more comprehensive understanding of the processes that return water to the atmosphere": 1
+    },
+    "ground_truth": [
+      "evaporation"
+    ]
+  },
+  {
+    "data_id": 14,
+    "most_common_answer": "is glucose. Additionally, it's important to note that oxygen is produced as a byproduct during photosynthesis, which enhances the understanding of the process",
+    "all_predicted_answers": [
+      "is glucose. Additionally, it's important to note that oxygen is produced as a byproduct during photosynthesis, which enhances the understanding of the process"
+    ],
+    "answer_distribution": {
+      "is glucose. Additionally, it's important to note that oxygen is produced as a byproduct during photosynthesis, which enhances the understanding of the process": 1
+    },
+    "ground_truth": [
+      "glucose"
+    ]
+  },
+  {
+    "data_id": 101,
+    "most_common_answer": "is that the largest organ in the human body is the skin",
+    "all_predicted_answers": [
+      "is that the largest organ in the human body is the skin"
+    ],
+    "answer_distribution": {
+      "is that the largest organ in the human body is the skin": 1
+    },
+    "ground_truth": [
+      "skin"
+    ]
+  },
+  {
+    "data_id": 203,
+    "most_common_answer": "is: \"A balance is used to measure mass",
+    "all_predicted_answers": [
+      "is: \"A balance is used to measure mass"
+    ],
+    "answer_distribution": {
+      "is: \"A balance is used to measure mass": 1
+    },
+    "ground_truth": [
+      "mass."
+    ]
+  },
+  {
+    "data_id": 11,
+    "most_common_answer": "is that an anemometer and a thermometer are used together to calculate wind chill, not to measure it directly",
+    "all_predicted_answers": [
+      "is that an anemometer and a thermometer are used together to calculate wind chill, not to measure it directly"
+    ],
+    "answer_distribution": {
+      "is that an anemometer and a thermometer are used together to calculate wind chill, not to measure it directly": 1
+    },
+    "ground_truth": [
+      "anemometer and thermometer"
+    ]
+  },
+  {
+    "data_id": 211,
+    "most_common_answer": "is that the force is transmitted as a **compression wave**, which is a type of mechanical wave. This accurately describes the way the impact travels through the rigid bodies of the bowling balls",
+    "all_predicted_answers": [
+      "is that the force is transmitted as a **compression wave**, which is a type of mechanical wave. This accurately describes the way the impact travels through the rigid bodies of the bowling balls"
+    ],
+    "answer_distribution": {
+      "is that the force is transmitted as a **compression wave**, which is a type of mechanical wave. This accurately describes the way the impact travels through the rigid bodies of the bowling balls": 1
+    },
+    "ground_truth": [
+      "longitudinal"
+    ]
+  },
+  {
+    "data_id": 73,
+    "most_common_answer": "correct in identifying sight and touch as the two senses that would best help measure hair length. However, it is important to emphasize that using a measuring tool, such as a ruler or tape measure, is necessary for precise measurements",
+    "all_predicted_answers": [
+      "correct in identifying sight and touch as the two senses that would best help measure hair length. However, it is important to emphasize that using a measuring tool, such as a ruler or tape measure, is necessary for precise measurements"
+    ],
+    "answer_distribution": {
+      "correct in identifying sight and touch as the two senses that would best help measure hair length. However, it is important to emphasize that using a measuring tool, such as a ruler or tape measure, is necessary for precise measurements": 1
+    },
+    "ground_truth": [
+      "Touch and sight"
+    ]
+  },
+  {
+    "data_id": 209,
+    "most_common_answer": "Yes, the critique is correct. The period of rotation for Earth is approximately 24 hours when referring to the solar day, but it is more accurately about 23.93 hours for the sidereal day. Clarifying this distinction enhances the precision of the answer",
+    "all_predicted_answers": [
+      "Yes, the critique is correct. The period of rotation for Earth is approximately 24 hours when referring to the solar day, but it is more accurately about 23.93 hours for the sidereal day. Clarifying this distinction enhances the precision of the answer"
+    ],
+    "answer_distribution": {
+      "Yes, the critique is correct. The period of rotation for Earth is approximately 24 hours when referring to the solar day, but it is more accurately about 23.93 hours for the sidereal day. Clarifying this distinction enhances the precision of the answer": 1
+    },
+    "ground_truth": [
+      "24 hours"
+    ]
+  },
+  {
+    "data_id": 232,
+    "most_common_answer": "correct. The scenario described leads to eutrophication, which results in algal blooms that, upon decomposition, consume oxygen and cause a decrease in dissolved oxygen levels in the water. Providing additional context about the process and its implications would enhance understanding, but the core answer regarding the decrease in oxygen is accurate",
+    "all_predicted_answers": [
+      "correct. The scenario described leads to eutrophication, which results in algal blooms that, upon decomposition, consume oxygen and cause a decrease in dissolved oxygen levels in the water. Providing additional context about the process and its implications would enhance understanding, but the core answer regarding the decrease in oxygen is accurate"
+    ],
+    "answer_distribution": {
+      "correct. The scenario described leads to eutrophication, which results in algal blooms that, upon decomposition, consume oxygen and cause a decrease in dissolved oxygen levels in the water. Providing additional context about the process and its implications would enhance understanding, but the core answer regarding the decrease in oxygen is accurate": 1
+    },
+    "ground_truth": [
+      "oxygen"
+    ]
+  },
+  {
+    "data_id": 58,
+    "most_common_answer": "Your critique accurately identifies the correct order based on the physics of light emission and temperature",
+    "all_predicted_answers": [
+      "Your critique accurately identifies the correct order based on the physics of light emission and temperature"
+    ],
+    "answer_distribution": {
+      "Your critique accurately identifies the correct order based on the physics of light emission and temperature": 1
+    },
+    "ground_truth": [
+      "Object 1, Object 3, Object 2"
+    ]
+  },
+  {
+    "data_id": 207,
+    "most_common_answer": "would acknowledge this variability",
+    "all_predicted_answers": [
+      "would acknowledge this variability"
+    ],
+    "answer_distribution": {
+      "would acknowledge this variability": 1
+    },
+    "ground_truth": [
+      "8"
+    ]
+  },
+  {
+    "data_id": 218,
+    "most_common_answer": "is **1.5 grams**. The calculation accurately reflects the change in volume and the corresponding mass based on the density of water",
+    "all_predicted_answers": [
+      "is **1.5 grams**. The calculation accurately reflects the change in volume and the corresponding mass based on the density of water"
+    ],
+    "answer_distribution": {
+      "is **1.5 grams**. The calculation accurately reflects the change in volume and the corresponding mass based on the density of water": 1
+    },
+    "ground_truth": [
+      "1.5 g"
+    ]
+  },
+  {
+    "data_id": 83,
+    "most_common_answer": "Yes, \"melting ice\" is a correct example of a physical change. It involves a change in state from solid to liquid while maintaining the same chemical composition (H2O). Your critique accurately supports this identification",
+    "all_predicted_answers": [
+      "Yes, \"melting ice\" is a correct example of a physical change. It involves a change in state from solid to liquid while maintaining the same chemical composition (H2O). Your critique accurately supports this identification"
+    ],
+    "answer_distribution": {
+      "Yes, \"melting ice\" is a correct example of a physical change. It involves a change in state from solid to liquid while maintaining the same chemical composition (H2O). Your critique accurately supports this identification": 1
+    },
+    "ground_truth": [
+      "ice cream melting"
+    ]
+  },
+  {
+    "data_id": 226,
+    "most_common_answer": "is that monomers combine to form polymers. This accurately describes the construction of macromolecules in biological systems",
+    "all_predicted_answers": [
+      "is that monomers combine to form polymers. This accurately describes the construction of macromolecules in biological systems"
+    ],
+    "answer_distribution": {
+      "is that monomers combine to form polymers. This accurately describes the construction of macromolecules in biological systems": 1
+    },
+    "ground_truth": [
+      "Protein is made up of amino acids."
+    ]
+  },
+  {
+    "data_id": 70,
+    "most_common_answer": "is 50 seconds. The calculation is accurate",
+    "all_predicted_answers": [
+      "is 50 seconds. The calculation is accurate"
+    ],
+    "answer_distribution": {
+      "is 50 seconds. The calculation is accurate": 1
+    },
+    "ground_truth": [
+      "50 s"
+    ]
+  },
+  {
+    "data_id": 52,
+    "most_common_answer": "Yes, the final speed of the meteor after experiencing friction with the atmosphere is correctly calculated as 34.98 km/sec. The critique highlights important aspects for clarity and precision in the explanation, which would enhance understanding",
+    "all_predicted_answers": [
+      "Yes, the final speed of the meteor after experiencing friction with the atmosphere is correctly calculated as 34.98 km/sec. The critique highlights important aspects for clarity and precision in the explanation, which would enhance understanding"
+    ],
+    "answer_distribution": {
+      "Yes, the final speed of the meteor after experiencing friction with the atmosphere is correctly calculated as 34.98 km/sec. The critique highlights important aspects for clarity and precision in the explanation, which would enhance understanding": 1
+    },
+    "ground_truth": [
+      "34.98 km/sec"
+    ]
+  },
+  {
+    "data_id": 154,
+    "most_common_answer": "should include both high pressure and high temperature, along with the presence of carbon, as necessary conditions for diamond formation",
+    "all_predicted_answers": [
+      "should include both high pressure and high temperature, along with the presence of carbon, as necessary conditions for diamond formation"
+    ],
+    "answer_distribution": {
+      "should include both high pressure and high temperature, along with the presence of carbon, as necessary conditions for diamond formation": 1
+    },
+    "ground_truth": [
+      "intense pressure"
+    ]
+  },
+  {
+    "data_id": 289,
+    "most_common_answer": "correct. Jeremy walked 1.5 kilometers in 30 minutes. The calculations are accurate",
+    "all_predicted_answers": [
+      "correct. Jeremy walked 1.5 kilometers in 30 minutes. The calculations are accurate"
+    ],
+    "answer_distribution": {
+      "correct. Jeremy walked 1.5 kilometers in 30 minutes. The calculations are accurate": 1
+    },
+    "ground_truth": [
+      "1.5 km"
+    ]
+  },
+  {
+    "data_id": 139,
+    "most_common_answer": "Yes, the critique is correct. The statement \"Bubbles formed on the eggshell\" is indeed an observation, but it could be enhanced by providing more detail about the bubbles, specifying the timing of their formation, and explaining the underlying chemical reaction. Additionally, mentioning the subsequent observation of the eggshell dissolving would give a more comprehensive view of the experiment",
+    "all_predicted_answers": [
+      "Yes, the critique is correct. The statement \"Bubbles formed on the eggshell\" is indeed an observation, but it could be enhanced by providing more detail about the bubbles, specifying the timing of their formation, and explaining the underlying chemical reaction. Additionally, mentioning the subsequent observation of the eggshell dissolving would give a more comprehensive view of the experiment"
+    ],
+    "answer_distribution": {
+      "Yes, the critique is correct. The statement \"Bubbles formed on the eggshell\" is indeed an observation, but it could be enhanced by providing more detail about the bubbles, specifying the timing of their formation, and explaining the underlying chemical reaction. Additionally, mentioning the subsequent observation of the eggshell dissolving would give a more comprehensive view of the experiment": 1
+    },
+    "ground_truth": [
+      "Bubbles appeared on the eggshell."
+    ]
+  },
+  {
+    "data_id": 89,
+    "most_common_answer": "is June. Florida receives the most sunlight energy during this month due to the tilt of the Earth's axis, resulting in longer days and a higher sun angle",
+    "all_predicted_answers": [
+      "is June. Florida receives the most sunlight energy during this month due to the tilt of the Earth's axis, resulting in longer days and a higher sun angle"
+    ],
+    "answer_distribution": {
+      "is June. Florida receives the most sunlight energy during this month due to the tilt of the Earth's axis, resulting in longer days and a higher sun angle": 1
+    },
+    "ground_truth": [
+      "June"
+    ]
+  },
+  {
+    "data_id": 244,
+    "most_common_answer": "Yes, your critique is correct. The statement that \"the best container for storing an unknown liquid is a glass container\" is indeed overly simplistic. The choice of container should take into account the chemical compatibility of the liquid, its physical properties, safety concerns, storage conditions, and any relevant regulatory guidelines. A more precise recommendation would consider these factors to ensure safe and effective storage",
+    "all_predicted_answers": [
+      "Yes, your critique is correct. The statement that \"the best container for storing an unknown liquid is a glass container\" is indeed overly simplistic. The choice of container should take into account the chemical compatibility of the liquid, its physical properties, safety concerns, storage conditions, and any relevant regulatory guidelines. A more precise recommendation would consider these factors to ensure safe and effective storage"
+    ],
+    "answer_distribution": {
+      "Yes, your critique is correct. The statement that \"the best container for storing an unknown liquid is a glass container\" is indeed overly simplistic. The choice of container should take into account the chemical compatibility of the liquid, its physical properties, safety concerns, storage conditions, and any relevant regulatory guidelines. A more precise recommendation would consider these factors to ensure safe and effective storage": 1
+    },
+    "ground_truth": [
+      "clearly labeled glass jar."
+    ]
+  },
+  {
+    "data_id": 26,
+    "most_common_answer": "Yes, the critique is valid. While \"latex or silicone\" is a reasonable starting point, specifying silicone as the preferred option due to its realism and non-allergenic properties would enhance the response. Additionally, considering the model's intended use and mentioning alternatives like foam, fabric, thermoplastic elastomers (TPE), or 3D-printed materials would provide a more comprehensive answer. Addressing safety concerns regarding latex allergies is also important",
+    "all_predicted_answers": [
+      "Yes, the critique is valid. While \"latex or silicone\" is a reasonable starting point, specifying silicone as the preferred option due to its realism and non-allergenic properties would enhance the response. Additionally, considering the model's intended use and mentioning alternatives like foam, fabric, thermoplastic elastomers (TPE), or 3D-printed materials would provide a more comprehensive answer. Addressing safety concerns regarding latex allergies is also important"
+    ],
+    "answer_distribution": {
+      "Yes, the critique is valid. While \"latex or silicone\" is a reasonable starting point, specifying silicone as the preferred option due to its realism and non-allergenic properties would enhance the response. Additionally, considering the model's intended use and mentioning alternatives like foam, fabric, thermoplastic elastomers (TPE), or 3D-printed materials would provide a more comprehensive answer. Addressing safety concerns regarding latex allergies is also important": 1
+    },
+    "ground_truth": [
+      "a sheet of rubber"
+    ]
+  },
+  {
+    "data_id": 168,
+    "most_common_answer": "Yes, the identification of the dependent variable as the number of fruits on each plant is correct. It accurately reflects what is being measured in relation to the independent variable (amount of sunlight). Adding that this measurement occurs over time would enhance clarity but does not change the correctness of the answer",
+    "all_predicted_answers": [
+      "Yes, the identification of the dependent variable as the number of fruits on each plant is correct. It accurately reflects what is being measured in relation to the independent variable (amount of sunlight). Adding that this measurement occurs over time would enhance clarity but does not change the correctness of the answer"
+    ],
+    "answer_distribution": {
+      "Yes, the identification of the dependent variable as the number of fruits on each plant is correct. It accurately reflects what is being measured in relation to the independent variable (amount of sunlight). Adding that this measurement occurs over time would enhance clarity but does not change the correctness of the answer": 1
+    },
+    "ground_truth": [
+      "number of fruits"
+    ]
+  },
+  {
+    "data_id": 280,
+    "most_common_answer": "Yes, the identification of the independent variable as the different brands of fertilizer is correct. The critique effectively highlights areas for improvement in the experimental design, such as the inclusion of a control group, consistent watering measurements, replicates, control of environmental variables, measurement consistency, and the duration of the experiment. Addressing these points would enhance the reliability and validity of the investigation",
+    "all_predicted_answers": [
+      "Yes, the identification of the independent variable as the different brands of fertilizer is correct. The critique effectively highlights areas for improvement in the experimental design, such as the inclusion of a control group, consistent watering measurements, replicates, control of environmental variables, measurement consistency, and the duration of the experiment. Addressing these points would enhance the reliability and validity of the investigation"
+    ],
+    "answer_distribution": {
+      "Yes, the identification of the independent variable as the different brands of fertilizer is correct. The critique effectively highlights areas for improvement in the experimental design, such as the inclusion of a control group, consistent watering measurements, replicates, control of environmental variables, measurement consistency, and the duration of the experiment. Addressing these points would enhance the reliability and validity of the investigation": 1
+    },
+    "ground_truth": [
+      "type of fertilizer"
+    ]
+  },
+  {
+    "data_id": 293,
+    "most_common_answer": "Leaves and stems have the most similar jobs, as both are involved in supporting the plant and facilitating the transport of nutrients and water",
+    "all_predicted_answers": [
+      "Leaves and stems have the most similar jobs, as both are involved in supporting the plant and facilitating the transport of nutrients and water"
+    ],
+    "answer_distribution": {
+      "Leaves and stems have the most similar jobs, as both are involved in supporting the plant and facilitating the transport of nutrients and water": 1
+    },
+    "ground_truth": [
+      "stems and branches"
+    ]
+  },
+  {
+    "data_id": 197,
+    "most_common_answer": "is more precise. It accurately describes the process involved in converting coal into electricity by mentioning combustion and steam generation, which are key steps in the operation of coal-powered plants",
+    "all_predicted_answers": [
+      "is more precise. It accurately describes the process involved in converting coal into electricity by mentioning combustion and steam generation, which are key steps in the operation of coal-powered plants"
+    ],
+    "answer_distribution": {
+      "is more precise. It accurately describes the process involved in converting coal into electricity by mentioning combustion and steam generation, which are key steps in the operation of coal-powered plants": 1
+    },
+    "ground_truth": [
+      "chemical energy to electrical energy."
+    ]
+  },
+  {
+    "data_id": 54,
+    "most_common_answer": "is that the majority of the Earth's fresh water is found in glaciers and ice caps",
+    "all_predicted_answers": [
+      "is that the majority of the Earth's fresh water is found in glaciers and ice caps"
+    ],
+    "answer_distribution": {
+      "is that the majority of the Earth's fresh water is found in glaciers and ice caps": 1
+    },
+    "ground_truth": [
+      "ice"
+    ]
+  },
+  {
+    "data_id": 42,
+    "most_common_answer": "Yes, the critique accurately identifies areas for improvement in the initial statement. It correctly emphasizes the need for clarity regarding the inefficiency of energy transfer (the 10% rule), the context of energy availability, and the role of primary producers. Enhancing the statement with these details would provide a more comprehensive understanding of energy dynamics across trophic levels",
+    "all_predicted_answers": [
+      "Yes, the critique accurately identifies areas for improvement in the initial statement. It correctly emphasizes the need for clarity regarding the inefficiency of energy transfer (the 10% rule), the context of energy availability, and the role of primary producers. Enhancing the statement with these details would provide a more comprehensive understanding of energy dynamics across trophic levels"
+    ],
+    "answer_distribution": {
+      "Yes, the critique accurately identifies areas for improvement in the initial statement. It correctly emphasizes the need for clarity regarding the inefficiency of energy transfer (the 10% rule), the context of energy availability, and the role of primary producers. Enhancing the statement with these details would provide a more comprehensive understanding of energy dynamics across trophic levels": 1
+    },
+    "ground_truth": [
+      "Available energy decreases as trophic levels increase."
+    ]
+  },
+  {
+    "data_id": 107,
+    "most_common_answer": "Yes, the critique is correct. A line graph or scatter plot is indeed a better choice for displaying continuous numerical data, such as the time it takes for a marble to roll down a ramp. These types of graphs can effectively illustrate trends and variations across trials, whereas a bar graph is more suited for categorical data",
+    "all_predicted_answers": [
+      "Yes, the critique is correct. A line graph or scatter plot is indeed a better choice for displaying continuous numerical data, such as the time it takes for a marble to roll down a ramp. These types of graphs can effectively illustrate trends and variations across trials, whereas a bar graph is more suited for categorical data"
+    ],
+    "answer_distribution": {
+      "Yes, the critique is correct. A line graph or scatter plot is indeed a better choice for displaying continuous numerical data, such as the time it takes for a marble to roll down a ramp. These types of graphs can effectively illustrate trends and variations across trials, whereas a bar graph is more suited for categorical data": 1
+    },
+    "ground_truth": [
+      "a bar graph with a bar for each trial"
+    ]
+  },
+  {
+    "data_id": 241,
+    "most_common_answer": "is correct in identifying a topographic map as useful for analyzing potential flood areas due to its depiction of elevation and landforms. However, it could be improved by incorporating the importance of hydrological maps, flood zone maps, and land use maps, which together provide a more comprehensive understanding of flood risks",
+    "all_predicted_answers": [
+      "is correct in identifying a topographic map as useful for analyzing potential flood areas due to its depiction of elevation and landforms. However, it could be improved by incorporating the importance of hydrological maps, flood zone maps, and land use maps, which together provide a more comprehensive understanding of flood risks"
+    ],
+    "answer_distribution": {
+      "is correct in identifying a topographic map as useful for analyzing potential flood areas due to its depiction of elevation and landforms. However, it could be improved by incorporating the importance of hydrological maps, flood zone maps, and land use maps, which together provide a more comprehensive understanding of flood risks": 1
+    },
+    "ground_truth": [
+      "a map showing the elevations of ground surfaces"
+    ]
+  },
+  {
+    "data_id": 175,
+    "most_common_answer": "is \"convergent margin.\" Your critique effectively highlights the need for more detail regarding the processes involved, such as crustal thickening and folding, and the types of collisions (continental-continental and oceanic-continental) that lead to mountain formation primarily from preexisting crust material. Adding these specifics enhances the clarity and completeness of the explanation",
+    "all_predicted_answers": [
+      "is \"convergent margin.\" Your critique effectively highlights the need for more detail regarding the processes involved, such as crustal thickening and folding, and the types of collisions (continental-continental and oceanic-continental) that lead to mountain formation primarily from preexisting crust material. Adding these specifics enhances the clarity and completeness of the explanation"
+    ],
+    "answer_distribution": {
+      "is \"convergent margin.\" Your critique effectively highlights the need for more detail regarding the processes involved, such as crustal thickening and folding, and the types of collisions (continental-continental and oceanic-continental) that lead to mountain formation primarily from preexisting crust material. Adding these specifics enhances the clarity and completeness of the explanation": 1
+    },
+    "ground_truth": [
+      "convergent boundary between two continental plates"
+    ]
+  },
+  {
+    "data_id": 118,
+    "most_common_answer": "kidneys\" is correct. However, it would be improved by mentioning the liver's role in processing waste, explaining the kidney's filtration mechanisms, and specifying the types of waste removed",
+    "all_predicted_answers": [
+      "kidneys\" is correct. However, it would be improved by mentioning the liver's role in processing waste, explaining the kidney's filtration mechanisms, and specifying the types of waste removed"
+    ],
+    "answer_distribution": {
+      "kidneys\" is correct. However, it would be improved by mentioning the liver's role in processing waste, explaining the kidney's filtration mechanisms, and specifying the types of waste removed": 1
+    },
+    "ground_truth": [
+      "kidneys."
+    ]
+  },
+  {
+    "data_id": 219,
+    "most_common_answer": "provided is correct. The reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH) produces sodium chloride (NaCl) and water (H2O). The balanced equation is:",
+    "all_predicted_answers": [
+      "provided is correct. The reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH) produces sodium chloride (NaCl) and water (H2O). The balanced equation is:"
+    ],
+    "answer_distribution": {
+      "provided is correct. The reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH) produces sodium chloride (NaCl) and water (H2O). The balanced equation is:": 1
+    },
+    "ground_truth": [
+      "NaCl + H_{2}O"
+    ]
+  },
+  {
+    "data_id": 243,
+    "most_common_answer": "correct. The telephone's technology, especially its sound amplification components, significantly influenced the development of early hearing aids. Specific elements like microphones and amplifiers from the telephone were adapted to enhance hearing for those with hearing loss. Additional context about these components would improve the response",
+    "all_predicted_answers": [
+      "correct. The telephone's technology, especially its sound amplification components, significantly influenced the development of early hearing aids. Specific elements like microphones and amplifiers from the telephone were adapted to enhance hearing for those with hearing loss. Additional context about these components would improve the response"
+    ],
+    "answer_distribution": {
+      "correct. The telephone's technology, especially its sound amplification components, significantly influenced the development of early hearing aids. Specific elements like microphones and amplifiers from the telephone were adapted to enhance hearing for those with hearing loss. Additional context about these components would improve the response": 1
+    },
+    "ground_truth": [
+      "telephone"
+    ]
+  },
+  {
+    "data_id": 138,
+    "most_common_answer": "correct. Both burning coal and exploding fireworks are exothermic reactions that release energy. Adding details about the nature of these reactions and clarifying that neither is endothermic would improve the response's clarity and educational value",
+    "all_predicted_answers": [
+      "correct. Both burning coal and exploding fireworks are exothermic reactions that release energy. Adding details about the nature of these reactions and clarifying that neither is endothermic would improve the response's clarity and educational value"
+    ],
+    "answer_distribution": {
+      "correct. Both burning coal and exploding fireworks are exothermic reactions that release energy. Adding details about the nature of these reactions and clarifying that neither is endothermic would improve the response's clarity and educational value": 1
+    },
+    "ground_truth": [
+      "Both burning coal and exploding fireworks"
+    ]
+  },
+  {
+    "data_id": 61,
+    "most_common_answer": "of 20 newtons (N) is correct. The calculations and reasoning are accurate, confirming that a force of approximately 20 N is needed to achieve an acceleration of 6 m/s² for the object",
+    "all_predicted_answers": [
+      "of 20 newtons (N) is correct. The calculations and reasoning are accurate, confirming that a force of approximately 20 N is needed to achieve an acceleration of 6 m/s² for the object"
+    ],
+    "answer_distribution": {
+      "of 20 newtons (N) is correct. The calculations and reasoning are accurate, confirming that a force of approximately 20 N is needed to achieve an acceleration of 6 m/s² for the object": 1
+    },
+    "ground_truth": [
+      "20 N"
+    ]
+  },
+  {
+    "data_id": 13,
+    "most_common_answer": "is **endothermic**. Endothermic reactions absorb heat from their surroundings, resulting in a decrease in temperature. Exothermic reactions, on the other hand, release heat and increase the temperature of the surroundings",
+    "all_predicted_answers": [
+      "is **endothermic**. Endothermic reactions absorb heat from their surroundings, resulting in a decrease in temperature. Exothermic reactions, on the other hand, release heat and increase the temperature of the surroundings"
+    ],
+    "answer_distribution": {
+      "is **endothermic**. Endothermic reactions absorb heat from their surroundings, resulting in a decrease in temperature. Exothermic reactions, on the other hand, release heat and increase the temperature of the surroundings": 1
+    },
+    "ground_truth": [
+      "endothermic."
+    ]
+  },
+  {
+    "data_id": 103,
+    "most_common_answer": "would be: \"Pump proteins, a type of transport protein, function to actively transport molecules into the cell.\" This specifies the mechanism of active transport more clearly",
+    "all_predicted_answers": [
+      "would be: \"Pump proteins, a type of transport protein, function to actively transport molecules into the cell.\" This specifies the mechanism of active transport more clearly"
+    ],
+    "answer_distribution": {
+      "would be: \"Pump proteins, a type of transport protein, function to actively transport molecules into the cell.\" This specifies the mechanism of active transport more clearly": 1
+    },
+    "ground_truth": [
+      "protein"
+    ]
+  },
+  {
+    "data_id": 78,
+    "most_common_answer": "is gills. They function similarly to human lungs by facilitating gas exchange, extracting oxygen from water and expelling carbon dioxide",
+    "all_predicted_answers": [
+      "is gills. They function similarly to human lungs by facilitating gas exchange, extracting oxygen from water and expelling carbon dioxide"
+    ],
+    "answer_distribution": {
+      "is gills. They function similarly to human lungs by facilitating gas exchange, extracting oxygen from water and expelling carbon dioxide": 1
+    },
+    "ground_truth": [
+      "gill"
+    ]
+  },
+  {
+    "data_id": 265,
+    "most_common_answer": "is \"Dissolved oxygen.\" Fish breathe oxygen that is dissolved in the water, and your critique accurately reflects this",
+    "all_predicted_answers": [
+      "is \"Dissolved oxygen.\" Fish breathe oxygen that is dissolved in the water, and your critique accurately reflects this"
+    ],
+    "answer_distribution": {
+      "is \"Dissolved oxygen.\" Fish breathe oxygen that is dissolved in the water, and your critique accurately reflects this": 1
+    },
+    "ground_truth": [
+      "The oxygen is a solute that is dissolved in the water."
+    ]
+  },
+  {
+    "data_id": 194,
+    "most_common_answer": "Yes, the original statement is correct: \"The mass of the iron nails is greater than the mass of the feathers.\" However, it should include an explanation about density to clarify why this is true, as iron has a much higher density than feathers, resulting in a greater mass for the same volume",
+    "all_predicted_answers": [
+      "Yes, the original statement is correct: \"The mass of the iron nails is greater than the mass of the feathers.\" However, it should include an explanation about density to clarify why this is true, as iron has a much higher density than feathers, resulting in a greater mass for the same volume"
+    ],
+    "answer_distribution": {
+      "Yes, the original statement is correct: \"The mass of the iron nails is greater than the mass of the feathers.\" However, it should include an explanation about density to clarify why this is true, as iron has a much higher density than feathers, resulting in a greater mass for the same volume": 1
+    },
+    "ground_truth": [
+      "The mass of the feathers is less than the mass of the nails."
+    ]
+  },
+  {
+    "data_id": 10,
+    "most_common_answer": "is 4.5 kilometers. The calculation is accurate, and the athlete will travel 4.5 kilometers in 30 minutes at a speed of 9 kilometers per hour",
+    "all_predicted_answers": [
+      "is 4.5 kilometers. The calculation is accurate, and the athlete will travel 4.5 kilometers in 30 minutes at a speed of 9 kilometers per hour"
+    ],
+    "answer_distribution": {
+      "is 4.5 kilometers. The calculation is accurate, and the athlete will travel 4.5 kilometers in 30 minutes at a speed of 9 kilometers per hour": 1
+    },
+    "ground_truth": [
+      "4.5 kilometers"
+    ]
+  },
+  {
+    "data_id": 272,
+    "most_common_answer": "would be:",
+    "all_predicted_answers": [
+      "would be:"
+    ],
+    "answer_distribution": {
+      "would be:": 1
+    },
+    "ground_truth": [
+      "when Earth is between the Moon and the Sun"
+    ]
+  },
+  {
+    "data_id": 27,
+    "most_common_answer": "you provided is correct. It effectively addresses the reasons for disagreement among scientists by highlighting the variability in data interpretation, theoretical frameworks, complexity of evidence, personal biases, and institutional influences. This comprehensive approach enhances clarity and depth, making it a more robust explanation of why scientific consensus can be challenging to achieve",
+    "all_predicted_answers": [
+      "you provided is correct. It effectively addresses the reasons for disagreement among scientists by highlighting the variability in data interpretation, theoretical frameworks, complexity of evidence, personal biases, and institutional influences. This comprehensive approach enhances clarity and depth, making it a more robust explanation of why scientific consensus can be challenging to achieve"
+    ],
+    "answer_distribution": {
+      "you provided is correct. It effectively addresses the reasons for disagreement among scientists by highlighting the variability in data interpretation, theoretical frameworks, complexity of evidence, personal biases, and institutional influences. This comprehensive approach enhances clarity and depth, making it a more robust explanation of why scientific consensus can be challenging to achieve": 1
+    },
+    "ground_truth": [
+      "scientists may interpret data differently."
+    ]
+  },
+  {
+    "data_id": 74,
+    "most_common_answer": "Yes, the critique is valid. Andy Green was indeed the first person to officially break the sound barrier on land on October 15, 1997, driving the Thrust SSC at a speed of 763.035 mph (1,227.985 km/h or approximately 343 m/s). The average speed of 339 m/s mentioned is incorrect, and the phrasing should clarify that he was the first to officially break the sound barrier on land",
+    "all_predicted_answers": [
+      "Yes, the critique is valid. Andy Green was indeed the first person to officially break the sound barrier on land on October 15, 1997, driving the Thrust SSC at a speed of 763.035 mph (1,227.985 km/h or approximately 343 m/s). The average speed of 339 m/s mentioned is incorrect, and the phrasing should clarify that he was the first to officially break the sound barrier on land"
+    ],
+    "answer_distribution": {
+      "Yes, the critique is valid. Andy Green was indeed the first person to officially break the sound barrier on land on October 15, 1997, driving the Thrust SSC at a speed of 763.035 mph (1,227.985 km/h or approximately 343 m/s). The average speed of 339 m/s mentioned is incorrect, and the phrasing should clarify that he was the first to officially break the sound barrier on land": 1
+    },
+    "ground_truth": [
+      "break the sound barrier on ground."
+    ]
+  },
+  {
+    "data_id": 121,
+    "most_common_answer": "would be improved by including details about the definition of metamorphism, the conditions under which it occurs, types of metamorphism, and the mineralogical changes that take place. This would provide a more comprehensive understanding of the process",
+    "all_predicted_answers": [
+      "would be improved by including details about the definition of metamorphism, the conditions under which it occurs, types of metamorphism, and the mineralogical changes that take place. This would provide a more comprehensive understanding of the process"
+    ],
+    "answer_distribution": {
+      "would be improved by including details about the definition of metamorphism, the conditions under which it occurs, types of metamorphism, and the mineralogical changes that take place. This would provide a more comprehensive understanding of the process": 1
+    },
+    "ground_truth": [
+      "exposure to heat and high pressure"
+    ]
+  },
+  {
+    "data_id": 174,
+    "most_common_answer": "is correct, but it can be improved for clarity and precision. Here’s a refined version:",
+    "all_predicted_answers": [
+      "is correct, but it can be improved for clarity and precision. Here’s a refined version:"
+    ],
+    "answer_distribution": {
+      "is correct, but it can be improved for clarity and precision. Here’s a refined version:": 1
+    },
+    "ground_truth": [
+      "A crushed sugar cube is added and the water is stirred."
+    ]
+  },
+  {
+    "data_id": 264,
+    "most_common_answer": "should also include:",
+    "all_predicted_answers": [
+      "should also include:"
+    ],
+    "answer_distribution": {
+      "should also include:": 1
+    },
+    "ground_truth": [
+      "wind direction"
+    ]
+  },
+  {
+    "data_id": 29,
+    "most_common_answer": "Yes, the corrected explanation is accurate. The ice cubes displace a volume of water equal to the volume of the submerged portion of the ice, which causes the water level to rise. The initial statement incorrectly attributes the displacement to the weight of the ice cubes instead of their volume",
+    "all_predicted_answers": [
+      "Yes, the corrected explanation is accurate. The ice cubes displace a volume of water equal to the volume of the submerged portion of the ice, which causes the water level to rise. The initial statement incorrectly attributes the displacement to the weight of the ice cubes instead of their volume"
+    ],
+    "answer_distribution": {
+      "Yes, the corrected explanation is accurate. The ice cubes displace a volume of water equal to the volume of the submerged portion of the ice, which causes the water level to rise. The initial statement incorrectly attributes the displacement to the weight of the ice cubes instead of their volume": 1
+    },
+    "ground_truth": [
+      "The volume of the submerged ice is equal to the volume of water displaced."
+    ]
+  },
+  {
+    "data_id": 150,
+    "most_common_answer": "correct. Thermal energy flows from the hot tea to the ice, resulting in the cooling of the tea and the melting of the ice",
+    "all_predicted_answers": [
+      "correct. Thermal energy flows from the hot tea to the ice, resulting in the cooling of the tea and the melting of the ice"
+    ],
+    "answer_distribution": {
+      "correct. Thermal energy flows from the hot tea to the ice, resulting in the cooling of the tea and the melting of the ice": 1
+    },
+    "ground_truth": [
+      "from the tea to the ice"
+    ]
+  },
+  {
+    "data_id": 82,
+    "most_common_answer": "Yes, the critique is correct. While the initial statement is accurate, it would be more informative to specify that lysozyme hydrolyzes glycosidic bonds in peptidoglycan, which is essential for bacterial cell wall integrity. This additional detail enhances the understanding of lysozyme's mechanism of action",
+    "all_predicted_answers": [
+      "Yes, the critique is correct. While the initial statement is accurate, it would be more informative to specify that lysozyme hydrolyzes glycosidic bonds in peptidoglycan, which is essential for bacterial cell wall integrity. This additional detail enhances the understanding of lysozyme's mechanism of action"
+    ],
+    "answer_distribution": {
+      "Yes, the critique is correct. While the initial statement is accurate, it would be more informative to specify that lysozyme hydrolyzes glycosidic bonds in peptidoglycan, which is essential for bacterial cell wall integrity. This additional detail enhances the understanding of lysozyme's mechanism of action": 1
+    },
+    "ground_truth": [
+      "Lysozyme breaks a specific type of bond in a bacterial cell wall molecule."
+    ]
+  },
+  {
+    "data_id": 41,
+    "most_common_answer": "heat loss\" is correct, but it should be expanded to include other factors contributing to the inefficiency of the refrigerator. These factors include energy used by the compressor and fans, inefficient insulation, mechanical losses, and the age or design of the appliance. A more comprehensive answer would provide a clearer understanding of the various sources of energy loss in refrigerators",
+    "all_predicted_answers": [
+      "heat loss\" is correct, but it should be expanded to include other factors contributing to the inefficiency of the refrigerator. These factors include energy used by the compressor and fans, inefficient insulation, mechanical losses, and the age or design of the appliance. A more comprehensive answer would provide a clearer understanding of the various sources of energy loss in refrigerators"
+    ],
+    "answer_distribution": {
+      "heat loss\" is correct, but it should be expanded to include other factors contributing to the inefficiency of the refrigerator. These factors include energy used by the compressor and fans, inefficient insulation, mechanical losses, and the age or design of the appliance. A more comprehensive answer would provide a clearer understanding of the various sources of energy loss in refrigerators": 1
+    },
+    "ground_truth": [
+      "It is released to the surroundings as heat."
+    ]
+  },
+  {
+    "data_id": 296,
+    "most_common_answer": "is correct, but it could be improved by adding context. Here’s a revised version:",
+    "all_predicted_answers": [
+      "is correct, but it could be improved by adding context. Here’s a revised version:"
+    ],
+    "answer_distribution": {
+      "is correct, but it could be improved by adding context. Here’s a revised version:": 1
+    },
+    "ground_truth": [
+      "The atom becomes negatively charged."
+    ]
+  },
+  {
+    "data_id": 60,
+    "most_common_answer": "Yes, the critique provides a more comprehensive and accurate answer. It outlines the steps for measuring mass, emphasizes the importance of precision and accuracy, introduces the principle of conservation of mass, and acknowledges potential sources of error. This detailed approach enhances the understanding of the relationship between the mass of the whole apple and its pieces",
+    "all_predicted_answers": [
+      "Yes, the critique provides a more comprehensive and accurate answer. It outlines the steps for measuring mass, emphasizes the importance of precision and accuracy, introduces the principle of conservation of mass, and acknowledges potential sources of error. This detailed approach enhances the understanding of the relationship between the mass of the whole apple and its pieces"
+    ],
+    "answer_distribution": {
+      "Yes, the critique provides a more comprehensive and accurate answer. It outlines the steps for measuring mass, emphasizes the importance of precision and accuracy, introduces the principle of conservation of mass, and acknowledges potential sources of error. This detailed approach enhances the understanding of the relationship between the mass of the whole apple and its pieces": 1
+    },
+    "ground_truth": [
+      "determining the mass of the whole apple, then determining the mass of the apple pieces"
+    ]
+  },
+  {
+    "data_id": 295,
+    "most_common_answer": "would include details about how short stems reduce wind exposure, help regulate temperature, allow for snow coverage, conserve energy, and mention other adaptations that support survival in the harsh arctic environment. This would provide a fuller understanding of the advantages of short stems for flowers in the tundra",
+    "all_predicted_answers": [
+      "would include details about how short stems reduce wind exposure, help regulate temperature, allow for snow coverage, conserve energy, and mention other adaptations that support survival in the harsh arctic environment. This would provide a fuller understanding of the advantages of short stems for flowers in the tundra"
+    ],
+    "answer_distribution": {
+      "would include details about how short stems reduce wind exposure, help regulate temperature, allow for snow coverage, conserve energy, and mention other adaptations that support survival in the harsh arctic environment. This would provide a fuller understanding of the advantages of short stems for flowers in the tundra": 1
+    },
+    "ground_truth": [
+      "It protects them from breaking in strong winds."
+    ]
+  },
+  {
+    "data_id": 215,
+    "most_common_answer": "correct. Fruits do facilitate seed dispersal, and additional context about their protective role and nutritional benefits for animals would enhance the response",
+    "all_predicted_answers": [
+      "correct. Fruits do facilitate seed dispersal, and additional context about their protective role and nutritional benefits for animals would enhance the response"
+    ],
+    "answer_distribution": {
+      "correct. Fruits do facilitate seed dispersal, and additional context about their protective role and nutritional benefits for animals would enhance the response": 1
+    },
+    "ground_truth": [
+      "to protect seeds"
+    ]
+  },
+  {
+    "data_id": 9,
+    "most_common_answer": "Yes, the critique is correct. The initial statement accurately describes water's properties but could be improved by defining cohesion and adhesion and mentioning additional properties like high specific heat and solvent capabilities",
+    "all_predicted_answers": [
+      "Yes, the critique is correct. The initial statement accurately describes water's properties but could be improved by defining cohesion and adhesion and mentioning additional properties like high specific heat and solvent capabilities"
+    ],
+    "answer_distribution": {
+      "Yes, the critique is correct. The initial statement accurately describes water's properties but could be improved by defining cohesion and adhesion and mentioning additional properties like high specific heat and solvent capabilities": 1
+    },
+    "ground_truth": [
+      "Water changes to a gas as it boils."
+    ]
+  },
+  {
+    "data_id": 51,
+    "most_common_answer": "Yes, that is a correct and comprehensive answer. It clearly explains the significance of ice floating on water, how it insulates the water below, and its importance for the survival of aquatic organisms in winter",
+    "all_predicted_answers": [
+      "Yes, that is a correct and comprehensive answer. It clearly explains the significance of ice floating on water, how it insulates the water below, and its importance for the survival of aquatic organisms in winter"
+    ],
+    "answer_distribution": {
+      "Yes, that is a correct and comprehensive answer. It clearly explains the significance of ice floating on water, how it insulates the water below, and its importance for the survival of aquatic organisms in winter": 1
+    },
+    "ground_truth": [
+      "Water is less dense as a solid than as a liquid."
+    ]
+  },
+  {
+    "data_id": 276,
+    "most_common_answer": "Yes, the critique accurately identifies that the statement \"The area is experiencing uplift\" is correct. It suggests valuable enhancements by providing definitions, potential causes, implications, and context regarding the rate of uplift. Including these details would indeed offer a more comprehensive understanding of the geological situation at El Cajon Pass",
+    "all_predicted_answers": [
+      "Yes, the critique accurately identifies that the statement \"The area is experiencing uplift\" is correct. It suggests valuable enhancements by providing definitions, potential causes, implications, and context regarding the rate of uplift. Including these details would indeed offer a more comprehensive understanding of the geological situation at El Cajon Pass"
+    ],
+    "answer_distribution": {
+      "Yes, the critique accurately identifies that the statement \"The area is experiencing uplift\" is correct. It suggests valuable enhancements by providing definitions, potential causes, implications, and context regarding the rate of uplift. Including these details would indeed offer a more comprehensive understanding of the geological situation at El Cajon Pass": 1
+    },
+    "ground_truth": [
+      "Erosion is slower than uplift at El Cajon Pass."
+    ]
+  },
+  {
+    "data_id": 222,
+    "most_common_answer": "Yes, the critique is correct. The original statement accurately describes insulin's primary function in lowering blood glucose levels by promoting glucose uptake into cells. However, enhancing the statement by including details about the mechanism of action (activation of glucose transporters like GLUT4), mentioning its role in inhibiting gluconeogenesis and promoting glycogen synthesis, and providing context regarding its action post-meal would offer a more comprehensive understanding of insulin's role in glucose regulation",
+    "all_predicted_answers": [
+      "Yes, the critique is correct. The original statement accurately describes insulin's primary function in lowering blood glucose levels by promoting glucose uptake into cells. However, enhancing the statement by including details about the mechanism of action (activation of glucose transporters like GLUT4), mentioning its role in inhibiting gluconeogenesis and promoting glycogen synthesis, and providing context regarding its action post-meal would offer a more comprehensive understanding of insulin's role in glucose regulation"
+    ],
+    "answer_distribution": {
+      "Yes, the critique is correct. The original statement accurately describes insulin's primary function in lowering blood glucose levels by promoting glucose uptake into cells. However, enhancing the statement by including details about the mechanism of action (activation of glucose transporters like GLUT4), mentioning its role in inhibiting gluconeogenesis and promoting glycogen synthesis, and providing context regarding its action post-meal would offer a more comprehensive understanding of insulin's role in glucose regulation": 1
+    },
+    "ground_truth": [
+      "Insulin stimulates cells to absorb glucose from the blood."
+    ]
+  },
+  {
+    "data_id": 177,
+    "most_common_answer": "is parasitism. The tapeworm benefits at the expense of the dog, which suffers negative health effects",
+    "all_predicted_answers": [
+      "is parasitism. The tapeworm benefits at the expense of the dog, which suffers negative health effects"
+    ],
+    "answer_distribution": {
+      "is parasitism. The tapeworm benefits at the expense of the dog, which suffers negative health effects": 1
+    },
+    "ground_truth": [
+      "The dog becomes ill, and the tapeworm benefits."
+    ]
+  },
+  {
+    "data_id": 208,
+    "most_common_answer": "correct. It accurately identifies evaporation and precipitation as the primary water-cycle processes affecting ocean surface salt concentration. The critique effectively elaborates on how each process influences salinity: evaporation increases salinity by leaving salts behind, while precipitation decreases salinity by adding freshwater. Mentioning other factors like river inflow and ice melt provides additional context but is not necessary for the specific question asked. Overall, the critique enhances the completeness of the answer without undermining its correctness",
+    "all_predicted_answers": [
+      "correct. It accurately identifies evaporation and precipitation as the primary water-cycle processes affecting ocean surface salt concentration. The critique effectively elaborates on how each process influences salinity: evaporation increases salinity by leaving salts behind, while precipitation decreases salinity by adding freshwater. Mentioning other factors like river inflow and ice melt provides additional context but is not necessary for the specific question asked. Overall, the critique enhances the completeness of the answer without undermining its correctness"
+    ],
+    "answer_distribution": {
+      "correct. It accurately identifies evaporation and precipitation as the primary water-cycle processes affecting ocean surface salt concentration. The critique effectively elaborates on how each process influences salinity: evaporation increases salinity by leaving salts behind, while precipitation decreases salinity by adding freshwater. Mentioning other factors like river inflow and ice melt provides additional context but is not necessary for the specific question asked. Overall, the critique enhances the completeness of the answer without undermining its correctness": 1
+    },
+    "ground_truth": [
+      "precipitation and evaporation"
+    ]
+  },
+  {
+    "data_id": 36,
+    "most_common_answer": "is that wind speed is best described as a scalar quantity, as it represents only the magnitude of the wind. However, it is important to note that wind is fundamentally a vector quantity when considering both speed and direction, which together define wind velocity",
+    "all_predicted_answers": [
+      "is that wind speed is best described as a scalar quantity, as it represents only the magnitude of the wind. However, it is important to note that wind is fundamentally a vector quantity when considering both speed and direction, which together define wind velocity"
+    ],
+    "answer_distribution": {
+      "is that wind speed is best described as a scalar quantity, as it represents only the magnitude of the wind. However, it is important to note that wind is fundamentally a vector quantity when considering both speed and direction, which together define wind velocity": 1
+    },
+    "ground_truth": [
+      "It is an indication of weather at a specific time."
+    ]
+  },
+  {
+    "data_id": 252,
+    "most_common_answer": "is correct. It accurately explains that the needle is magnetized, has its own magnetic poles, and aligns with the Earth's magnetic field, directing its north pole toward the Earth's magnetic north pole. This clarification enhances understanding of the concepts involved",
+    "all_predicted_answers": [
+      "is correct. It accurately explains that the needle is magnetized, has its own magnetic poles, and aligns with the Earth's magnetic field, directing its north pole toward the Earth's magnetic north pole. This clarification enhances understanding of the concepts involved"
+    ],
+    "answer_distribution": {
+      "is correct. It accurately explains that the needle is magnetized, has its own magnetic poles, and aligns with the Earth's magnetic field, directing its north pole toward the Earth's magnetic north pole. This clarification enhances understanding of the concepts involved": 1
+    },
+    "ground_truth": [
+      "The needle is lining up with Earth's magnetic poles."
+    ]
+  },
+  {
+    "data_id": 85,
+    "most_common_answer": "is correct and comprehensive. It clearly explains that tile's higher thermal conductivity allows it to draw heat away from the body more efficiently than carpet, which provides insulation through its fibers. It also acknowledges the influence of environmental factors on the perception of coldness. This makes the explanation clearer and more complete",
+    "all_predicted_answers": [
+      "is correct and comprehensive. It clearly explains that tile's higher thermal conductivity allows it to draw heat away from the body more efficiently than carpet, which provides insulation through its fibers. It also acknowledges the influence of environmental factors on the perception of coldness. This makes the explanation clearer and more complete"
+    ],
+    "answer_distribution": {
+      "is correct and comprehensive. It clearly explains that tile's higher thermal conductivity allows it to draw heat away from the body more efficiently than carpet, which provides insulation through its fibers. It also acknowledges the influence of environmental factors on the perception of coldness. This makes the explanation clearer and more complete": 1
+    },
+    "ground_truth": [
+      "The tile floor conducts heat better than the carpet."
+    ]
+  },
+  {
+    "data_id": 281,
+    "most_common_answer": "is correct in identifying the decline in gulf sturgeon populations due to blocked migration routes as a likely effect of dam construction. However, it could be improved by addressing the additional points mentioned:",
+    "all_predicted_answers": [
+      "is correct in identifying the decline in gulf sturgeon populations due to blocked migration routes as a likely effect of dam construction. However, it could be improved by addressing the additional points mentioned:"
+    ],
+    "answer_distribution": {
+      "is correct in identifying the decline in gulf sturgeon populations due to blocked migration routes as a likely effect of dam construction. However, it could be improved by addressing the additional points mentioned:": 1
+    },
+    "ground_truth": [
+      "The gulf sturgeon population will decline due to loss of habitat."
+    ]
+  },
+  {
+    "data_id": 69,
+    "most_common_answer": "Yes, the critique is valid. The conclusion that \"Block A is a poor conductor of heat\" is reasonable but could be refined. It would be more accurate to say that \"Block A may have insulating properties\" or \"Block A does not transfer heat effectively,\" as this acknowledges the complexity of heat transfer and the need for further investigation into the material properties and environmental factors",
+    "all_predicted_answers": [
+      "Yes, the critique is valid. The conclusion that \"Block A is a poor conductor of heat\" is reasonable but could be refined. It would be more accurate to say that \"Block A may have insulating properties\" or \"Block A does not transfer heat effectively,\" as this acknowledges the complexity of heat transfer and the need for further investigation into the material properties and environmental factors"
+    ],
+    "answer_distribution": {
+      "Yes, the critique is valid. The conclusion that \"Block A is a poor conductor of heat\" is reasonable but could be refined. It would be more accurate to say that \"Block A may have insulating properties\" or \"Block A does not transfer heat effectively,\" as this acknowledges the complexity of heat transfer and the need for further investigation into the material properties and environmental factors": 1
+    },
+    "ground_truth": [
+      "It is a poor conductor."
+    ]
+  },
+  {
+    "data_id": 274,
+    "most_common_answer": "Yes, the revised version is correct. It effectively highlights specific benefits of the Internet, such as access to educational resources, instant communication, online commerce, telemedicine, and remote work, while also acknowledging the challenges associated with its use. This provides a more balanced and comprehensive view of the Internet's impact on life",
+    "all_predicted_answers": [
+      "Yes, the revised version is correct. It effectively highlights specific benefits of the Internet, such as access to educational resources, instant communication, online commerce, telemedicine, and remote work, while also acknowledging the challenges associated with its use. This provides a more balanced and comprehensive view of the Internet's impact on life"
+    ],
+    "answer_distribution": {
+      "Yes, the revised version is correct. It effectively highlights specific benefits of the Internet, such as access to educational resources, instant communication, online commerce, telemedicine, and remote work, while also acknowledging the challenges associated with its use. This provides a more balanced and comprehensive view of the Internet's impact on life": 1
+    },
+    "ground_truth": [
+      "People are able to access information from many locations."
+    ]
+  },
+  {
+    "data_id": 24,
+    "most_common_answer": "representation\" is correct, but it can be improved by specifying that a map is a \"two-dimensional representation\" of a three-dimensional world, and by acknowledging the potential biases and inaccuracies inherent in different map projections and purposes. This additional context enhances understanding of what a map entails",
+    "all_predicted_answers": [
+      "representation\" is correct, but it can be improved by specifying that a map is a \"two-dimensional representation\" of a three-dimensional world, and by acknowledging the potential biases and inaccuracies inherent in different map projections and purposes. This additional context enhances understanding of what a map entails"
+    ],
+    "answer_distribution": {
+      "representation\" is correct, but it can be improved by specifying that a map is a \"two-dimensional representation\" of a three-dimensional world, and by acknowledging the potential biases and inaccuracies inherent in different map projections and purposes. This additional context enhances understanding of what a map entails": 1
+    },
+    "ground_truth": [
+      "two dimensional representation of a three dimensional surface."
+    ]
+  },
+  {
+    "data_id": 106,
+    "most_common_answer": "provides a clearer and more comprehensive explanation by incorporating the concepts of gravitational influence, orbital mechanics, and the Sun's mass relative to the solar system. It effectively communicates why the planets revolve around the Sun",
+    "all_predicted_answers": [
+      "provides a clearer and more comprehensive explanation by incorporating the concepts of gravitational influence, orbital mechanics, and the Sun's mass relative to the solar system. It effectively communicates why the planets revolve around the Sun"
+    ],
+    "answer_distribution": {
+      "provides a clearer and more comprehensive explanation by incorporating the concepts of gravitational influence, orbital mechanics, and the Sun's mass relative to the solar system. It effectively communicates why the planets revolve around the Sun": 1
+    },
+    "ground_truth": [
+      "the strongest source of gravity in the solar system."
+    ]
+  },
+  {
+    "data_id": 62,
+    "most_common_answer": "correct. According to Ohm's Law, if the voltage remains constant and the resistance is doubled, the current will indeed be halved. Your explanation and calculations are accurate",
+    "all_predicted_answers": [
+      "correct. According to Ohm's Law, if the voltage remains constant and the resistance is doubled, the current will indeed be halved. Your explanation and calculations are accurate"
+    ],
+    "answer_distribution": {
+      "correct. According to Ohm's Law, if the voltage remains constant and the resistance is doubled, the current will indeed be halved. Your explanation and calculations are accurate": 1
+    },
+    "ground_truth": [
+      "The current will be cut in half."
+    ]
+  },
+  {
+    "data_id": 149,
+    "most_common_answer": "is correct. It provides a clearer definition by explaining the roles of the solvent and solute, and it includes an example to enhance understanding",
+    "all_predicted_answers": [
+      "is correct. It provides a clearer definition by explaining the roles of the solvent and solute, and it includes an example to enhance understanding"
+    ],
+    "answer_distribution": {
+      "is correct. It provides a clearer definition by explaining the roles of the solvent and solute, and it includes an example to enhance understanding": 1
+    },
+    "ground_truth": [
+      "A solution is a mixture whose components are similar throughout."
+    ]
+  },
+  {
+    "data_id": 50,
+    "most_common_answer": "correct. The initial change in pH of the calcium hydroxide solution is indeed a decrease in pH, making it more acidic due to the formation of carbonic acid from the reaction of carbon dioxide with water. This results in an increase in hydrogen ion concentration, which lowers the pH. The explanation accurately describes the process and its effect on pH",
+    "all_predicted_answers": [
+      "correct. The initial change in pH of the calcium hydroxide solution is indeed a decrease in pH, making it more acidic due to the formation of carbonic acid from the reaction of carbon dioxide with water. This results in an increase in hydrogen ion concentration, which lowers the pH. The explanation accurately describes the process and its effect on pH"
+    ],
+    "answer_distribution": {
+      "correct. The initial change in pH of the calcium hydroxide solution is indeed a decrease in pH, making it more acidic due to the formation of carbonic acid from the reaction of carbon dioxide with water. This results in an increase in hydrogen ion concentration, which lowers the pH. The explanation accurately describes the process and its effect on pH": 1
+    },
+    "ground_truth": [
+      "decrease in pH toward a pH of 7"
+    ]
+  },
+  {
+    "data_id": 199,
+    "most_common_answer": "is correct, but it could be improved by incorporating the following points:",
+    "all_predicted_answers": [
+      "is correct, but it could be improved by incorporating the following points:"
+    ],
+    "answer_distribution": {
+      "is correct, but it could be improved by incorporating the following points:": 1
+    },
+    "ground_truth": [
+      "Purple martins will decrease and starlings will increase."
+    ]
+  },
+  {
+    "data_id": 43,
+    "most_common_answer": "is accurate regarding the phenotypic ratio of the offspring (3 black fur to 1 white fur). However, it emphasizes the need for clearer communication regarding the genotypes involved. The correct answer should state that when two black guinea pigs (Bb) are crossed, the expected offspring will have a phenotypic ratio of 3 black fur (BB and Bb) to 1 white fur (bb), and it should clarify the genotypes contributing to this ratio",
+    "all_predicted_answers": [
+      "is accurate regarding the phenotypic ratio of the offspring (3 black fur to 1 white fur). However, it emphasizes the need for clearer communication regarding the genotypes involved. The correct answer should state that when two black guinea pigs (Bb) are crossed, the expected offspring will have a phenotypic ratio of 3 black fur (BB and Bb) to 1 white fur (bb), and it should clarify the genotypes contributing to this ratio"
+    ],
+    "answer_distribution": {
+      "is accurate regarding the phenotypic ratio of the offspring (3 black fur to 1 white fur). However, it emphasizes the need for clearer communication regarding the genotypes involved. The correct answer should state that when two black guinea pigs (Bb) are crossed, the expected offspring will have a phenotypic ratio of 3 black fur (BB and Bb) to 1 white fur (bb), and it should clarify the genotypes contributing to this ratio": 1
+    },
+    "ground_truth": [
+      "75% black, 25% white"
+    ]
+  },
+  {
+    "data_id": 157,
+    "most_common_answer": "correct. Gametes are the plant cells that contain half the DNA from one parent plant, as they are haploid and produced through meiosis. Additional context about meiosis and fertilization would enhance the explanation, but the core answer remains accurate",
+    "all_predicted_answers": [
+      "correct. Gametes are the plant cells that contain half the DNA from one parent plant, as they are haploid and produced through meiosis. Additional context about meiosis and fertilization would enhance the explanation, but the core answer remains accurate"
+    ],
+    "answer_distribution": {
+      "correct. Gametes are the plant cells that contain half the DNA from one parent plant, as they are haploid and produced through meiosis. Additional context about meiosis and fertilization would enhance the explanation, but the core answer remains accurate": 1
+    },
+    "ground_truth": [
+      "pollen and ovule"
+    ]
+  },
+  {
+    "data_id": 80,
+    "most_common_answer": "Roots of plants primarily grow downward due to gravitropism, but they can also grow horizontally or upwards in search of water and nutrients, depending on environmental conditions and plant species",
+    "all_predicted_answers": [
+      "Roots of plants primarily grow downward due to gravitropism, but they can also grow horizontally or upwards in search of water and nutrients, depending on environmental conditions and plant species"
+    ],
+    "answer_distribution": {
+      "Roots of plants primarily grow downward due to gravitropism, but they can also grow horizontally or upwards in search of water and nutrients, depending on environmental conditions and plant species": 1
+    },
+    "ground_truth": [
+      "in the direction of water and the pull of gravity"
+    ]
+  },
+  {
+    "data_id": 33,
+    "most_common_answer": "is more comprehensive. It accurately highlights the natural filtration process while acknowledging the variability in water quality due to geological conditions and potential contamination from human activities. This provides a clearer understanding of why aquifer water can be cleaner than other sources, while also recognizing its limitations",
+    "all_predicted_answers": [
+      "is more comprehensive. It accurately highlights the natural filtration process while acknowledging the variability in water quality due to geological conditions and potential contamination from human activities. This provides a clearer understanding of why aquifer water can be cleaner than other sources, while also recognizing its limitations"
+    ],
+    "answer_distribution": {
+      "is more comprehensive. It accurately highlights the natural filtration process while acknowledging the variability in water quality due to geological conditions and potential contamination from human activities. This provides a clearer understanding of why aquifer water can be cleaner than other sources, while also recognizing its limitations": 1
+    },
+    "ground_truth": [
+      "because pollutants are filtered by rock and soil deep within Earth"
+    ]
+  },
+  {
+    "data_id": 141,
+    "most_common_answer": "Yes, the critique accurately identifies areas for improvement in the initial statement. A more comprehensive version could be: \"The Sun heats the oceans, driving evaporation that contributes to the water cycle, influences cloud formation and precipitation, and plays a crucial role in generating ocean currents, which help distribute heat globally and affect local and long-term weather patterns.\" This revision adds clarity and detail about the processes and their broader implications",
+    "all_predicted_answers": [
+      "Yes, the critique accurately identifies areas for improvement in the initial statement. A more comprehensive version could be: \"The Sun heats the oceans, driving evaporation that contributes to the water cycle, influences cloud formation and precipitation, and plays a crucial role in generating ocean currents, which help distribute heat globally and affect local and long-term weather patterns.\" This revision adds clarity and detail about the processes and their broader implications"
+    ],
+    "answer_distribution": {
+      "Yes, the critique accurately identifies areas for improvement in the initial statement. A more comprehensive version could be: \"The Sun heats the oceans, driving evaporation that contributes to the water cycle, influences cloud formation and precipitation, and plays a crucial role in generating ocean currents, which help distribute heat globally and affect local and long-term weather patterns.\" This revision adds clarity and detail about the processes and their broader implications": 1
+    },
+    "ground_truth": [
+      "The Sun influences the formation of waves."
+    ]
+  },
+  {
+    "data_id": 228,
+    "most_common_answer": "Yes, your critique is correct. To determine the state of the sample, additional information such as its physical characteristics (e.g., shape, density, or flow behavior) is more directly relevant than just temperature and pressure. The fact that the volume is independent of its container suggests it is either a solid or a liquid, but specific properties would clarify its state",
+    "all_predicted_answers": [
+      "Yes, your critique is correct. To determine the state of the sample, additional information such as its physical characteristics (e.g., shape, density, or flow behavior) is more directly relevant than just temperature and pressure. The fact that the volume is independent of its container suggests it is either a solid or a liquid, but specific properties would clarify its state"
+    ],
+    "answer_distribution": {
+      "Yes, your critique is correct. To determine the state of the sample, additional information such as its physical characteristics (e.g., shape, density, or flow behavior) is more directly relevant than just temperature and pressure. The fact that the volume is independent of its container suggests it is either a solid or a liquid, but specific properties would clarify its state": 1
+    },
+    "ground_truth": [
+      "whether the sample has a fixed shape"
+    ]
+  },
+  {
+    "data_id": 140,
+    "most_common_answer": "Yes, the critique accurately identifies the statement as an opinion and explains that beauty is subjective. It correctly notes that there are no grammatical or factual errors in the statement itself. The clarification about the subjectivity of beauty is also relevant and enhances the understanding of the opinion. Overall, the critique is correct and well-articulated",
+    "all_predicted_answers": [
+      "Yes, the critique accurately identifies the statement as an opinion and explains that beauty is subjective. It correctly notes that there are no grammatical or factual errors in the statement itself. The clarification about the subjectivity of beauty is also relevant and enhances the understanding of the opinion. Overall, the critique is correct and well-articulated"
+    ],
+    "answer_distribution": {
+      "Yes, the critique accurately identifies the statement as an opinion and explains that beauty is subjective. It correctly notes that there are no grammatical or factual errors in the statement itself. The clarification about the subjectivity of beauty is also relevant and enhances the understanding of the opinion. Overall, the critique is correct and well-articulated": 1
+    },
+    "ground_truth": [
+      "The purpose of the heart is to help perform athletic activities."
+    ]
+  },
+  {
+    "data_id": 287,
+    "most_common_answer": "Natural selection\" is fundamentally correct, but it would benefit from additional context. Enhancing the response with definitions, the roles of other evolutionary mechanisms, the importance of environmental context, and the time frame for adaptation would provide a more comprehensive understanding of how mutations become adaptations in a species",
+    "all_predicted_answers": [
+      "Natural selection\" is fundamentally correct, but it would benefit from additional context. Enhancing the response with definitions, the roles of other evolutionary mechanisms, the importance of environmental context, and the time frame for adaptation would provide a more comprehensive understanding of how mutations become adaptations in a species"
+    ],
+    "answer_distribution": {
+      "Natural selection\" is fundamentally correct, but it would benefit from additional context. Enhancing the response with definitions, the roles of other evolutionary mechanisms, the importance of environmental context, and the time frame for adaptation would provide a more comprehensive understanding of how mutations become adaptations in a species": 1
+    },
+    "ground_truth": [
+      "natural selection"
+    ]
+  },
+  {
+    "data_id": 201,
+    "most_common_answer": "captures the essence of how artificial reefs provide structure and habitat for marine organisms, but it can be improved by incorporating details about biodiversity support, ecosystem complexity, nutrient cycling, mitigation of human impacts, and contributions to sustainable fishing practices. A more comprehensive response would enhance understanding of the ecological significance of artificial reefs",
+    "all_predicted_answers": [
+      "captures the essence of how artificial reefs provide structure and habitat for marine organisms, but it can be improved by incorporating details about biodiversity support, ecosystem complexity, nutrient cycling, mitigation of human impacts, and contributions to sustainable fishing practices. A more comprehensive response would enhance understanding of the ecological significance of artificial reefs"
+    ],
+    "answer_distribution": {
+      "captures the essence of how artificial reefs provide structure and habitat for marine organisms, but it can be improved by incorporating details about biodiversity support, ecosystem complexity, nutrient cycling, mitigation of human impacts, and contributions to sustainable fishing practices. A more comprehensive response would enhance understanding of the ecological significance of artificial reefs": 1
+    },
+    "ground_truth": [
+      "by providing habitat for algae and small invertebrates"
+    ]
+  },
+  {
+    "data_id": 109,
+    "most_common_answer": "correct but could be improved with more detail. Here’s a refined version:",
+    "all_predicted_answers": [
+      "correct but could be improved with more detail. Here’s a refined version:"
+    ],
+    "answer_distribution": {
+      "correct but could be improved with more detail. Here’s a refined version:": 1
+    },
+    "ground_truth": [
+      "a force that pushes the opposite of the direction that the car is moving"
+    ]
+  },
+  {
+    "data_id": 76,
+    "most_common_answer": "is correct. It provides greater specificity by mentioning variations in temperature and daylight as aspects of seasonal changes. Additionally, it acknowledges other factors influencing migration, such as breeding needs and habitat changes, while specifying that various species, including birds and mammals, are involved. This makes the answer clearer and more comprehensive",
+    "all_predicted_answers": [
+      "is correct. It provides greater specificity by mentioning variations in temperature and daylight as aspects of seasonal changes. Additionally, it acknowledges other factors influencing migration, such as breeding needs and habitat changes, while specifying that various species, including birds and mammals, are involved. This makes the answer clearer and more comprehensive"
+    ],
+    "answer_distribution": {
+      "is correct. It provides greater specificity by mentioning variations in temperature and daylight as aspects of seasonal changes. Additionally, it acknowledges other factors influencing migration, such as breeding needs and habitat changes, while specifying that various species, including birds and mammals, are involved. This makes the answer clearer and more comprehensive": 1
+    },
+    "ground_truth": [
+      "change of season and less food"
+    ]
+  },
+  {
+    "data_id": 262,
+    "most_common_answer": "is correct. However, it can be enhanced by mentioning that sunglasses also reduce glare, enhance contrast, and protect against environmental factors like wind, dust, and debris. This would provide a more comprehensive understanding of their benefits",
+    "all_predicted_answers": [
+      "is correct. However, it can be enhanced by mentioning that sunglasses also reduce glare, enhance contrast, and protect against environmental factors like wind, dust, and debris. This would provide a more comprehensive understanding of their benefits"
+    ],
+    "answer_distribution": {
+      "is correct. However, it can be enhanced by mentioning that sunglasses also reduce glare, enhance contrast, and protect against environmental factors like wind, dust, and debris. This would provide a more comprehensive understanding of their benefits": 1
+    },
+    "ground_truth": [
+      "reflecting light rays away from the eyes"
+    ]
+  },
+  {
+    "data_id": 21,
+    "most_common_answer": "is that an endothermic reaction has taken place. The explanation accurately describes the cooling sensation due to the absorption of heat from the surroundings during the reaction between vinegar and baking soda",
+    "all_predicted_answers": [
+      "is that an endothermic reaction has taken place. The explanation accurately describes the cooling sensation due to the absorption of heat from the surroundings during the reaction between vinegar and baking soda"
+    ],
+    "answer_distribution": {
+      "is that an endothermic reaction has taken place. The explanation accurately describes the cooling sensation due to the absorption of heat from the surroundings during the reaction between vinegar and baking soda": 1
+    },
+    "ground_truth": [
+      "heat energy changed to chemical energy"
+    ]
+  },
+  {
+    "data_id": 86,
+    "most_common_answer": "is that the use of chlorofluorocarbons (CFCs) is a primary human activity that contributed to the depletion of the ozone layer",
+    "all_predicted_answers": [
+      "is that the use of chlorofluorocarbons (CFCs) is a primary human activity that contributed to the depletion of the ozone layer"
+    ],
+    "answer_distribution": {
+      "is that the use of chlorofluorocarbons (CFCs) is a primary human activity that contributed to the depletion of the ozone layer": 1
+    },
+    "ground_truth": [
+      "release of chlorofluorocarbons from aerosol cans"
+    ]
+  },
+  {
+    "data_id": 102,
+    "most_common_answer": "Yes, the critique is correct. The original statement is generally accurate but could be refined for clarity. It should acknowledge that while many geothermal energy-producing regions have thinner crusts, some may have thicker crusts with high heat flow due to geological factors like volcanic activity or tectonic processes. Specifying that geothermal energy is often found in tectonically active regions would also enhance the explanation",
+    "all_predicted_answers": [
+      "Yes, the critique is correct. The original statement is generally accurate but could be refined for clarity. It should acknowledge that while many geothermal energy-producing regions have thinner crusts, some may have thicker crusts with high heat flow due to geological factors like volcanic activity or tectonic processes. Specifying that geothermal energy is often found in tectonically active regions would also enhance the explanation"
+    ],
+    "answer_distribution": {
+      "Yes, the critique is correct. The original statement is generally accurate but could be refined for clarity. It should acknowledge that while many geothermal energy-producing regions have thinner crusts, some may have thicker crusts with high heat flow due to geological factors like volcanic activity or tectonic processes. Specifying that geothermal energy is often found in tectonically active regions would also enhance the explanation": 1
+    },
+    "ground_truth": [
+      "is heated by nearby magma."
+    ]
+  },
+  {
+    "data_id": 297,
+    "most_common_answer": "is correct but could be improved. The best reason wind farms are not located near forests is that trees create turbulence and wind shear, disrupting the smooth wind flow necessary for optimal turbine performance. Additionally, factors such as accessibility, environmental impact, and land use conflicts should also be considered when evaluating the placement of wind farms",
+    "all_predicted_answers": [
+      "is correct but could be improved. The best reason wind farms are not located near forests is that trees create turbulence and wind shear, disrupting the smooth wind flow necessary for optimal turbine performance. Additionally, factors such as accessibility, environmental impact, and land use conflicts should also be considered when evaluating the placement of wind farms"
+    ],
+    "answer_distribution": {
+      "is correct but could be improved. The best reason wind farms are not located near forests is that trees create turbulence and wind shear, disrupting the smooth wind flow necessary for optimal turbine performance. Additionally, factors such as accessibility, environmental impact, and land use conflicts should also be considered when evaluating the placement of wind farms": 1
+    },
+    "ground_truth": [
+      "The trees would reduce the force of the wind."
+    ]
+  }
+]

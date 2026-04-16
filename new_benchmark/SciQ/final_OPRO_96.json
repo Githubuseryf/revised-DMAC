@@ -1,0 +1,1250 @@
+[
+  {
+    "data_id": 156,
+    "most_common_answer": "The prostate gland",
+    "all_predicted_answers": [
+      "The prostate gland"
+    ],
+    "answer_distribution": {
+      "The prostate gland": 1
+    },
+    "ground_truth": [
+      "the testes"
+    ]
+  },
+  {
+    "data_id": 264,
+    "most_common_answer": "Bases",
+    "all_predicted_answers": [
+      "Bases"
+    ],
+    "answer_distribution": {
+      "Bases": 1
+    },
+    "ground_truth": [
+      "a base"
+    ]
+  },
+  {
+    "data_id": 120,
+    "most_common_answer": "Metals",
+    "all_predicted_answers": [
+      "Metals"
+    ],
+    "answer_distribution": {
+      "Metals": 1
+    },
+    "ground_truth": [
+      "nonmetals"
+    ]
+  },
+  {
+    "data_id": 163,
+    "most_common_answer": "Four calories",
+    "all_predicted_answers": [
+      "Four calories"
+    ],
+    "answer_distribution": {
+      "Four calories": 1
+    },
+    "ground_truth": [
+      "4"
+    ]
+  },
+  {
+    "data_id": 232,
+    "most_common_answer": "Solvent",
+    "all_predicted_answers": [
+      "Solvent"
+    ],
+    "answer_distribution": {
+      "Solvent": 1
+    },
+    "ground_truth": [
+      "solute"
+    ]
+  },
+  {
+    "data_id": 268,
+    "most_common_answer": "Quarks and leptons",
+    "all_predicted_answers": [
+      "Quarks and leptons"
+    ],
+    "answer_distribution": {
+      "Quarks and leptons": 1
+    },
+    "ground_truth": [
+      "atoms"
+    ]
+  },
+  {
+    "data_id": 159,
+    "most_common_answer": "The third trimester exhibits the greatest growth of the fetus and culminates in labor and delivery",
+    "all_predicted_answers": [
+      "The third trimester exhibits the greatest growth of the fetus and culminates in labor and delivery"
+    ],
+    "answer_distribution": {
+      "The third trimester exhibits the greatest growth of the fetus and culminates in labor and delivery": 1
+    },
+    "ground_truth": [
+      "third trimester"
+    ]
+  },
+  {
+    "data_id": 238,
+    "most_common_answer": "Turquoise is typically blue to green",
+    "all_predicted_answers": [
+      "Turquoise is typically blue to green"
+    ],
+    "answer_distribution": {
+      "Turquoise is typically blue to green": 1
+    },
+    "ground_truth": [
+      "blue"
+    ]
+  },
+  {
+    "data_id": 114,
+    "most_common_answer": "The speed of light in a vacuum",
+    "all_predicted_answers": [
+      "The speed of light in a vacuum"
+    ],
+    "answer_distribution": {
+      "The speed of light in a vacuum": 1
+    },
+    "ground_truth": [
+      "light"
+    ]
+  },
+  {
+    "data_id": 194,
+    "most_common_answer": "Angiosperms (flowering plants)",
+    "all_predicted_answers": [
+      "Angiosperms (flowering plants)"
+    ],
+    "answer_distribution": {
+      "Angiosperms (flowering plants)": 1
+    },
+    "ground_truth": [
+      "angiosperms"
+    ]
+  },
+  {
+    "data_id": 201,
+    "most_common_answer": "The integumentary system",
+    "all_predicted_answers": [
+      "The integumentary system"
+    ],
+    "answer_distribution": {
+      "The integumentary system": 1
+    },
+    "ground_truth": [
+      "the circulatory system"
+    ]
+  },
+  {
+    "data_id": 274,
+    "most_common_answer": "Cortical bone",
+    "all_predicted_answers": [
+      "Cortical bone"
+    ],
+    "answer_distribution": {
+      "Cortical bone": 1
+    },
+    "ground_truth": [
+      "compact bone"
+    ]
+  },
+  {
+    "data_id": 293,
+    "most_common_answer": "Tangential acceleration",
+    "all_predicted_answers": [
+      "Tangential acceleration"
+    ],
+    "answer_distribution": {
+      "Tangential acceleration": 1
+    },
+    "ground_truth": [
+      "linear acceleration"
+    ]
+  },
+  {
+    "data_id": 183,
+    "most_common_answer": "The sedimentary rock group offers the richest source of fossils",
+    "all_predicted_answers": [
+      "The sedimentary rock group offers the richest source of fossils"
+    ],
+    "answer_distribution": {
+      "The sedimentary rock group offers the richest source of fossils": 1
+    },
+    "ground_truth": [
+      "sedimentary"
+    ]
+  },
+  {
+    "data_id": 9,
+    "most_common_answer": "Biogeochemical cycles",
+    "all_predicted_answers": [
+      "Biogeochemical cycles"
+    ],
+    "answer_distribution": {
+      "Biogeochemical cycles": 1
+    },
+    "ground_truth": [
+      "biotic and abiotic"
+    ]
+  },
+  {
+    "data_id": 39,
+    "most_common_answer": "pH level",
+    "all_predicted_answers": [
+      "pH level"
+    ],
+    "answer_distribution": {
+      "pH level": 1
+    },
+    "ground_truth": [
+      "ph"
+    ]
+  },
+  {
+    "data_id": 60,
+    "most_common_answer": "Homologous structures",
+    "all_predicted_answers": [
+      "Homologous structures"
+    ],
+    "answer_distribution": {
+      "Homologous structures": 1
+    },
+    "ground_truth": [
+      "homologous"
+    ]
+  },
+  {
+    "data_id": 64,
+    "most_common_answer": "Four haploid gametes",
+    "all_predicted_answers": [
+      "Four haploid gametes"
+    ],
+    "answer_distribution": {
+      "Four haploid gametes": 1
+    },
+    "ground_truth": [
+      "four haploid cells"
+    ]
+  },
+  {
+    "data_id": 70,
+    "most_common_answer": "Products of cellular respiration: carbon dioxide, water, and ATP",
+    "all_predicted_answers": [
+      "Products of cellular respiration: carbon dioxide, water, and ATP"
+    ],
+    "answer_distribution": {
+      "Products of cellular respiration: carbon dioxide, water, and ATP": 1
+    },
+    "ground_truth": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "data_id": 82,
+    "most_common_answer": "The result is the net force",
+    "all_predicted_answers": [
+      "The result is the net force"
+    ],
+    "answer_distribution": {
+      "The result is the net force": 1
+    },
+    "ground_truth": [
+      "net force"
+    ]
+  },
+  {
+    "data_id": 196,
+    "most_common_answer": "Atomic orbitals",
+    "all_predicted_answers": [
+      "Atomic orbitals"
+    ],
+    "answer_distribution": {
+      "Atomic orbitals": 1
+    },
+    "ground_truth": [
+      "orbitals"
+    ]
+  },
+  {
+    "data_id": 256,
+    "most_common_answer": "A solution forms",
+    "all_predicted_answers": [
+      "A solution forms"
+    ],
+    "answer_distribution": {
+      "A solution forms": 1
+    },
+    "ground_truth": [
+      "a solution"
+    ]
+  },
+  {
+    "data_id": 253,
+    "most_common_answer": "Heat is released in the atmosphere",
+    "all_predicted_answers": [
+      "Heat is released in the atmosphere"
+    ],
+    "answer_distribution": {
+      "Heat is released in the atmosphere": 1
+    },
+    "ground_truth": [
+      "heat"
+    ]
+  },
+  {
+    "data_id": 96,
+    "most_common_answer": "Chemical formulas represent the composition of a substance, indicating the types and quantities of atoms present",
+    "all_predicted_answers": [
+      "Chemical formulas represent the composition of a substance, indicating the types and quantities of atoms present"
+    ],
+    "answer_distribution": {
+      "Chemical formulas represent the composition of a substance, indicating the types and quantities of atoms present": 1
+    },
+    "ground_truth": [
+      "compounds"
+    ]
+  },
+  {
+    "data_id": 291,
+    "most_common_answer": "Vasodilation",
+    "all_predicted_answers": [
+      "Vasodilation"
+    ],
+    "answer_distribution": {
+      "Vasodilation": 1
+    },
+    "ground_truth": [
+      "diameter"
+    ]
+  },
+  {
+    "data_id": 94,
+    "most_common_answer": "The reticular formation",
+    "all_predicted_answers": [
+      "The reticular formation"
+    ],
+    "answer_distribution": {
+      "The reticular formation": 1
+    },
+    "ground_truth": [
+      "vestibular system"
+    ]
+  },
+  {
+    "data_id": 63,
+    "most_common_answer": "Mitosis",
+    "all_predicted_answers": [
+      "Mitosis"
+    ],
+    "answer_distribution": {
+      "Mitosis": 1
+    },
+    "ground_truth": [
+      "cell division"
+    ]
+  },
+  {
+    "data_id": 65,
+    "most_common_answer": "North Pole and South Pole",
+    "all_predicted_answers": [
+      "North Pole and South Pole"
+    ],
+    "answer_distribution": {
+      "North Pole and South Pole": 1
+    },
+    "ground_truth": [
+      "north and south"
+    ]
+  },
+  {
+    "data_id": 109,
+    "most_common_answer": "Carbon atoms",
+    "all_predicted_answers": [
+      "Carbon atoms"
+    ],
+    "answer_distribution": {
+      "Carbon atoms": 1
+    },
+    "ground_truth": [
+      "carbon chains"
+    ]
+  },
+  {
+    "data_id": 192,
+    "most_common_answer": "Gabbro is found in the Earth's crust, typically in intrusive igneous formations",
+    "all_predicted_answers": [
+      "Gabbro is found in the Earth's crust, typically in intrusive igneous formations"
+    ],
+    "answer_distribution": {
+      "Gabbro is found in the Earth's crust, typically in intrusive igneous formations": 1
+    },
+    "ground_truth": [
+      "oceanic crust"
+    ]
+  },
+  {
+    "data_id": 0,
+    "most_common_answer": "Logistic growth",
+    "all_predicted_answers": [
+      "Logistic growth"
+    ],
+    "answer_distribution": {
+      "Logistic growth": 1
+    },
+    "ground_truth": [
+      "logistic growth"
+    ]
+  },
+  {
+    "data_id": 1,
+    "most_common_answer": "Photons",
+    "all_predicted_answers": [
+      "Photons"
+    ],
+    "answer_distribution": {
+      "Photons": 1
+    },
+    "ground_truth": [
+      "photons"
+    ]
+  },
+  {
+    "data_id": 2,
+    "most_common_answer": "Ileum",
+    "all_predicted_answers": [
+      "Ileum"
+    ],
+    "answer_distribution": {
+      "Ileum": 1
+    },
+    "ground_truth": [
+      "ileum"
+    ]
+  },
+  {
+    "data_id": 3,
+    "most_common_answer": "Oceanic crust",
+    "all_predicted_answers": [
+      "Oceanic crust"
+    ],
+    "answer_distribution": {
+      "Oceanic crust": 1
+    },
+    "ground_truth": [
+      "oceanic"
+    ]
+  },
+  {
+    "data_id": 4,
+    "most_common_answer": "Fight or flight response",
+    "all_predicted_answers": [
+      "Fight or flight response"
+    ],
+    "answer_distribution": {
+      "Fight or flight response": 1
+    },
+    "ground_truth": [
+      "fight-or-flight"
+    ]
+  },
+  {
+    "data_id": 7,
+    "most_common_answer": "Glycogen",
+    "all_predicted_answers": [
+      "Glycogen"
+    ],
+    "answer_distribution": {
+      "Glycogen": 1
+    },
+    "ground_truth": [
+      "glycogen"
+    ]
+  },
+  {
+    "data_id": 8,
+    "most_common_answer": "Approximately 30-40% of the field is tilled in traditional plowing",
+    "all_predicted_answers": [
+      "Approximately 30-40% of the field is tilled in traditional plowing"
+    ],
+    "answer_distribution": {
+      "Approximately 30-40% of the field is tilled in traditional plowing": 1
+    },
+    "ground_truth": [
+      "100%"
+    ]
+  },
+  {
+    "data_id": 10,
+    "most_common_answer": "Digestive system",
+    "all_predicted_answers": [
+      "Digestive system"
+    ],
+    "answer_distribution": {
+      "Digestive system": 1
+    },
+    "ground_truth": [
+      "digestive system"
+    ]
+  },
+  {
+    "data_id": 11,
+    "most_common_answer": "Heredity",
+    "all_predicted_answers": [
+      "Heredity"
+    ],
+    "answer_distribution": {
+      "Heredity": 1
+    },
+    "ground_truth": [
+      "heredity"
+    ]
+  },
+  {
+    "data_id": 12,
+    "most_common_answer": "A strong base",
+    "all_predicted_answers": [
+      "A strong base"
+    ],
+    "answer_distribution": {
+      "A strong base": 1
+    },
+    "ground_truth": [
+      "base"
+    ]
+  },
+  {
+    "data_id": 13,
+    "most_common_answer": "Potential energy",
+    "all_predicted_answers": [
+      "Potential energy"
+    ],
+    "answer_distribution": {
+      "Potential energy": 1
+    },
+    "ground_truth": [
+      "potential energy"
+    ]
+  },
+  {
+    "data_id": 16,
+    "most_common_answer": "The hand",
+    "all_predicted_answers": [
+      "The hand"
+    ],
+    "answer_distribution": {
+      "The hand": 1
+    },
+    "ground_truth": [
+      "hand"
+    ]
+  },
+  {
+    "data_id": 18,
+    "most_common_answer": "Clone",
+    "all_predicted_answers": [
+      "Clone"
+    ],
+    "answer_distribution": {
+      "Clone": 1
+    },
+    "ground_truth": [
+      "clone"
+    ]
+  },
+  {
+    "data_id": 22,
+    "most_common_answer": "Fossil records, comparative anatomy, genetic similarities, and observed natural selection",
+    "all_predicted_answers": [
+      "Fossil records, comparative anatomy, genetic similarities, and observed natural selection"
+    ],
+    "answer_distribution": {
+      "Fossil records, comparative anatomy, genetic similarities, and observed natural selection": 1
+    },
+    "ground_truth": [
+      "fossils"
+    ]
+  },
+  {
+    "data_id": 25,
+    "most_common_answer": "Seamounts",
+    "all_predicted_answers": [
+      "Seamounts"
+    ],
+    "answer_distribution": {
+      "Seamounts": 1
+    },
+    "ground_truth": [
+      "seamounts"
+    ]
+  },
+  {
+    "data_id": 27,
+    "most_common_answer": "About 2.5% of the Earth's water is fresh water",
+    "all_predicted_answers": [
+      "About 2.5% of the Earth's water is fresh water"
+    ],
+    "answer_distribution": {
+      "About 2.5% of the Earth's water is fresh water": 1
+    },
+    "ground_truth": [
+      "three percent"
+    ]
+  },
+  {
+    "data_id": 28,
+    "most_common_answer": "Natural gas",
+    "all_predicted_answers": [
+      "Natural gas"
+    ],
+    "answer_distribution": {
+      "Natural gas": 1
+    },
+    "ground_truth": [
+      "fossil fuels"
+    ]
+  },
+  {
+    "data_id": 30,
+    "most_common_answer": "Amphibians",
+    "all_predicted_answers": [
+      "Amphibians"
+    ],
+    "answer_distribution": {
+      "Amphibians": 1
+    },
+    "ground_truth": [
+      "amphibians"
+    ]
+  },
+  {
+    "data_id": 31,
+    "most_common_answer": "Blue",
+    "all_predicted_answers": [
+      "Blue"
+    ],
+    "answer_distribution": {
+      "Blue": 1
+    },
+    "ground_truth": [
+      "blue"
+    ]
+  },
+  {
+    "data_id": 33,
+    "most_common_answer": "Physics",
+    "all_predicted_answers": [
+      "Physics"
+    ],
+    "answer_distribution": {
+      "Physics": 1
+    },
+    "ground_truth": [
+      "dynamics"
+    ]
+  },
+  {
+    "data_id": 34,
+    "most_common_answer": "Polymer",
+    "all_predicted_answers": [
+      "Polymer"
+    ],
+    "answer_distribution": {
+      "Polymer": 1
+    },
+    "ground_truth": [
+      "polymer"
+    ]
+  },
+  {
+    "data_id": 36,
+    "most_common_answer": "Protozoa",
+    "all_predicted_answers": [
+      "Protozoa"
+    ],
+    "answer_distribution": {
+      "Protozoa": 1
+    },
+    "ground_truth": [
+      "amoebozoans"
+    ]
+  },
+  {
+    "data_id": 37,
+    "most_common_answer": "Ectothermic",
+    "all_predicted_answers": [
+      "Ectothermic"
+    ],
+    "answer_distribution": {
+      "Ectothermic": 1
+    },
+    "ground_truth": [
+      "ectothermic"
+    ]
+  },
+  {
+    "data_id": 38,
+    "most_common_answer": "Food sources",
+    "all_predicted_answers": [
+      "Food sources"
+    ],
+    "answer_distribution": {
+      "Food sources": 1
+    },
+    "ground_truth": [
+      "food"
+    ]
+  },
+  {
+    "data_id": 40,
+    "most_common_answer": "mechanisms of action",
+    "all_predicted_answers": [
+      "mechanisms of action"
+    ],
+    "answer_distribution": {
+      "mechanisms of action": 1
+    },
+    "ground_truth": [
+      "enantiomers"
+    ]
+  },
+  {
+    "data_id": 41,
+    "most_common_answer": "Mutagens",
+    "all_predicted_answers": [
+      "Mutagens"
+    ],
+    "answer_distribution": {
+      "Mutagens": 1
+    },
+    "ground_truth": [
+      "mutagens"
+    ]
+  },
+  {
+    "data_id": 42,
+    "most_common_answer": "Energy",
+    "all_predicted_answers": [
+      "Energy"
+    ],
+    "answer_distribution": {
+      "Energy": 1
+    },
+    "ground_truth": [
+      "energy"
+    ]
+  },
+  {
+    "data_id": 43,
+    "most_common_answer": "Oxygen",
+    "all_predicted_answers": [
+      "Oxygen"
+    ],
+    "answer_distribution": {
+      "Oxygen": 1
+    },
+    "ground_truth": [
+      "oxygen"
+    ]
+  },
+  {
+    "data_id": 44,
+    "most_common_answer": "It is called \"force vector",
+    "all_predicted_answers": [
+      "It is called \"force vector"
+    ],
+    "answer_distribution": {
+      "It is called \"force vector": 1
+    },
+    "ground_truth": [
+      "impulse"
+    ]
+  },
+  {
+    "data_id": 47,
+    "most_common_answer": "The carotid artery",
+    "all_predicted_answers": [
+      "The carotid artery"
+    ],
+    "answer_distribution": {
+      "The carotid artery": 1
+    },
+    "ground_truth": [
+      "carotid"
+    ]
+  },
+  {
+    "data_id": 49,
+    "most_common_answer": "Implantation",
+    "all_predicted_answers": [
+      "Implantation"
+    ],
+    "answer_distribution": {
+      "Implantation": 1
+    },
+    "ground_truth": [
+      "implantation"
+    ]
+  },
+  {
+    "data_id": 50,
+    "most_common_answer": "Eukaryotic cells",
+    "all_predicted_answers": [
+      "Eukaryotic cells"
+    ],
+    "answer_distribution": {
+      "Eukaryotic cells": 1
+    },
+    "ground_truth": [
+      "eukaryotic"
+    ]
+  },
+  {
+    "data_id": 51,
+    "most_common_answer": "Ecosystems recycle nutrients",
+    "all_predicted_answers": [
+      "Ecosystems recycle nutrients"
+    ],
+    "answer_distribution": {
+      "Ecosystems recycle nutrients": 1
+    },
+    "ground_truth": [
+      "matter"
+    ]
+  },
+  {
+    "data_id": 52,
+    "most_common_answer": "Quartz and feldspar",
+    "all_predicted_answers": [
+      "Quartz and feldspar"
+    ],
+    "answer_distribution": {
+      "Quartz and feldspar": 1
+    },
+    "ground_truth": [
+      "feldspar and quartz"
+    ]
+  },
+  {
+    "data_id": 53,
+    "most_common_answer": "Light-years",
+    "all_predicted_answers": [
+      "Light-years"
+    ],
+    "answer_distribution": {
+      "Light-years": 1
+    },
+    "ground_truth": [
+      "light years"
+    ]
+  },
+  {
+    "data_id": 54,
+    "most_common_answer": "Radio telescopes",
+    "all_predicted_answers": [
+      "Radio telescopes"
+    ],
+    "answer_distribution": {
+      "Radio telescopes": 1
+    },
+    "ground_truth": [
+      "radio telescopes"
+    ]
+  },
+  {
+    "data_id": 55,
+    "most_common_answer": "The peripheral nervous system",
+    "all_predicted_answers": [
+      "The peripheral nervous system"
+    ],
+    "answer_distribution": {
+      "The peripheral nervous system": 1
+    },
+    "ground_truth": [
+      "peripheral"
+    ]
+  },
+  {
+    "data_id": 56,
+    "most_common_answer": "Photosynthesis",
+    "all_predicted_answers": [
+      "Photosynthesis"
+    ],
+    "answer_distribution": {
+      "Photosynthesis": 1
+    },
+    "ground_truth": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "data_id": 57,
+    "most_common_answer": "Reaction rate",
+    "all_predicted_answers": [
+      "Reaction rate"
+    ],
+    "answer_distribution": {
+      "Reaction rate": 1
+    },
+    "ground_truth": [
+      "the reaction rate"
+    ]
+  },
+  {
+    "data_id": 58,
+    "most_common_answer": "Intraspecific competition",
+    "all_predicted_answers": [
+      "Intraspecific competition"
+    ],
+    "answer_distribution": {
+      "Intraspecific competition": 1
+    },
+    "ground_truth": [
+      "intraspecific competition"
+    ]
+  },
+  {
+    "data_id": 59,
+    "most_common_answer": "Charles Darwin",
+    "all_predicted_answers": [
+      "Charles Darwin"
+    ],
+    "answer_distribution": {
+      "Charles Darwin": 1
+    },
+    "ground_truth": [
+      "darwin"
+    ]
+  },
+  {
+    "data_id": 62,
+    "most_common_answer": "Wet cell",
+    "all_predicted_answers": [
+      "Wet cell"
+    ],
+    "answer_distribution": {
+      "Wet cell": 1
+    },
+    "ground_truth": [
+      "lead storage battery"
+    ]
+  },
+  {
+    "data_id": 66,
+    "most_common_answer": "Pressure",
+    "all_predicted_answers": [
+      "Pressure"
+    ],
+    "answer_distribution": {
+      "Pressure": 1
+    },
+    "ground_truth": [
+      "pressure"
+    ]
+  },
+  {
+    "data_id": 67,
+    "most_common_answer": "Wings",
+    "all_predicted_answers": [
+      "Wings"
+    ],
+    "answer_distribution": {
+      "Wings": 1
+    },
+    "ground_truth": [
+      "wings"
+    ]
+  },
+  {
+    "data_id": 69,
+    "most_common_answer": "Clone",
+    "all_predicted_answers": [
+      "Clone"
+    ],
+    "answer_distribution": {
+      "Clone": 1
+    },
+    "ground_truth": [
+      "clone"
+    ]
+  },
+  {
+    "data_id": 71,
+    "most_common_answer": "Metabolic pathway",
+    "all_predicted_answers": [
+      "Metabolic pathway"
+    ],
+    "answer_distribution": {
+      "Metabolic pathway": 1
+    },
+    "ground_truth": [
+      "metabolic pathway"
+    ]
+  },
+  {
+    "data_id": 72,
+    "most_common_answer": "Intermolecular bond",
+    "all_predicted_answers": [
+      "Intermolecular bond"
+    ],
+    "answer_distribution": {
+      "Intermolecular bond": 1
+    },
+    "ground_truth": [
+      "hydrogen bond"
+    ]
+  },
+  {
+    "data_id": 73,
+    "most_common_answer": "The nervous system",
+    "all_predicted_answers": [
+      "The nervous system"
+    ],
+    "answer_distribution": {
+      "The nervous system": 1
+    },
+    "ground_truth": [
+      "nervous system"
+    ]
+  },
+  {
+    "data_id": 75,
+    "most_common_answer": "Buoyancy",
+    "all_predicted_answers": [
+      "Buoyancy"
+    ],
+    "answer_distribution": {
+      "Buoyancy": 1
+    },
+    "ground_truth": [
+      "buoyancy"
+    ]
+  },
+  {
+    "data_id": 77,
+    "most_common_answer": "Taxonomy",
+    "all_predicted_answers": [
+      "Taxonomy"
+    ],
+    "answer_distribution": {
+      "Taxonomy": 1
+    },
+    "ground_truth": [
+      "taxonomy"
+    ]
+  },
+  {
+    "data_id": 78,
+    "most_common_answer": "Retina",
+    "all_predicted_answers": [
+      "Retina"
+    ],
+    "answer_distribution": {
+      "Retina": 1
+    },
+    "ground_truth": [
+      "retina"
+    ]
+  },
+  {
+    "data_id": 79,
+    "most_common_answer": "Photosynthesis",
+    "all_predicted_answers": [
+      "Photosynthesis"
+    ],
+    "answer_distribution": {
+      "Photosynthesis": 1
+    },
+    "ground_truth": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "data_id": 80,
+    "most_common_answer": "Lymph",
+    "all_predicted_answers": [
+      "Lymph"
+    ],
+    "answer_distribution": {
+      "Lymph": 1
+    },
+    "ground_truth": [
+      "lymph"
+    ]
+  },
+  {
+    "data_id": 81,
+    "most_common_answer": "Ore",
+    "all_predicted_answers": [
+      "Ore"
+    ],
+    "answer_distribution": {
+      "Ore": 1
+    },
+    "ground_truth": [
+      "ore"
+    ]
+  },
+  {
+    "data_id": 83,
+    "most_common_answer": "Pressure",
+    "all_predicted_answers": [
+      "Pressure"
+    ],
+    "answer_distribution": {
+      "Pressure": 1
+    },
+    "ground_truth": [
+      "pressure"
+    ]
+  },
+  {
+    "data_id": 85,
+    "most_common_answer": "Electricity",
+    "all_predicted_answers": [
+      "Electricity"
+    ],
+    "answer_distribution": {
+      "Electricity": 1
+    },
+    "ground_truth": [
+      "electricity"
+    ]
+  },
+  {
+    "data_id": 86,
+    "most_common_answer": "Tetrahedral",
+    "all_predicted_answers": [
+      "Tetrahedral"
+    ],
+    "answer_distribution": {
+      "Tetrahedral": 1
+    },
+    "ground_truth": [
+      "tetrahedral"
+    ]
+  },
+  {
+    "data_id": 88,
+    "most_common_answer": "Photosynthesis",
+    "all_predicted_answers": [
+      "Photosynthesis"
+    ],
+    "answer_distribution": {
+      "Photosynthesis": 1
+    },
+    "ground_truth": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "data_id": 90,
+    "most_common_answer": "Disaccharide",
+    "all_predicted_answers": [
+      "Disaccharide"
+    ],
+    "answer_distribution": {
+      "Disaccharide": 1
+    },
+    "ground_truth": [
+      "disaccharide"
+    ]
+  },
+  {
+    "data_id": 91,
+    "most_common_answer": "Lunar eclipse",
+    "all_predicted_answers": [
+      "Lunar eclipse"
+    ],
+    "answer_distribution": {
+      "Lunar eclipse": 1
+    },
+    "ground_truth": [
+      "lunar"
+    ]
+  },
+  {
+    "data_id": 92,
+    "most_common_answer": "Melting",
+    "all_predicted_answers": [
+      "Melting"
+    ],
+    "answer_distribution": {
+      "Melting": 1
+    },
+    "ground_truth": [
+      "melting"
+    ]
+  },
+  {
+    "data_id": 93,
+    "most_common_answer": "Exocytosis",
+    "all_predicted_answers": [
+      "Exocytosis"
+    ],
+    "answer_distribution": {
+      "Exocytosis": 1
+    },
+    "ground_truth": [
+      "exocytosis"
+    ]
+  },
+  {
+    "data_id": 95,
+    "most_common_answer": "Technological innovation",
+    "all_predicted_answers": [
+      "Technological innovation"
+    ],
+    "answer_distribution": {
+      "Technological innovation": 1
+    },
+    "ground_truth": [
+      "technology"
+    ]
+  },
+  {
+    "data_id": 97,
+    "most_common_answer": "Maternal parent",
+    "all_predicted_answers": [
+      "Maternal parent"
+    ],
+    "answer_distribution": {
+      "Maternal parent": 1
+    },
+    "ground_truth": [
+      "sperm"
+    ]
+  },
+  {
+    "data_id": 99,
+    "most_common_answer": "Conductivity and resistivity",
+    "all_predicted_answers": [
+      "Conductivity and resistivity"
+    ],
+    "answer_distribution": {
+      "Conductivity and resistivity": 1
+    },
+    "ground_truth": [
+      "polar and nonpolar"
+    ]
+  },
+  {
+    "data_id": 100,
+    "most_common_answer": "Carbohydrates",
+    "all_predicted_answers": [
+      "Carbohydrates"
+    ],
+    "answer_distribution": {
+      "Carbohydrates": 1
+    },
+    "ground_truth": [
+      "carbohydrates"
+    ]
+  }
+]

@@ -1,0 +1,1250 @@
+[
+  {
+    "data_id": 156,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "the testes"
+    ]
+  },
+  {
+    "data_id": 264,
+    "most_common_answer": "Yes, that is correct. Acidic hydrogen atoms are those that can be transferred as protons (H⁺) to bases during acid-base reactions",
+    "all_predicted_answers": [
+      "Yes, that is correct. Acidic hydrogen atoms are those that can be transferred as protons (H⁺) to bases during acid-base reactions"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct. Acidic hydrogen atoms are those that can be transferred as protons (H⁺) to bases during acid-base reactions": 1
+    },
+    "ground_truth": [
+      "a base"
+    ]
+  },
+  {
+    "data_id": 120,
+    "most_common_answer": "is metalloids",
+    "all_predicted_answers": [
+      "is metalloids"
+    ],
+    "answer_distribution": {
+      "is metalloids": 1
+    },
+    "ground_truth": [
+      "nonmetals"
+    ]
+  },
+  {
+    "data_id": 163,
+    "most_common_answer": "Yes, that is correct. One gram of protein provides approximately 4 calories of energy",
+    "all_predicted_answers": [
+      "Yes, that is correct. One gram of protein provides approximately 4 calories of energy"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct. One gram of protein provides approximately 4 calories of energy": 1
+    },
+    "ground_truth": [
+      "4"
+    ]
+  },
+  {
+    "data_id": 232,
+    "most_common_answer": "Yes, correct. The substance present in the lesser amount in a solution is called the solute",
+    "all_predicted_answers": [
+      "Yes, correct. The substance present in the lesser amount in a solution is called the solute"
+    ],
+    "answer_distribution": {
+      "Yes, correct. The substance present in the lesser amount in a solution is called the solute": 1
+    },
+    "ground_truth": [
+      "solute"
+    ]
+  },
+  {
+    "data_id": 268,
+    "most_common_answer": "No. The smallest particles of matter are atoms",
+    "all_predicted_answers": [
+      "No. The smallest particles of matter are atoms"
+    ],
+    "answer_distribution": {
+      "No. The smallest particles of matter are atoms": 1
+    },
+    "ground_truth": [
+      "atoms"
+    ]
+  },
+  {
+    "data_id": 159,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "third trimester"
+    ]
+  },
+  {
+    "data_id": 238,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "blue"
+    ]
+  },
+  {
+    "data_id": 114,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "light"
+    ]
+  },
+  {
+    "data_id": 194,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "angiosperms"
+    ]
+  },
+  {
+    "data_id": 201,
+    "most_common_answer": "is correct. The integumentary system provides a major route for heat flow between the interior and exterior of the body",
+    "all_predicted_answers": [
+      "is correct. The integumentary system provides a major route for heat flow between the interior and exterior of the body"
+    ],
+    "answer_distribution": {
+      "is correct. The integumentary system provides a major route for heat flow between the interior and exterior of the body": 1
+    },
+    "ground_truth": [
+      "the circulatory system"
+    ]
+  },
+  {
+    "data_id": 274,
+    "most_common_answer": "Yes, that is correct. The dense outer layer of bones is made up of cortical bone",
+    "all_predicted_answers": [
+      "Yes, that is correct. The dense outer layer of bones is made up of cortical bone"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct. The dense outer layer of bones is made up of cortical bone": 1
+    },
+    "ground_truth": [
+      "compact bone"
+    ]
+  },
+  {
+    "data_id": 293,
+    "most_common_answer": "is correct. Tangential acceleration (a_t) is equal to the angular acceleration multiplied by the radius of the rotating object",
+    "all_predicted_answers": [
+      "is correct. Tangential acceleration (a_t) is equal to the angular acceleration multiplied by the radius of the rotating object"
+    ],
+    "answer_distribution": {
+      "is correct. Tangential acceleration (a_t) is equal to the angular acceleration multiplied by the radius of the rotating object": 1
+    },
+    "ground_truth": [
+      "linear acceleration"
+    ]
+  },
+  {
+    "data_id": 183,
+    "most_common_answer": "is correct. Sedimentary rocks offer the richest source of fossils",
+    "all_predicted_answers": [
+      "is correct. Sedimentary rocks offer the richest source of fossils"
+    ],
+    "answer_distribution": {
+      "is correct. Sedimentary rocks offer the richest source of fossils": 1
+    },
+    "ground_truth": [
+      "sedimentary"
+    ]
+  },
+  {
+    "data_id": 9,
+    "most_common_answer": "is \"Biogeochemical cycles",
+    "all_predicted_answers": [
+      "is \"Biogeochemical cycles"
+    ],
+    "answer_distribution": {
+      "is \"Biogeochemical cycles": 1
+    },
+    "ground_truth": [
+      "biotic and abiotic"
+    ]
+  },
+  {
+    "data_id": 39,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "ph"
+    ]
+  },
+  {
+    "data_id": 60,
+    "most_common_answer": "Yes, that is correct. The tissue that develops into the scrotum in males and the labia in females is considered homologous",
+    "all_predicted_answers": [
+      "Yes, that is correct. The tissue that develops into the scrotum in males and the labia in females is considered homologous"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct. The tissue that develops into the scrotum in males and the labia in females is considered homologous": 1
+    },
+    "ground_truth": [
+      "homologous"
+    ]
+  },
+  {
+    "data_id": 64,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "four haploid cells"
+    ]
+  },
+  {
+    "data_id": 70,
+    "most_common_answer": "is photosynthesis",
+    "all_predicted_answers": [
+      "is photosynthesis"
+    ],
+    "answer_distribution": {
+      "is photosynthesis": 1
+    },
+    "ground_truth": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "data_id": 82,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "net force"
+    ]
+  },
+  {
+    "data_id": 196,
+    "most_common_answer": "is atomic orbitals",
+    "all_predicted_answers": [
+      "is atomic orbitals"
+    ],
+    "answer_distribution": {
+      "is atomic orbitals": 1
+    },
+    "ground_truth": [
+      "orbitals"
+    ]
+  },
+  {
+    "data_id": 256,
+    "most_common_answer": "is \"solution",
+    "all_predicted_answers": [
+      "is \"solution"
+    ],
+    "answer_distribution": {
+      "is \"solution": 1
+    },
+    "ground_truth": [
+      "a solution"
+    ]
+  },
+  {
+    "data_id": 253,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "heat"
+    ]
+  },
+  {
+    "data_id": 96,
+    "most_common_answer": "Yes, that is correct. Chemical formulas represent the composition of a substance, indicating the types and numbers of atoms present in a molecule",
+    "all_predicted_answers": [
+      "Yes, that is correct. Chemical formulas represent the composition of a substance, indicating the types and numbers of atoms present in a molecule"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct. Chemical formulas represent the composition of a substance, indicating the types and numbers of atoms present in a molecule": 1
+    },
+    "ground_truth": [
+      "compounds"
+    ]
+  },
+  {
+    "data_id": 291,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "diameter"
+    ]
+  },
+  {
+    "data_id": 94,
+    "most_common_answer": "is correct. The reticular activating system (RAS) influences activity in the cerebellum, spinal cord, and cerebral cortex",
+    "all_predicted_answers": [
+      "is correct. The reticular activating system (RAS) influences activity in the cerebellum, spinal cord, and cerebral cortex"
+    ],
+    "answer_distribution": {
+      "is correct. The reticular activating system (RAS) influences activity in the cerebellum, spinal cord, and cerebral cortex": 1
+    },
+    "ground_truth": [
+      "vestibular system"
+    ]
+  },
+  {
+    "data_id": 63,
+    "most_common_answer": "cell division\" is correct",
+    "all_predicted_answers": [
+      "cell division\" is correct"
+    ],
+    "answer_distribution": {
+      "cell division\" is correct": 1
+    },
+    "ground_truth": [
+      "cell division"
+    ]
+  },
+  {
+    "data_id": 65,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "north and south"
+    ]
+  },
+  {
+    "data_id": 109,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "carbon chains"
+    ]
+  },
+  {
+    "data_id": 192,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "oceanic crust"
+    ]
+  },
+  {
+    "data_id": 0,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "logistic growth"
+    ]
+  },
+  {
+    "data_id": 1,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "photons"
+    ]
+  },
+  {
+    "data_id": 2,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "ileum"
+    ]
+  },
+  {
+    "data_id": 3,
+    "most_common_answer": "is correct",
+    "all_predicted_answers": [
+      "is correct"
+    ],
+    "answer_distribution": {
+      "is correct": 1
+    },
+    "ground_truth": [
+      "oceanic"
+    ]
+  },
+  {
+    "data_id": 4,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "fight-or-flight"
+    ]
+  },
+  {
+    "data_id": 7,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "glycogen"
+    ]
+  },
+  {
+    "data_id": 8,
+    "most_common_answer": "is correct",
+    "all_predicted_answers": [
+      "is correct"
+    ],
+    "answer_distribution": {
+      "is correct": 1
+    },
+    "ground_truth": [
+      "100%"
+    ]
+  },
+  {
+    "data_id": 10,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "digestive system"
+    ]
+  },
+  {
+    "data_id": 11,
+    "most_common_answer": "Yes, the correct term is inheritance",
+    "all_predicted_answers": [
+      "Yes, the correct term is inheritance"
+    ],
+    "answer_distribution": {
+      "Yes, the correct term is inheritance": 1
+    },
+    "ground_truth": [
+      "heredity"
+    ]
+  },
+  {
+    "data_id": 12,
+    "most_common_answer": "Yes, that is correct. Potassium hydroxide (KOH) is used in the saponification process to produce liquid soap from fats or oils",
+    "all_predicted_answers": [
+      "Yes, that is correct. Potassium hydroxide (KOH) is used in the saponification process to produce liquid soap from fats or oils"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct. Potassium hydroxide (KOH) is used in the saponification process to produce liquid soap from fats or oils": 1
+    },
+    "ground_truth": [
+      "base"
+    ]
+  },
+  {
+    "data_id": 13,
+    "most_common_answer": "Yes, that is correct. The energy that matter possesses because of its location or structure is called potential energy",
+    "all_predicted_answers": [
+      "Yes, that is correct. The energy that matter possesses because of its location or structure is called potential energy"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct. The energy that matter possesses because of its location or structure is called potential energy": 1
+    },
+    "ground_truth": [
+      "potential energy"
+    ]
+  },
+  {
+    "data_id": 16,
+    "most_common_answer": "is the hand",
+    "all_predicted_answers": [
+      "is the hand"
+    ],
+    "answer_distribution": {
+      "is the hand": 1
+    },
+    "ground_truth": [
+      "hand"
+    ]
+  },
+  {
+    "data_id": 18,
+    "most_common_answer": "Yes, the term for an exact genetic copy is \"clone",
+    "all_predicted_answers": [
+      "Yes, the term for an exact genetic copy is \"clone"
+    ],
+    "answer_distribution": {
+      "Yes, the term for an exact genetic copy is \"clone": 1
+    },
+    "ground_truth": [
+      "clone"
+    ]
+  },
+  {
+    "data_id": 22,
+    "most_common_answer": "is not correct. The correct answer would be \"fossil records,\" \"comparative anatomy,\" \"genetic evidence,\" or \"biogeography,\" as these provide clear evidence of evolution",
+    "all_predicted_answers": [
+      "is not correct. The correct answer would be \"fossil records,\" \"comparative anatomy,\" \"genetic evidence,\" or \"biogeography,\" as these provide clear evidence of evolution"
+    ],
+    "answer_distribution": {
+      "is not correct. The correct answer would be \"fossil records,\" \"comparative anatomy,\" \"genetic evidence,\" or \"biogeography,\" as these provide clear evidence of evolution": 1
+    },
+    "ground_truth": [
+      "fossils"
+    ]
+  },
+  {
+    "data_id": 25,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "seamounts"
+    ]
+  },
+  {
+    "data_id": 27,
+    "most_common_answer": "Yes, that is correct. About 2.5% of the Earth's water is fresh water",
+    "all_predicted_answers": [
+      "Yes, that is correct. About 2.5% of the Earth's water is fresh water"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct. About 2.5% of the Earth's water is fresh water": 1
+    },
+    "ground_truth": [
+      "three percent"
+    ]
+  },
+  {
+    "data_id": 28,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "fossil fuels"
+    ]
+  },
+  {
+    "data_id": 30,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "amphibians"
+    ]
+  },
+  {
+    "data_id": 31,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "blue"
+    ]
+  },
+  {
+    "data_id": 33,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "dynamics"
+    ]
+  },
+  {
+    "data_id": 34,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "polymer"
+    ]
+  },
+  {
+    "data_id": 36,
+    "most_common_answer": "Yes, the proposed statement is correct",
+    "all_predicted_answers": [
+      "Yes, the proposed statement is correct"
+    ],
+    "answer_distribution": {
+      "Yes, the proposed statement is correct": 1
+    },
+    "ground_truth": [
+      "amoebozoans"
+    ]
+  },
+  {
+    "data_id": 37,
+    "most_common_answer": "Yes, that is correct. The term is \"ectothermic",
+    "all_predicted_answers": [
+      "Yes, that is correct. The term is \"ectothermic"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct. The term is \"ectothermic": 1
+    },
+    "ground_truth": [
+      "ectothermic"
+    ]
+  },
+  {
+    "data_id": 38,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "food"
+    ]
+  },
+  {
+    "data_id": 40,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "enantiomers"
+    ]
+  },
+  {
+    "data_id": 41,
+    "most_common_answer": "is correct. The chemical and/or physical agents that cause mutations are called mutagens",
+    "all_predicted_answers": [
+      "is correct. The chemical and/or physical agents that cause mutations are called mutagens"
+    ],
+    "answer_distribution": {
+      "is correct. The chemical and/or physical agents that cause mutations are called mutagens": 1
+    },
+    "ground_truth": [
+      "mutagens"
+    ]
+  },
+  {
+    "data_id": 42,
+    "most_common_answer": "Yes, the proposed statement is correct",
+    "all_predicted_answers": [
+      "Yes, the proposed statement is correct"
+    ],
+    "answer_distribution": {
+      "Yes, the proposed statement is correct": 1
+    },
+    "ground_truth": [
+      "energy"
+    ]
+  },
+  {
+    "data_id": 43,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "oxygen"
+    ]
+  },
+  {
+    "data_id": 44,
+    "most_common_answer": "is \"force",
+    "all_predicted_answers": [
+      "is \"force"
+    ],
+    "answer_distribution": {
+      "is \"force": 1
+    },
+    "ground_truth": [
+      "impulse"
+    ]
+  },
+  {
+    "data_id": 47,
+    "most_common_answer": "Yes, the internal carotid arteries take blood to the brain",
+    "all_predicted_answers": [
+      "Yes, the internal carotid arteries take blood to the brain"
+    ],
+    "answer_distribution": {
+      "Yes, the internal carotid arteries take blood to the brain": 1
+    },
+    "ground_truth": [
+      "carotid"
+    ]
+  },
+  {
+    "data_id": 49,
+    "most_common_answer": "Yes, the term is correct. The process is called \"implantation",
+    "all_predicted_answers": [
+      "Yes, the term is correct. The process is called \"implantation"
+    ],
+    "answer_distribution": {
+      "Yes, the term is correct. The process is called \"implantation": 1
+    },
+    "ground_truth": [
+      "implantation"
+    ]
+  },
+  {
+    "data_id": 50,
+    "most_common_answer": "is correct. Eukaryotic cells",
+    "all_predicted_answers": [
+      "is correct. Eukaryotic cells"
+    ],
+    "answer_distribution": {
+      "is correct. Eukaryotic cells": 1
+    },
+    "ground_truth": [
+      "eukaryotic"
+    ]
+  },
+  {
+    "data_id": 51,
+    "most_common_answer": "Yes, ecosystems recycle carbon through the carbon cycle",
+    "all_predicted_answers": [
+      "Yes, ecosystems recycle carbon through the carbon cycle"
+    ],
+    "answer_distribution": {
+      "Yes, ecosystems recycle carbon through the carbon cycle": 1
+    },
+    "ground_truth": [
+      "matter"
+    ]
+  },
+  {
+    "data_id": 52,
+    "most_common_answer": "Yes, quartz (SiO2) is one of the two most common silicates. The other is feldspar",
+    "all_predicted_answers": [
+      "Yes, quartz (SiO2) is one of the two most common silicates. The other is feldspar"
+    ],
+    "answer_distribution": {
+      "Yes, quartz (SiO2) is one of the two most common silicates. The other is feldspar": 1
+    },
+    "ground_truth": [
+      "feldspar and quartz"
+    ]
+  },
+  {
+    "data_id": 53,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "light years"
+    ]
+  },
+  {
+    "data_id": 54,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "radio telescopes"
+    ]
+  },
+  {
+    "data_id": 55,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "peripheral"
+    ]
+  },
+  {
+    "data_id": 56,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "data_id": 57,
+    "most_common_answer": "is correct. The speed at which a reaction proceeds is indicated by the reaction rate",
+    "all_predicted_answers": [
+      "is correct. The speed at which a reaction proceeds is indicated by the reaction rate"
+    ],
+    "answer_distribution": {
+      "is correct. The speed at which a reaction proceeds is indicated by the reaction rate": 1
+    },
+    "ground_truth": [
+      "the reaction rate"
+    ]
+  },
+  {
+    "data_id": 58,
+    "most_common_answer": "Yes, that is correct. The term is \"intraspecific competition",
+    "all_predicted_answers": [
+      "Yes, that is correct. The term is \"intraspecific competition"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct. The term is \"intraspecific competition": 1
+    },
+    "ground_truth": [
+      "intraspecific competition"
+    ]
+  },
+  {
+    "data_id": 59,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "darwin"
+    ]
+  },
+  {
+    "data_id": 62,
+    "most_common_answer": "Yes, that is correct. The basic variations of voltaic cells are the dry cell and the wet cell",
+    "all_predicted_answers": [
+      "Yes, that is correct. The basic variations of voltaic cells are the dry cell and the wet cell"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct. The basic variations of voltaic cells are the dry cell and the wet cell": 1
+    },
+    "ground_truth": [
+      "lead storage battery"
+    ]
+  },
+  {
+    "data_id": 66,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "pressure"
+    ]
+  },
+  {
+    "data_id": 67,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "wings"
+    ]
+  },
+  {
+    "data_id": 69,
+    "most_common_answer": "Yes, the term is \"clone",
+    "all_predicted_answers": [
+      "Yes, the term is \"clone"
+    ],
+    "answer_distribution": {
+      "Yes, the term is \"clone": 1
+    },
+    "ground_truth": [
+      "clone"
+    ]
+  },
+  {
+    "data_id": 71,
+    "most_common_answer": "metabolic pathway",
+    "all_predicted_answers": [
+      "metabolic pathway"
+    ],
+    "answer_distribution": {
+      "metabolic pathway": 1
+    },
+    "ground_truth": [
+      "metabolic pathway"
+    ]
+  },
+  {
+    "data_id": 72,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "hydrogen bond"
+    ]
+  },
+  {
+    "data_id": 73,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "nervous system"
+    ]
+  },
+  {
+    "data_id": 75,
+    "most_common_answer": "Yes, the correct term is buoyancy",
+    "all_predicted_answers": [
+      "Yes, the correct term is buoyancy"
+    ],
+    "answer_distribution": {
+      "Yes, the correct term is buoyancy": 1
+    },
+    "ground_truth": [
+      "buoyancy"
+    ]
+  },
+  {
+    "data_id": 77,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "taxonomy"
+    ]
+  },
+  {
+    "data_id": 78,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "retina"
+    ]
+  },
+  {
+    "data_id": 79,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "data_id": 80,
+    "most_common_answer": "is correct. The watery fluid that bathes tissues and organs, contains protective white blood cells, and does not contain erythrocytes is lymph",
+    "all_predicted_answers": [
+      "is correct. The watery fluid that bathes tissues and organs, contains protective white blood cells, and does not contain erythrocytes is lymph"
+    ],
+    "answer_distribution": {
+      "is correct. The watery fluid that bathes tissues and organs, contains protective white blood cells, and does not contain erythrocytes is lymph": 1
+    },
+    "ground_truth": [
+      "lymph"
+    ]
+  },
+  {
+    "data_id": 81,
+    "most_common_answer": "is ore",
+    "all_predicted_answers": [
+      "is ore"
+    ],
+    "answer_distribution": {
+      "is ore": 1
+    },
+    "ground_truth": [
+      "ore"
+    ]
+  },
+  {
+    "data_id": 83,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "pressure"
+    ]
+  },
+  {
+    "data_id": 85,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "electricity"
+    ]
+  },
+  {
+    "data_id": 86,
+    "most_common_answer": "is correct. The electron domain geometry of ammonia (NH₃) is tetrahedral",
+    "all_predicted_answers": [
+      "is correct. The electron domain geometry of ammonia (NH₃) is tetrahedral"
+    ],
+    "answer_distribution": {
+      "is correct. The electron domain geometry of ammonia (NH₃) is tetrahedral": 1
+    },
+    "ground_truth": [
+      "tetrahedral"
+    ]
+  },
+  {
+    "data_id": 88,
+    "most_common_answer": "No, the correct process is chemosynthesis",
+    "all_predicted_answers": [
+      "No, the correct process is chemosynthesis"
+    ],
+    "answer_distribution": {
+      "No, the correct process is chemosynthesis": 1
+    },
+    "ground_truth": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "data_id": 90,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "disaccharide"
+    ]
+  },
+  {
+    "data_id": 91,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "lunar"
+    ]
+  },
+  {
+    "data_id": 92,
+    "most_common_answer": "Yes, the correct term is melting",
+    "all_predicted_answers": [
+      "Yes, the correct term is melting"
+    ],
+    "answer_distribution": {
+      "Yes, the correct term is melting": 1
+    },
+    "ground_truth": [
+      "melting"
+    ]
+  },
+  {
+    "data_id": 93,
+    "most_common_answer": "Yes, the term is correct. The process is called \"exocytosis",
+    "all_predicted_answers": [
+      "Yes, the term is correct. The process is called \"exocytosis"
+    ],
+    "answer_distribution": {
+      "Yes, the term is correct. The process is called \"exocytosis": 1
+    },
+    "ground_truth": [
+      "exocytosis"
+    ]
+  },
+  {
+    "data_id": 95,
+    "most_common_answer": "Yes, that is correct",
+    "all_predicted_answers": [
+      "Yes, that is correct"
+    ],
+    "answer_distribution": {
+      "Yes, that is correct": 1
+    },
+    "ground_truth": [
+      "technology"
+    ]
+  },
+  {
+    "data_id": 97,
+    "most_common_answer": "Yes, correct",
+    "all_predicted_answers": [
+      "Yes, correct"
+    ],
+    "answer_distribution": {
+      "Yes, correct": 1
+    },
+    "ground_truth": [
+      "sperm"
+    ]
+  },
+  {
+    "data_id": 99,
+    "most_common_answer": "Yes, the proposed term \"Electrical Conductivity\" is correct. The two terms that designate how well aqueous solutions conduct electricity are \"Electrical Conductivity\" and \"Conductance",
+    "all_predicted_answers": [
+      "Yes, the proposed term \"Electrical Conductivity\" is correct. The two terms that designate how well aqueous solutions conduct electricity are \"Electrical Conductivity\" and \"Conductance"
+    ],
+    "answer_distribution": {
+      "Yes, the proposed term \"Electrical Conductivity\" is correct. The two terms that designate how well aqueous solutions conduct electricity are \"Electrical Conductivity\" and \"Conductance": 1
+    },
+    "ground_truth": [
+      "polar and nonpolar"
+    ]
+  },
+  {
+    "data_id": 100,
+    "most_common_answer": "Yes, the term \"Carbohydrates\" is correct",
+    "all_predicted_answers": [
+      "Yes, the term \"Carbohydrates\" is correct"
+    ],
+    "answer_distribution": {
+      "Yes, the term \"Carbohydrates\" is correct": 1
+    },
+    "ground_truth": [
+      "carbohydrates"
+    ]
+  }
+]

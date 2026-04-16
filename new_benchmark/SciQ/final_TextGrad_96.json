@@ -1,0 +1,1250 @@
+[
+  {
+    "data_id": 156,
+    "most_common_answer": "correct in identifying the prostate gland as a significant part of the male reproductive system associated with common disorders. However, it can be improved by including specific examples such as benign prostatic hyperplasia (BPH), prostate cancer, and prostatitis. Additionally, acknowledging that other parts of the male reproductive system, like the testes and penis, can also be involved in common disorders would provide a more comprehensive perspective. Lastly, clarifying that these disorders are particularly prevalent in aging men would enhance the specificity of the response",
+    "all_predicted_answers": [
+      "correct in identifying the prostate gland as a significant part of the male reproductive system associated with common disorders. However, it can be improved by including specific examples such as benign prostatic hyperplasia (BPH), prostate cancer, and prostatitis. Additionally, acknowledging that other parts of the male reproductive system, like the testes and penis, can also be involved in common disorders would provide a more comprehensive perspective. Lastly, clarifying that these disorders are particularly prevalent in aging men would enhance the specificity of the response"
+    ],
+    "answer_distribution": {
+      "correct in identifying the prostate gland as a significant part of the male reproductive system associated with common disorders. However, it can be improved by including specific examples such as benign prostatic hyperplasia (BPH), prostate cancer, and prostatitis. Additionally, acknowledging that other parts of the male reproductive system, like the testes and penis, can also be involved in common disorders would provide a more comprehensive perspective. Lastly, clarifying that these disorders are particularly prevalent in aging men would enhance the specificity of the response": 1
+    },
+    "ground_truth": [
+      "the testes"
+    ]
+  },
+  {
+    "data_id": 264,
+    "most_common_answer": "could be improved by defining \"acidic hydrogen atoms\" as those that can be released as protons (H⁺) during a reaction, specifying that they are transferred to a base in a proton transfer reaction, and providing examples to illustrate the concept",
+    "all_predicted_answers": [
+      "could be improved by defining \"acidic hydrogen atoms\" as those that can be released as protons (H⁺) during a reaction, specifying that they are transferred to a base in a proton transfer reaction, and providing examples to illustrate the concept"
+    ],
+    "answer_distribution": {
+      "could be improved by defining \"acidic hydrogen atoms\" as those that can be released as protons (H⁺) during a reaction, specifying that they are transferred to a base in a proton transfer reaction, and providing examples to illustrate the concept": 1
+    },
+    "ground_truth": [
+      "a base"
+    ]
+  },
+  {
+    "data_id": 120,
+    "most_common_answer": "Yes, your correction is accurate. The second largest class of elements is indeed nonmetals, while metalloids represent a smaller category",
+    "all_predicted_answers": [
+      "Yes, your correction is accurate. The second largest class of elements is indeed nonmetals, while metalloids represent a smaller category"
+    ],
+    "answer_distribution": {
+      "Yes, your correction is accurate. The second largest class of elements is indeed nonmetals, while metalloids represent a smaller category": 1
+    },
+    "ground_truth": [
+      "nonmetals"
+    ]
+  },
+  {
+    "data_id": 163,
+    "most_common_answer": "is that one gram of protein provides approximately four calories of energy",
+    "all_predicted_answers": [
+      "is that one gram of protein provides approximately four calories of energy"
+    ],
+    "answer_distribution": {
+      "is that one gram of protein provides approximately four calories of energy": 1
+    },
+    "ground_truth": [
+      "4"
+    ]
+  },
+  {
+    "data_id": 232,
+    "most_common_answer": "is \"solute.\" The substance present in the lesser amount in a solution is called the solute, while the substance present in the greater amount is the solvent",
+    "all_predicted_answers": [
+      "is \"solute.\" The substance present in the lesser amount in a solution is called the solute, while the substance present in the greater amount is the solvent"
+    ],
+    "answer_distribution": {
+      "is \"solute.\" The substance present in the lesser amount in a solution is called the solute, while the substance present in the greater amount is the solvent": 1
+    },
+    "ground_truth": [
+      "solute"
+    ]
+  },
+  {
+    "data_id": 268,
+    "most_common_answer": "would be: \"The smallest particles of matter are elementary particles, which include quarks and leptons (such as electrons).\" This acknowledges the existence of multiple types of fundamental particles that constitute matter",
+    "all_predicted_answers": [
+      "would be: \"The smallest particles of matter are elementary particles, which include quarks and leptons (such as electrons).\" This acknowledges the existence of multiple types of fundamental particles that constitute matter"
+    ],
+    "answer_distribution": {
+      "would be: \"The smallest particles of matter are elementary particles, which include quarks and leptons (such as electrons).\" This acknowledges the existence of multiple types of fundamental particles that constitute matter": 1
+    },
+    "ground_truth": [
+      "atoms"
+    ]
+  },
+  {
+    "data_id": 159,
+    "most_common_answer": "is the third trimester. It is characterized by significant fetal growth, development of vital organs, and preparation for labor and delivery. Providing additional context about these aspects would enhance the response",
+    "all_predicted_answers": [
+      "is the third trimester. It is characterized by significant fetal growth, development of vital organs, and preparation for labor and delivery. Providing additional context about these aspects would enhance the response"
+    ],
+    "answer_distribution": {
+      "is the third trimester. It is characterized by significant fetal growth, development of vital organs, and preparation for labor and delivery. Providing additional context about these aspects would enhance the response": 1
+    },
+    "ground_truth": [
+      "third trimester"
+    ]
+  },
+  {
+    "data_id": 238,
+    "most_common_answer": "is that turquoise is a blue-green color associated with the phosphate mineral turquoise. It can vary in shades, but the dominant color is typically blue-green",
+    "all_predicted_answers": [
+      "is that turquoise is a blue-green color associated with the phosphate mineral turquoise. It can vary in shades, but the dominant color is typically blue-green"
+    ],
+    "answer_distribution": {
+      "is that turquoise is a blue-green color associated with the phosphate mineral turquoise. It can vary in shades, but the dominant color is typically blue-green": 1
+    },
+    "ground_truth": [
+      "blue"
+    ]
+  },
+  {
+    "data_id": 114,
+    "most_common_answer": "is that according to the special theory of relativity, no physical object can equal or exceed the speed of light in a vacuum",
+    "all_predicted_answers": [
+      "is that according to the special theory of relativity, no physical object can equal or exceed the speed of light in a vacuum"
+    ],
+    "answer_distribution": {
+      "is that according to the special theory of relativity, no physical object can equal or exceed the speed of light in a vacuum": 1
+    },
+    "ground_truth": [
+      "light"
+    ]
+  },
+  {
+    "data_id": 194,
+    "most_common_answer": "1. **Definition of Success**: Clarifying that success can refer to diversity, abundance, and ecological dominance would provide a clearer context",
+    "all_predicted_answers": [
+      "1. **Definition of Success**: Clarifying that success can refer to diversity, abundance, and ecological dominance would provide a clearer context"
+    ],
+    "answer_distribution": {
+      "1. **Definition of Success**: Clarifying that success can refer to diversity, abundance, and ecological dominance would provide a clearer context": 1
+    },
+    "ground_truth": [
+      "angiosperms"
+    ]
+  },
+  {
+    "data_id": 201,
+    "most_common_answer": "is the **integumentary system**. It is primarily responsible for heat exchange between the body and the environment through the skin",
+    "all_predicted_answers": [
+      "is the **integumentary system**. It is primarily responsible for heat exchange between the body and the environment through the skin"
+    ],
+    "answer_distribution": {
+      "is the **integumentary system**. It is primarily responsible for heat exchange between the body and the environment through the skin": 1
+    },
+    "ground_truth": [
+      "the circulatory system"
+    ]
+  },
+  {
+    "data_id": 274,
+    "most_common_answer": "is cortical bone, also known as compact bone. It forms the dense outer layer of bones and provides strength and support",
+    "all_predicted_answers": [
+      "is cortical bone, also known as compact bone. It forms the dense outer layer of bones and provides strength and support"
+    ],
+    "answer_distribution": {
+      "is cortical bone, also known as compact bone. It forms the dense outer layer of bones and provides strength and support": 1
+    },
+    "ground_truth": [
+      "compact bone"
+    ]
+  },
+  {
+    "data_id": 293,
+    "most_common_answer": "is that angular acceleration (α) multiplied by the radius (r) gives tangential acceleration (a_t). The relationship is expressed as:",
+    "all_predicted_answers": [
+      "is that angular acceleration (α) multiplied by the radius (r) gives tangential acceleration (a_t). The relationship is expressed as:"
+    ],
+    "answer_distribution": {
+      "is that angular acceleration (α) multiplied by the radius (r) gives tangential acceleration (a_t). The relationship is expressed as:": 1
+    },
+    "ground_truth": [
+      "linear acceleration"
+    ]
+  },
+  {
+    "data_id": 183,
+    "most_common_answer": "Yes, your critique is correct. While limestone is a notable source of fossils, particularly marine ones, other sedimentary rocks like shale and sandstone can also be rich in fossils. The richness of fossils in any rock type depends on various geological and environmental factors. A more accurate statement would indeed be that \"sedimentary rocks, including limestone, shale, and sandstone, can be rich sources of fossils, depending on specific conditions",
+    "all_predicted_answers": [
+      "Yes, your critique is correct. While limestone is a notable source of fossils, particularly marine ones, other sedimentary rocks like shale and sandstone can also be rich in fossils. The richness of fossils in any rock type depends on various geological and environmental factors. A more accurate statement would indeed be that \"sedimentary rocks, including limestone, shale, and sandstone, can be rich sources of fossils, depending on specific conditions"
+    ],
+    "answer_distribution": {
+      "Yes, your critique is correct. While limestone is a notable source of fossils, particularly marine ones, other sedimentary rocks like shale and sandstone can also be rich in fossils. The richness of fossils in any rock type depends on various geological and environmental factors. A more accurate statement would indeed be that \"sedimentary rocks, including limestone, shale, and sandstone, can be rich sources of fossils, depending on specific conditions": 1
+    },
+    "ground_truth": [
+      "sedimentary"
+    ]
+  },
+  {
+    "data_id": 9,
+    "most_common_answer": "is correct in identifying that chemical elements and water pass through biogeochemical cycles during ecosystem recycling. However, it can be improved by providing a brief definition of biogeochemical cycles, including examples like the carbon, nitrogen, and water cycles, and rephrasing for clarity. A refined response could be:",
+    "all_predicted_answers": [
+      "is correct in identifying that chemical elements and water pass through biogeochemical cycles during ecosystem recycling. However, it can be improved by providing a brief definition of biogeochemical cycles, including examples like the carbon, nitrogen, and water cycles, and rephrasing for clarity. A refined response could be:"
+    ],
+    "answer_distribution": {
+      "is correct in identifying that chemical elements and water pass through biogeochemical cycles during ecosystem recycling. However, it can be improved by providing a brief definition of biogeochemical cycles, including examples like the carbon, nitrogen, and water cycles, and rephrasing for clarity. A refined response could be:": 1
+    },
+    "ground_truth": [
+      "biotic and abiotic"
+    ]
+  },
+  {
+    "data_id": 39,
+    "most_common_answer": "is correct. It clearly states that neutral salts do not significantly affect the pH of a solution when dissolved in water, while acknowledging that there may be minor effects depending on concentration and specific ions",
+    "all_predicted_answers": [
+      "is correct. It clearly states that neutral salts do not significantly affect the pH of a solution when dissolved in water, while acknowledging that there may be minor effects depending on concentration and specific ions"
+    ],
+    "answer_distribution": {
+      "is correct. It clearly states that neutral salts do not significantly affect the pH of a solution when dissolved in water, while acknowledging that there may be minor effects depending on concentration and specific ions": 1
+    },
+    "ground_truth": [
+      "ph"
+    ]
+  },
+  {
+    "data_id": 60,
+    "most_common_answer": "is that the scrotum and the labia majora are homologous structures, both derived from the labioscrotal swellings. The initial statement incorrectly implies a transformation rather than a shared origin",
+    "all_predicted_answers": [
+      "is that the scrotum and the labia majora are homologous structures, both derived from the labioscrotal swellings. The initial statement incorrectly implies a transformation rather than a shared origin"
+    ],
+    "answer_distribution": {
+      "is that the scrotum and the labia majora are homologous structures, both derived from the labioscrotal swellings. The initial statement incorrectly implies a transformation rather than a shared origin": 1
+    },
+    "ground_truth": [
+      "homologous"
+    ]
+  },
+  {
+    "data_id": 64,
+    "most_common_answer": "would be: \"At the end of meiosis, four haploid gametes are produced, each containing half the number of chromosomes of the original diploid cell",
+    "all_predicted_answers": [
+      "would be: \"At the end of meiosis, four haploid gametes are produced, each containing half the number of chromosomes of the original diploid cell"
+    ],
+    "answer_distribution": {
+      "would be: \"At the end of meiosis, four haploid gametes are produced, each containing half the number of chromosomes of the original diploid cell": 1
+    },
+    "ground_truth": [
+      "four haploid cells"
+    ]
+  },
+  {
+    "data_id": 70,
+    "most_common_answer": "accurately identifies the specific substances involved in each process",
+    "all_predicted_answers": [
+      "accurately identifies the specific substances involved in each process"
+    ],
+    "answer_distribution": {
+      "accurately identifies the specific substances involved in each process": 1
+    },
+    "ground_truth": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "data_id": 82,
+    "most_common_answer": "is correct. When one subtracts the frictional force from the applied force, the result is the net force acting on the object. For clarity, it's important to note that the net force determines the object's acceleration according to Newton's second law (F = ma). Additionally, the direction of the forces should be considered, as friction typically opposes the applied force. Forces are measured in Newtons (N), which provides further context. Overall, while the answer is fundamentally accurate, adding this context enhances understanding",
+    "all_predicted_answers": [
+      "is correct. When one subtracts the frictional force from the applied force, the result is the net force acting on the object. For clarity, it's important to note that the net force determines the object's acceleration according to Newton's second law (F = ma). Additionally, the direction of the forces should be considered, as friction typically opposes the applied force. Forces are measured in Newtons (N), which provides further context. Overall, while the answer is fundamentally accurate, adding this context enhances understanding"
+    ],
+    "answer_distribution": {
+      "is correct. When one subtracts the frictional force from the applied force, the result is the net force acting on the object. For clarity, it's important to note that the net force determines the object's acceleration according to Newton's second law (F = ma). Additionally, the direction of the forces should be considered, as friction typically opposes the applied force. Forces are measured in Newtons (N), which provides further context. Overall, while the answer is fundamentally accurate, adding this context enhances understanding": 1
+    },
+    "ground_truth": [
+      "net force"
+    ]
+  },
+  {
+    "data_id": 196,
+    "most_common_answer": "is atomic orbitals",
+    "all_predicted_answers": [
+      "is atomic orbitals"
+    ],
+    "answer_distribution": {
+      "is atomic orbitals": 1
+    },
+    "ground_truth": [
+      "orbitals"
+    ]
+  },
+  {
+    "data_id": 256,
+    "most_common_answer": "correct. A solution is formed when one substance (the solute) dissolves in another (the solvent), resulting in a homogeneous mixture. Your critique adds valuable clarification about the nature of solutions compared to other types of mixtures like suspensions and colloids",
+    "all_predicted_answers": [
+      "correct. A solution is formed when one substance (the solute) dissolves in another (the solvent), resulting in a homogeneous mixture. Your critique adds valuable clarification about the nature of solutions compared to other types of mixtures like suspensions and colloids"
+    ],
+    "answer_distribution": {
+      "correct. A solution is formed when one substance (the solute) dissolves in another (the solvent), resulting in a homogeneous mixture. Your critique adds valuable clarification about the nature of solutions compared to other types of mixtures like suspensions and colloids": 1
+    },
+    "ground_truth": [
+      "a solution"
+    ]
+  },
+  {
+    "data_id": 253,
+    "most_common_answer": "is latent heat. When water vapor condenses into liquid droplets, latent heat is released into the atmosphere, contributing to atmospheric processes and weather systems",
+    "all_predicted_answers": [
+      "is latent heat. When water vapor condenses into liquid droplets, latent heat is released into the atmosphere, contributing to atmospheric processes and weather systems"
+    ],
+    "answer_distribution": {
+      "is latent heat. When water vapor condenses into liquid droplets, latent heat is released into the atmosphere, contributing to atmospheric processes and weather systems": 1
+    },
+    "ground_truth": [
+      "heat"
+    ]
+  },
+  {
+    "data_id": 96,
+    "most_common_answer": "is that chemical formulas represent chemical compounds, indicating the types and quantities of atoms present in a substance",
+    "all_predicted_answers": [
+      "is that chemical formulas represent chemical compounds, indicating the types and quantities of atoms present in a substance"
+    ],
+    "answer_distribution": {
+      "is that chemical formulas represent chemical compounds, indicating the types and quantities of atoms present in a substance": 1
+    },
+    "ground_truth": [
+      "compounds"
+    ]
+  },
+  {
+    "data_id": 291,
+    "most_common_answer": "is vasodilation",
+    "all_predicted_answers": [
+      "is vasodilation"
+    ],
+    "answer_distribution": {
+      "is vasodilation": 1
+    },
+    "ground_truth": [
+      "diameter"
+    ]
+  },
+  {
+    "data_id": 94,
+    "most_common_answer": "Yes, the correct term is the \"reticular formation.\" While the reticular activating system (RAS) is a part of it and is involved in arousal and attention, the reticular formation as a whole encompasses the broader network that influences various brain regions, including the cerebellum, spinal cord, and cerebral cortex",
+    "all_predicted_answers": [
+      "Yes, the correct term is the \"reticular formation.\" While the reticular activating system (RAS) is a part of it and is involved in arousal and attention, the reticular formation as a whole encompasses the broader network that influences various brain regions, including the cerebellum, spinal cord, and cerebral cortex"
+    ],
+    "answer_distribution": {
+      "Yes, the correct term is the \"reticular formation.\" While the reticular activating system (RAS) is a part of it and is involved in arousal and attention, the reticular formation as a whole encompasses the broader network that influences various brain regions, including the cerebellum, spinal cord, and cerebral cortex": 1
+    },
+    "ground_truth": [
+      "vestibular system"
+    ]
+  },
+  {
+    "data_id": 63,
+    "most_common_answer": "is correct in identifying mitosis as the primary process for cell growth, repair, and replacement of worn-out cells. However, it should indeed be expanded to include the roles of cell differentiation and stem cell activity, which are also essential for these functions. A comprehensive answer would acknowledge that while mitosis is crucial for somatic cell division, other processes like differentiation and stem cell activation play significant roles in tissue repair and regeneration",
+    "all_predicted_answers": [
+      "is correct in identifying mitosis as the primary process for cell growth, repair, and replacement of worn-out cells. However, it should indeed be expanded to include the roles of cell differentiation and stem cell activity, which are also essential for these functions. A comprehensive answer would acknowledge that while mitosis is crucial for somatic cell division, other processes like differentiation and stem cell activation play significant roles in tissue repair and regeneration"
+    ],
+    "answer_distribution": {
+      "is correct in identifying mitosis as the primary process for cell growth, repair, and replacement of worn-out cells. However, it should indeed be expanded to include the roles of cell differentiation and stem cell activity, which are also essential for these functions. A comprehensive answer would acknowledge that while mitosis is crucial for somatic cell division, other processes like differentiation and stem cell activation play significant roles in tissue repair and regeneration": 1
+    },
+    "ground_truth": [
+      "cell division"
+    ]
+  },
+  {
+    "data_id": 65,
+    "most_common_answer": "is that Earth's axis is an imaginary line passing through the North Pole and the South Pole",
+    "all_predicted_answers": [
+      "is that Earth's axis is an imaginary line passing through the North Pole and the South Pole"
+    ],
+    "answer_distribution": {
+      "is that Earth's axis is an imaginary line passing through the North Pole and the South Pole": 1
+    },
+    "ground_truth": [
+      "north and south"
+    ]
+  },
+  {
+    "data_id": 109,
+    "most_common_answer": "correct. Carbon atoms do form the skeletons of most organic molecules. To enhance clarity, it could mention carbon's ability to form stable covalent bonds with itself and other elements, contributing to the diversity of organic compounds. Additionally, acknowledging the roles of other elements like hydrogen, oxygen, and nitrogen would provide a more comprehensive understanding",
+    "all_predicted_answers": [
+      "correct. Carbon atoms do form the skeletons of most organic molecules. To enhance clarity, it could mention carbon's ability to form stable covalent bonds with itself and other elements, contributing to the diversity of organic compounds. Additionally, acknowledging the roles of other elements like hydrogen, oxygen, and nitrogen would provide a more comprehensive understanding"
+    ],
+    "answer_distribution": {
+      "correct. Carbon atoms do form the skeletons of most organic molecules. To enhance clarity, it could mention carbon's ability to form stable covalent bonds with itself and other elements, contributing to the diversity of organic compounds. Additionally, acknowledging the roles of other elements like hydrogen, oxygen, and nitrogen would provide a more comprehensive understanding": 1
+    },
+    "ground_truth": [
+      "carbon chains"
+    ]
+  },
+  {
+    "data_id": 192,
+    "most_common_answer": "Gabbro can be found in various geological settings worldwide, particularly in areas with volcanic activity, along mid-ocean ridges, and in continental crust regions. While it is present in Iceland, it is not limited to that location",
+    "all_predicted_answers": [
+      "Gabbro can be found in various geological settings worldwide, particularly in areas with volcanic activity, along mid-ocean ridges, and in continental crust regions. While it is present in Iceland, it is not limited to that location"
+    ],
+    "answer_distribution": {
+      "Gabbro can be found in various geological settings worldwide, particularly in areas with volcanic activity, along mid-ocean ridges, and in continental crust regions. While it is present in Iceland, it is not limited to that location": 1
+    },
+    "ground_truth": [
+      "oceanic crust"
+    ]
+  },
+  {
+    "data_id": 0,
+    "most_common_answer": "correct. When resources are limited, populations exhibit logistic growth, characterized by an initial rapid increase followed by a slowdown as they approach the environment's carrying capacity. Expanding on the concept of carrying capacity would enhance the explanation, but the core answer is accurate",
+    "all_predicted_answers": [
+      "correct. When resources are limited, populations exhibit logistic growth, characterized by an initial rapid increase followed by a slowdown as they approach the environment's carrying capacity. Expanding on the concept of carrying capacity would enhance the explanation, but the core answer is accurate"
+    ],
+    "answer_distribution": {
+      "correct. When resources are limited, populations exhibit logistic growth, characterized by an initial rapid increase followed by a slowdown as they approach the environment's carrying capacity. Expanding on the concept of carrying capacity would enhance the explanation, but the core answer is accurate": 1
+    },
+    "ground_truth": [
+      "logistic growth"
+    ]
+  },
+  {
+    "data_id": 1,
+    "most_common_answer": "is photons",
+    "all_predicted_answers": [
+      "is photons"
+    ],
+    "answer_distribution": {
+      "is photons": 1
+    },
+    "ground_truth": [
+      "photons"
+    ]
+  },
+  {
+    "data_id": 2,
+    "most_common_answer": "is ileum",
+    "all_predicted_answers": [
+      "is ileum"
+    ],
+    "answer_distribution": {
+      "is ileum": 1
+    },
+    "ground_truth": [
+      "ileum"
+    ]
+  },
+  {
+    "data_id": 3,
+    "most_common_answer": "is oceanic crust",
+    "all_predicted_answers": [
+      "is oceanic crust"
+    ],
+    "answer_distribution": {
+      "is oceanic crust": 1
+    },
+    "ground_truth": [
+      "oceanic"
+    ]
+  },
+  {
+    "data_id": 4,
+    "most_common_answer": "is \"the fight or flight response to stress.\" This phrasing enhances clarity while accurately describing the stress response associated with epinephrine and norepinephrine",
+    "all_predicted_answers": [
+      "is \"the fight or flight response to stress.\" This phrasing enhances clarity while accurately describing the stress response associated with epinephrine and norepinephrine"
+    ],
+    "answer_distribution": {
+      "is \"the fight or flight response to stress.\" This phrasing enhances clarity while accurately describing the stress response associated with epinephrine and norepinephrine": 1
+    },
+    "ground_truth": [
+      "fight-or-flight"
+    ]
+  },
+  {
+    "data_id": 7,
+    "most_common_answer": "is glycogen. It is primarily stored in the liver and muscle cells of humans and other vertebrates. Your critique is accurate",
+    "all_predicted_answers": [
+      "is glycogen. It is primarily stored in the liver and muscle cells of humans and other vertebrates. Your critique is accurate"
+    ],
+    "answer_distribution": {
+      "is glycogen. It is primarily stored in the liver and muscle cells of humans and other vertebrates. Your critique is accurate": 1
+    },
+    "ground_truth": [
+      "glycogen"
+    ]
+  },
+  {
+    "data_id": 8,
+    "most_common_answer": "Yes, the critique is valid. The original statement lacks clarity and context, as the percentage of tilled land in traditional plowing can vary widely based on factors like crop type, soil conditions, and regional practices. A more precise and contextualized statement would enhance understanding and accuracy",
+    "all_predicted_answers": [
+      "Yes, the critique is valid. The original statement lacks clarity and context, as the percentage of tilled land in traditional plowing can vary widely based on factors like crop type, soil conditions, and regional practices. A more precise and contextualized statement would enhance understanding and accuracy"
+    ],
+    "answer_distribution": {
+      "Yes, the critique is valid. The original statement lacks clarity and context, as the percentage of tilled land in traditional plowing can vary widely based on factors like crop type, soil conditions, and regional practices. A more precise and contextualized statement would enhance understanding and accuracy": 1
+    },
+    "ground_truth": [
+      "100%"
+    ]
+  },
+  {
+    "data_id": 10,
+    "most_common_answer": "is the digestive system",
+    "all_predicted_answers": [
+      "is the digestive system"
+    ],
+    "answer_distribution": {
+      "is the digestive system": 1
+    },
+    "ground_truth": [
+      "digestive system"
+    ]
+  },
+  {
+    "data_id": 11,
+    "most_common_answer": "is \"heredity",
+    "all_predicted_answers": [
+      "is \"heredity"
+    ],
+    "answer_distribution": {
+      "is \"heredity": 1
+    },
+    "ground_truth": [
+      "heredity"
+    ]
+  },
+  {
+    "data_id": 12,
+    "most_common_answer": "Yes, the identification of potassium hydroxide (KOH) as a strong base is correct. Additionally, it would be beneficial to specify that KOH is commonly used in the production of liquid soap and is involved in the saponification process, where it reacts with fats or oils to produce soap. Including this context enhances the answer's informativeness",
+    "all_predicted_answers": [
+      "Yes, the identification of potassium hydroxide (KOH) as a strong base is correct. Additionally, it would be beneficial to specify that KOH is commonly used in the production of liquid soap and is involved in the saponification process, where it reacts with fats or oils to produce soap. Including this context enhances the answer's informativeness"
+    ],
+    "answer_distribution": {
+      "Yes, the identification of potassium hydroxide (KOH) as a strong base is correct. Additionally, it would be beneficial to specify that KOH is commonly used in the production of liquid soap and is involved in the saponification process, where it reacts with fats or oils to produce soap. Including this context enhances the answer's informativeness": 1
+    },
+    "ground_truth": [
+      "base"
+    ]
+  },
+  {
+    "data_id": 13,
+    "most_common_answer": "is potential energy",
+    "all_predicted_answers": [
+      "is potential energy"
+    ],
+    "answer_distribution": {
+      "is potential energy": 1
+    },
+    "ground_truth": [
+      "potential energy"
+    ]
+  },
+  {
+    "data_id": 16,
+    "most_common_answer": "is \"the hand.\" The critique accurately describes the roles of carpal, metacarpal, and phalanx bones in the structure of the hand",
+    "all_predicted_answers": [
+      "is \"the hand.\" The critique accurately describes the roles of carpal, metacarpal, and phalanx bones in the structure of the hand"
+    ],
+    "answer_distribution": {
+      "is \"the hand.\" The critique accurately describes the roles of carpal, metacarpal, and phalanx bones in the structure of the hand": 1
+    },
+    "ground_truth": [
+      "hand"
+    ]
+  },
+  {
+    "data_id": 18,
+    "most_common_answer": "is \"clone",
+    "all_predicted_answers": [
+      "is \"clone"
+    ],
+    "answer_distribution": {
+      "is \"clone": 1
+    },
+    "ground_truth": [
+      "clone"
+    ]
+  },
+  {
+    "data_id": 22,
+    "most_common_answer": "would state that clear evidence of evolution comes from multiple sources, including fossil records, comparative anatomy, molecular biology, embryology, and biogeography. It should also mention the mechanisms of evolution, such as natural selection and genetic drift, to provide a fuller understanding of how evolution occurs",
+    "all_predicted_answers": [
+      "would state that clear evidence of evolution comes from multiple sources, including fossil records, comparative anatomy, molecular biology, embryology, and biogeography. It should also mention the mechanisms of evolution, such as natural selection and genetic drift, to provide a fuller understanding of how evolution occurs"
+    ],
+    "answer_distribution": {
+      "would state that clear evidence of evolution comes from multiple sources, including fossil records, comparative anatomy, molecular biology, embryology, and biogeography. It should also mention the mechanisms of evolution, such as natural selection and genetic drift, to provide a fuller understanding of how evolution occurs": 1
+    },
+    "ground_truth": [
+      "fossils"
+    ]
+  },
+  {
+    "data_id": 25,
+    "most_common_answer": "is \"seamounts",
+    "all_predicted_answers": [
+      "is \"seamounts"
+    ],
+    "answer_distribution": {
+      "is \"seamounts": 1
+    },
+    "ground_truth": [
+      "seamounts"
+    ]
+  },
+  {
+    "data_id": 27,
+    "most_common_answer": "Yes, that is a correct and improved answer. It accurately states that about 2.5% of the Earth's water is freshwater while providing important context about the accessibility of this water. The clarification about the majority of Earth's water being saltwater is also valuable",
+    "all_predicted_answers": [
+      "Yes, that is a correct and improved answer. It accurately states that about 2.5% of the Earth's water is freshwater while providing important context about the accessibility of this water. The clarification about the majority of Earth's water being saltwater is also valuable"
+    ],
+    "answer_distribution": {
+      "Yes, that is a correct and improved answer. It accurately states that about 2.5% of the Earth's water is freshwater while providing important context about the accessibility of this water. The clarification about the majority of Earth's water being saltwater is also valuable": 1
+    },
+    "ground_truth": [
+      "three percent"
+    ]
+  },
+  {
+    "data_id": 28,
+    "most_common_answer": "is that the majority of electricity in the U.S. is produced by natural gas, followed by renewable sources (like wind and solar) and then coal. This reflects the evolving landscape of electricity generation, with natural gas having surpassed coal in recent years",
+    "all_predicted_answers": [
+      "is that the majority of electricity in the U.S. is produced by natural gas, followed by renewable sources (like wind and solar) and then coal. This reflects the evolving landscape of electricity generation, with natural gas having surpassed coal in recent years"
+    ],
+    "answer_distribution": {
+      "is that the majority of electricity in the U.S. is produced by natural gas, followed by renewable sources (like wind and solar) and then coal. This reflects the evolving landscape of electricity generation, with natural gas having surpassed coal in recent years": 1
+    },
+    "ground_truth": [
+      "fossil fuels"
+    ]
+  },
+  {
+    "data_id": 30,
+    "most_common_answer": "is amphibians. They are specifically adapted to live in both aquatic and terrestrial environments",
+    "all_predicted_answers": [
+      "is amphibians. They are specifically adapted to live in both aquatic and terrestrial environments"
+    ],
+    "answer_distribution": {
+      "is amphibians. They are specifically adapted to live in both aquatic and terrestrial environments": 1
+    },
+    "ground_truth": [
+      "amphibians"
+    ]
+  },
+  {
+    "data_id": 31,
+    "most_common_answer": "would state that water appears blue in large volumes due to the absorption of red light and the scattering of blue light, rather than emitting a blue hue itself",
+    "all_predicted_answers": [
+      "would state that water appears blue in large volumes due to the absorption of red light and the scattering of blue light, rather than emitting a blue hue itself"
+    ],
+    "answer_distribution": {
+      "would state that water appears blue in large volumes due to the absorption of red light and the scattering of blue light, rather than emitting a blue hue itself": 1
+    },
+    "ground_truth": [
+      "blue"
+    ]
+  },
+  {
+    "data_id": 33,
+    "most_common_answer": "is \"mechanics,\" which is the branch of physics that specifically studies how forces affect the motion of objects",
+    "all_predicted_answers": [
+      "is \"mechanics,\" which is the branch of physics that specifically studies how forces affect the motion of objects"
+    ],
+    "answer_distribution": {
+      "is \"mechanics,\" which is the branch of physics that specifically studies how forces affect the motion of objects": 1
+    },
+    "ground_truth": [
+      "dynamics"
+    ]
+  },
+  {
+    "data_id": 34,
+    "most_common_answer": "is \"polymer",
+    "all_predicted_answers": [
+      "is \"polymer"
+    ],
+    "answer_distribution": {
+      "is \"polymer": 1
+    },
+    "ground_truth": [
+      "polymer"
+    ]
+  },
+  {
+    "data_id": 36,
+    "most_common_answer": "is that Gymnamoebas constitute a large and varied group of protozoa, specifically within the phylum Amoebozoa",
+    "all_predicted_answers": [
+      "is that Gymnamoebas constitute a large and varied group of protozoa, specifically within the phylum Amoebozoa"
+    ],
+    "answer_distribution": {
+      "is that Gymnamoebas constitute a large and varied group of protozoa, specifically within the phylum Amoebozoa": 1
+    },
+    "ground_truth": [
+      "amoebozoans"
+    ]
+  },
+  {
+    "data_id": 37,
+    "most_common_answer": "is \"Ectothermic",
+    "all_predicted_answers": [
+      "is \"Ectothermic"
+    ],
+    "answer_distribution": {
+      "is \"Ectothermic": 1
+    },
+    "ground_truth": [
+      "ectothermic"
+    ]
+  },
+  {
+    "data_id": 38,
+    "most_common_answer": "is that bees perform a dance to communicate the location of food sources",
+    "all_predicted_answers": [
+      "is that bees perform a dance to communicate the location of food sources"
+    ],
+    "answer_distribution": {
+      "is that bees perform a dance to communicate the location of food sources": 1
+    },
+    "ground_truth": [
+      "food"
+    ]
+  },
+  {
+    "data_id": 40,
+    "most_common_answer": "Yes, your revised sentence is correct and improves clarity. It effectively communicates that the different mechanisms of action of ibuprofen and albuterol lead to their distinct therapeutic effects",
+    "all_predicted_answers": [
+      "Yes, your revised sentence is correct and improves clarity. It effectively communicates that the different mechanisms of action of ibuprofen and albuterol lead to their distinct therapeutic effects"
+    ],
+    "answer_distribution": {
+      "Yes, your revised sentence is correct and improves clarity. It effectively communicates that the different mechanisms of action of ibuprofen and albuterol lead to their distinct therapeutic effects": 1
+    },
+    "ground_truth": [
+      "enantiomers"
+    ]
+  },
+  {
+    "data_id": 41,
+    "most_common_answer": "is \"mutagens",
+    "all_predicted_answers": [
+      "is \"mutagens"
+    ],
+    "answer_distribution": {
+      "is \"mutagens": 1
+    },
+    "ground_truth": [
+      "mutagens"
+    ]
+  },
+  {
+    "data_id": 42,
+    "most_common_answer": "is energy. It must be constantly added to an ecosystem, as it flows through the system and is not recycled like matter",
+    "all_predicted_answers": [
+      "is energy. It must be constantly added to an ecosystem, as it flows through the system and is not recycled like matter"
+    ],
+    "answer_distribution": {
+      "is energy. It must be constantly added to an ecosystem, as it flows through the system and is not recycled like matter": 1
+    },
+    "ground_truth": [
+      "energy"
+    ]
+  },
+  {
+    "data_id": 43,
+    "most_common_answer": "is oxygen. Aeration increases the oxygen content in water, which is vital for plant root respiration",
+    "all_predicted_answers": [
+      "is oxygen. Aeration increases the oxygen content in water, which is vital for plant root respiration"
+    ],
+    "answer_distribution": {
+      "is oxygen. Aeration increases the oxygen content in water, which is vital for plant root respiration": 1
+    },
+    "ground_truth": [
+      "oxygen"
+    ]
+  },
+  {
+    "data_id": 44,
+    "most_common_answer": "is \"force.\" While acceleration can be in the same direction as the force according to Newton's second law (F = ma), the vector quantity that directly corresponds to the applied force is indeed \"force\" itself",
+    "all_predicted_answers": [
+      "is \"force.\" While acceleration can be in the same direction as the force according to Newton's second law (F = ma), the vector quantity that directly corresponds to the applied force is indeed \"force\" itself"
+    ],
+    "answer_distribution": {
+      "is \"force.\" While acceleration can be in the same direction as the force according to Newton's second law (F = ma), the vector quantity that directly corresponds to the applied force is indeed \"force\" itself": 1
+    },
+    "ground_truth": [
+      "impulse"
+    ]
+  },
+  {
+    "data_id": 47,
+    "most_common_answer": "The brain receives blood primarily from the left and right common carotid arteries, as well as the vertebral arteries. Together, these arteries supply oxygenated blood to different regions of the brain",
+    "all_predicted_answers": [
+      "The brain receives blood primarily from the left and right common carotid arteries, as well as the vertebral arteries. Together, these arteries supply oxygenated blood to different regions of the brain"
+    ],
+    "answer_distribution": {
+      "The brain receives blood primarily from the left and right common carotid arteries, as well as the vertebral arteries. Together, these arteries supply oxygenated blood to different regions of the brain": 1
+    },
+    "ground_truth": [
+      "carotid"
+    ]
+  },
+  {
+    "data_id": 49,
+    "most_common_answer": "is \"implantation",
+    "all_predicted_answers": [
+      "is \"implantation"
+    ],
+    "answer_distribution": {
+      "is \"implantation": 1
+    },
+    "ground_truth": [
+      "implantation"
+    ]
+  },
+  {
+    "data_id": 50,
+    "most_common_answer": "is eukaryotic cells",
+    "all_predicted_answers": [
+      "is eukaryotic cells"
+    ],
+    "answer_distribution": {
+      "is eukaryotic cells": 1
+    },
+    "ground_truth": [
+      "eukaryotic"
+    ]
+  },
+  {
+    "data_id": 51,
+    "most_common_answer": "correctly identifies that ecosystems recycle nutrients, but it can be improved by specifying the types of nutrients (like carbon, nitrogen, and phosphorus) and explaining the processes involved in nutrient cycling, such as decomposition. Additionally, clarifying the distinction between the one-way flow of energy and the cyclical nature of nutrient recycling would provide a more comprehensive understanding",
+    "all_predicted_answers": [
+      "correctly identifies that ecosystems recycle nutrients, but it can be improved by specifying the types of nutrients (like carbon, nitrogen, and phosphorus) and explaining the processes involved in nutrient cycling, such as decomposition. Additionally, clarifying the distinction between the one-way flow of energy and the cyclical nature of nutrient recycling would provide a more comprehensive understanding"
+    ],
+    "answer_distribution": {
+      "correctly identifies that ecosystems recycle nutrients, but it can be improved by specifying the types of nutrients (like carbon, nitrogen, and phosphorus) and explaining the processes involved in nutrient cycling, such as decomposition. Additionally, clarifying the distinction between the one-way flow of energy and the cyclical nature of nutrient recycling would provide a more comprehensive understanding": 1
+    },
+    "ground_truth": [
+      "matter"
+    ]
+  },
+  {
+    "data_id": 52,
+    "most_common_answer": "correct. Quartz and feldspar are indeed the two most common silicates in the Earth's crust. To enhance the response, it would be beneficial to specify that feldspar encompasses a group of minerals, including plagioclase and orthoclase. Additionally, mentioning their significance in various applications, such as quartz in glassmaking and feldspar in ceramics, would provide valuable context",
+    "all_predicted_answers": [
+      "correct. Quartz and feldspar are indeed the two most common silicates in the Earth's crust. To enhance the response, it would be beneficial to specify that feldspar encompasses a group of minerals, including plagioclase and orthoclase. Additionally, mentioning their significance in various applications, such as quartz in glassmaking and feldspar in ceramics, would provide valuable context"
+    ],
+    "answer_distribution": {
+      "correct. Quartz and feldspar are indeed the two most common silicates in the Earth's crust. To enhance the response, it would be beneficial to specify that feldspar encompasses a group of minerals, including plagioclase and orthoclase. Additionally, mentioning their significance in various applications, such as quartz in glassmaking and feldspar in ceramics, would provide valuable context": 1
+    },
+    "ground_truth": [
+      "feldspar and quartz"
+    ]
+  },
+  {
+    "data_id": 53,
+    "most_common_answer": "would include these additional units",
+    "all_predicted_answers": [
+      "would include these additional units"
+    ],
+    "answer_distribution": {
+      "would include these additional units": 1
+    },
+    "ground_truth": [
+      "light years"
+    ]
+  },
+  {
+    "data_id": 54,
+    "most_common_answer": "is \"radio telescopes.\" They are specifically designed to collect and focus radio waves from astronomical sources",
+    "all_predicted_answers": [
+      "is \"radio telescopes.\" They are specifically designed to collect and focus radio waves from astronomical sources"
+    ],
+    "answer_distribution": {
+      "is \"radio telescopes.\" They are specifically designed to collect and focus radio waves from astronomical sources": 1
+    },
+    "ground_truth": [
+      "radio telescopes"
+    ]
+  },
+  {
+    "data_id": 55,
+    "most_common_answer": "is the peripheral nervous system (PNS)",
+    "all_predicted_answers": [
+      "is the peripheral nervous system (PNS)"
+    ],
+    "answer_distribution": {
+      "is the peripheral nervous system (PNS)": 1
+    },
+    "ground_truth": [
+      "peripheral"
+    ]
+  },
+  {
+    "data_id": 56,
+    "most_common_answer": "is photosynthesis. Algae use this process to produce food by converting sunlight, carbon dioxide, and water into glucose and oxygen",
+    "all_predicted_answers": [
+      "is photosynthesis. Algae use this process to produce food by converting sunlight, carbon dioxide, and water into glucose and oxygen"
+    ],
+    "answer_distribution": {
+      "is photosynthesis. Algae use this process to produce food by converting sunlight, carbon dioxide, and water into glucose and oxygen": 1
+    },
+    "ground_truth": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "data_id": 57,
+    "most_common_answer": "is \"reaction rate.\" To enhance the response, mentioning factors that influence reaction rate—such as concentration, temperature, catalysts, and surface area—would provide a more comprehensive understanding",
+    "all_predicted_answers": [
+      "is \"reaction rate.\" To enhance the response, mentioning factors that influence reaction rate—such as concentration, temperature, catalysts, and surface area—would provide a more comprehensive understanding"
+    ],
+    "answer_distribution": {
+      "is \"reaction rate.\" To enhance the response, mentioning factors that influence reaction rate—such as concentration, temperature, catalysts, and surface area—would provide a more comprehensive understanding": 1
+    },
+    "ground_truth": [
+      "the reaction rate"
+    ]
+  },
+  {
+    "data_id": 58,
+    "most_common_answer": "is \"Intraspecific competition",
+    "all_predicted_answers": [
+      "is \"Intraspecific competition"
+    ],
+    "answer_distribution": {
+      "is \"Intraspecific competition": 1
+    },
+    "ground_truth": [
+      "intraspecific competition"
+    ]
+  },
+  {
+    "data_id": 59,
+    "most_common_answer": "is Charles Darwin",
+    "all_predicted_answers": [
+      "is Charles Darwin"
+    ],
+    "answer_distribution": {
+      "is Charles Darwin": 1
+    },
+    "ground_truth": [
+      "darwin"
+    ]
+  },
+  {
+    "data_id": 62,
+    "most_common_answer": "is \"wet cell.\" Your critique accurately identifies the two basic variations of voltaic cells and provides a useful distinction between them",
+    "all_predicted_answers": [
+      "is \"wet cell.\" Your critique accurately identifies the two basic variations of voltaic cells and provides a useful distinction between them"
+    ],
+    "answer_distribution": {
+      "is \"wet cell.\" Your critique accurately identifies the two basic variations of voltaic cells and provides a useful distinction between them": 1
+    },
+    "ground_truth": [
+      "lead storage battery"
+    ]
+  },
+  {
+    "data_id": 66,
+    "most_common_answer": "correct. An increase in the number of gas molecules in a fixed volume container leads to an increase in pressure, as described by the ideal gas law (PV = nRT). This occurs because more gas molecules result in more frequent collisions with the container walls, thereby increasing the pressure exerted by the gas. Adding this explanation would enhance understanding",
+    "all_predicted_answers": [
+      "correct. An increase in the number of gas molecules in a fixed volume container leads to an increase in pressure, as described by the ideal gas law (PV = nRT). This occurs because more gas molecules result in more frequent collisions with the container walls, thereby increasing the pressure exerted by the gas. Adding this explanation would enhance understanding"
+    ],
+    "answer_distribution": {
+      "correct. An increase in the number of gas molecules in a fixed volume container leads to an increase in pressure, as described by the ideal gas law (PV = nRT). This occurs because more gas molecules result in more frequent collisions with the container walls, thereby increasing the pressure exerted by the gas. Adding this explanation would enhance understanding": 1
+    },
+    "ground_truth": [
+      "pressure"
+    ]
+  },
+  {
+    "data_id": 67,
+    "most_common_answer": "would be that the bird ancestors that lived in trees developed wings as part of their adaptation for flight, which is a key feature associated with birds. However, it's important to note that this adaptation was part of a broader evolutionary process that included changes in anatomy, such as feathers and skeletal structure, allowing for various functions beyond just tree-dwelling",
+    "all_predicted_answers": [
+      "would be that the bird ancestors that lived in trees developed wings as part of their adaptation for flight, which is a key feature associated with birds. However, it's important to note that this adaptation was part of a broader evolutionary process that included changes in anatomy, such as feathers and skeletal structure, allowing for various functions beyond just tree-dwelling"
+    ],
+    "answer_distribution": {
+      "would be that the bird ancestors that lived in trees developed wings as part of their adaptation for flight, which is a key feature associated with birds. However, it's important to note that this adaptation was part of a broader evolutionary process that included changes in anatomy, such as feathers and skeletal structure, allowing for various functions beyond just tree-dwelling": 1
+    },
+    "ground_truth": [
+      "wings"
+    ]
+  },
+  {
+    "data_id": 69,
+    "most_common_answer": "is \"clone",
+    "all_predicted_answers": [
+      "is \"clone"
+    ],
+    "answer_distribution": {
+      "is \"clone": 1
+    },
+    "ground_truth": [
+      "clone"
+    ]
+  },
+  {
+    "data_id": 71,
+    "most_common_answer": "is \"metabolic pathway.\" Your critique accurately describes the term",
+    "all_predicted_answers": [
+      "is \"metabolic pathway.\" Your critique accurately describes the term"
+    ],
+    "answer_distribution": {
+      "is \"metabolic pathway.\" Your critique accurately describes the term": 1
+    },
+    "ground_truth": [
+      "metabolic pathway"
+    ]
+  },
+  {
+    "data_id": 72,
+    "most_common_answer": "is \"intermolecular forces.\" This term accurately describes the attractions between molecules, encompassing various types of interactions",
+    "all_predicted_answers": [
+      "is \"intermolecular forces.\" This term accurately describes the attractions between molecules, encompassing various types of interactions"
+    ],
+    "answer_distribution": {
+      "is \"intermolecular forces.\" This term accurately describes the attractions between molecules, encompassing various types of interactions": 1
+    },
+    "ground_truth": [
+      "hydrogen bond"
+    ]
+  },
+  {
+    "data_id": 73,
+    "most_common_answer": "is the nervous system",
+    "all_predicted_answers": [
+      "is the nervous system"
+    ],
+    "answer_distribution": {
+      "is the nervous system": 1
+    },
+    "ground_truth": [
+      "nervous system"
+    ]
+  },
+  {
+    "data_id": 75,
+    "most_common_answer": "is \"buoyancy",
+    "all_predicted_answers": [
+      "is \"buoyancy"
+    ],
+    "answer_distribution": {
+      "is \"buoyancy": 1
+    },
+    "ground_truth": [
+      "buoyancy"
+    ]
+  },
+  {
+    "data_id": 77,
+    "most_common_answer": "is Taxonomy",
+    "all_predicted_answers": [
+      "is Taxonomy"
+    ],
+    "answer_distribution": {
+      "is Taxonomy": 1
+    },
+    "ground_truth": [
+      "taxonomy"
+    ]
+  },
+  {
+    "data_id": 78,
+    "most_common_answer": "is the retina",
+    "all_predicted_answers": [
+      "is the retina"
+    ],
+    "answer_distribution": {
+      "is the retina": 1
+    },
+    "ground_truth": [
+      "retina"
+    ]
+  },
+  {
+    "data_id": 79,
+    "most_common_answer": "is that carbon dioxide (CO₂) and water (H₂O) are the primary reactants in photosynthesis, while oxygen (O₂) is a product. ATP and NADPH are generated during the process and are utilized in the Calvin cycle to produce glucose",
+    "all_predicted_answers": [
+      "is that carbon dioxide (CO₂) and water (H₂O) are the primary reactants in photosynthesis, while oxygen (O₂) is a product. ATP and NADPH are generated during the process and are utilized in the Calvin cycle to produce glucose"
+    ],
+    "answer_distribution": {
+      "is that carbon dioxide (CO₂) and water (H₂O) are the primary reactants in photosynthesis, while oxygen (O₂) is a product. ATP and NADPH are generated during the process and are utilized in the Calvin cycle to produce glucose": 1
+    },
+    "ground_truth": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "data_id": 80,
+    "most_common_answer": "is lymph. It fits all the criteria mentioned: it bathes tissues and organs, contains white blood cells, and does not contain red blood cells",
+    "all_predicted_answers": [
+      "is lymph. It fits all the criteria mentioned: it bathes tissues and organs, contains white blood cells, and does not contain red blood cells"
+    ],
+    "answer_distribution": {
+      "is lymph. It fits all the criteria mentioned: it bathes tissues and organs, contains white blood cells, and does not contain red blood cells": 1
+    },
+    "ground_truth": [
+      "lymph"
+    ]
+  },
+  {
+    "data_id": 81,
+    "most_common_answer": "is \"ore",
+    "all_predicted_answers": [
+      "is \"ore"
+    ],
+    "answer_distribution": {
+      "is \"ore": 1
+    },
+    "ground_truth": [
+      "ore"
+    ]
+  },
+  {
+    "data_id": 83,
+    "most_common_answer": "correct. kPa, atm, and mmHg are units that measure pressure, and your critique adds valuable context by mentioning their applications in fields like meteorology, medicine, and physics",
+    "all_predicted_answers": [
+      "correct. kPa, atm, and mmHg are units that measure pressure, and your critique adds valuable context by mentioning their applications in fields like meteorology, medicine, and physics"
+    ],
+    "answer_distribution": {
+      "correct. kPa, atm, and mmHg are units that measure pressure, and your critique adds valuable context by mentioning their applications in fields like meteorology, medicine, and physics": 1
+    },
+    "ground_truth": [
+      "pressure"
+    ]
+  },
+  {
+    "data_id": 85,
+    "most_common_answer": "is that solutions of nonelectrolytes, such as ethanol, cannot conduct electricity",
+    "all_predicted_answers": [
+      "is that solutions of nonelectrolytes, such as ethanol, cannot conduct electricity"
+    ],
+    "answer_distribution": {
+      "is that solutions of nonelectrolytes, such as ethanol, cannot conduct electricity": 1
+    },
+    "ground_truth": [
+      "electricity"
+    ]
+  },
+  {
+    "data_id": 86,
+    "most_common_answer": "The critique contains an error. The electron domain geometry of ammonia (NH₃) is indeed tetrahedral because it has four electron domains (three bonding pairs and one lone pair). However, the molecular geometry is trigonal pyramidal due to the presence of the lone pair. So, the correct statement is that the electron domain geometry is tetrahedral, while the molecular geometry is trigonal pyramidal",
+    "all_predicted_answers": [
+      "The critique contains an error. The electron domain geometry of ammonia (NH₃) is indeed tetrahedral because it has four electron domains (three bonding pairs and one lone pair). However, the molecular geometry is trigonal pyramidal due to the presence of the lone pair. So, the correct statement is that the electron domain geometry is tetrahedral, while the molecular geometry is trigonal pyramidal"
+    ],
+    "answer_distribution": {
+      "The critique contains an error. The electron domain geometry of ammonia (NH₃) is indeed tetrahedral because it has four electron domains (three bonding pairs and one lone pair). However, the molecular geometry is trigonal pyramidal due to the presence of the lone pair. So, the correct statement is that the electron domain geometry is tetrahedral, while the molecular geometry is trigonal pyramidal": 1
+    },
+    "ground_truth": [
+      "tetrahedral"
+    ]
+  },
+  {
+    "data_id": 88,
+    "most_common_answer": "should specify that cyanobacteria are the bacteria responsible for photosynthesis, making them important producers in aquatic ecosystems. Additionally, it is important to acknowledge that other bacteria play roles in nutrient cycling and decomposition, which are also vital for ecosystem health",
+    "all_predicted_answers": [
+      "should specify that cyanobacteria are the bacteria responsible for photosynthesis, making them important producers in aquatic ecosystems. Additionally, it is important to acknowledge that other bacteria play roles in nutrient cycling and decomposition, which are also vital for ecosystem health"
+    ],
+    "answer_distribution": {
+      "should specify that cyanobacteria are the bacteria responsible for photosynthesis, making them important producers in aquatic ecosystems. Additionally, it is important to acknowledge that other bacteria play roles in nutrient cycling and decomposition, which are also vital for ecosystem health": 1
+    },
+    "ground_truth": [
+      "photosynthesis"
+    ]
+  },
+  {
+    "data_id": 90,
+    "most_common_answer": "is disaccharide",
+    "all_predicted_answers": [
+      "is disaccharide"
+    ],
+    "answer_distribution": {
+      "is disaccharide": 1
+    },
+    "ground_truth": [
+      "disaccharide"
+    ]
+  },
+  {
+    "data_id": 91,
+    "most_common_answer": "is \"lunar eclipse",
+    "all_predicted_answers": [
+      "is \"lunar eclipse"
+    ],
+    "answer_distribution": {
+      "is \"lunar eclipse": 1
+    },
+    "ground_truth": [
+      "lunar"
+    ]
+  },
+  {
+    "data_id": 92,
+    "most_common_answer": "is melting",
+    "all_predicted_answers": [
+      "is melting"
+    ],
+    "answer_distribution": {
+      "is melting": 1
+    },
+    "ground_truth": [
+      "melting"
+    ]
+  },
+  {
+    "data_id": 93,
+    "most_common_answer": "is \"exocytosis",
+    "all_predicted_answers": [
+      "is \"exocytosis"
+    ],
+    "answer_distribution": {
+      "is \"exocytosis": 1
+    },
+    "ground_truth": [
+      "exocytosis"
+    ]
+  },
+  {
+    "data_id": 95,
+    "most_common_answer": "is \"technological innovation.\" However, it could be improved by specifying how the wheel addressed human problems, such as enhancing transportation efficiency, facilitating trade, and reducing labor. Providing context and clarity would strengthen the response",
+    "all_predicted_answers": [
+      "is \"technological innovation.\" However, it could be improved by specifying how the wheel addressed human problems, such as enhancing transportation efficiency, facilitating trade, and reducing labor. Providing context and clarity would strengthen the response"
+    ],
+    "answer_distribution": {
+      "is \"technological innovation.\" However, it could be improved by specifying how the wheel addressed human problems, such as enhancing transportation efficiency, facilitating trade, and reducing labor. Providing context and clarity would strengthen the response": 1
+    },
+    "ground_truth": [
+      "technology"
+    ]
+  },
+  {
+    "data_id": 97,
+    "most_common_answer": "correct that chloroplast genes are primarily inherited from the maternal parent. However, it is important to note that while maternal inheritance is common in most flowering plants and some other groups, there are exceptions where paternal or biparental inheritance can occur. Acknowledging these exceptions would enhance the accuracy of the response",
+    "all_predicted_answers": [
+      "correct that chloroplast genes are primarily inherited from the maternal parent. However, it is important to note that while maternal inheritance is common in most flowering plants and some other groups, there are exceptions where paternal or biparental inheritance can occur. Acknowledging these exceptions would enhance the accuracy of the response"
+    ],
+    "answer_distribution": {
+      "correct that chloroplast genes are primarily inherited from the maternal parent. However, it is important to note that while maternal inheritance is common in most flowering plants and some other groups, there are exceptions where paternal or biparental inheritance can occur. Acknowledging these exceptions would enhance the accuracy of the response": 1
+    },
+    "ground_truth": [
+      "sperm"
+    ]
+  },
+  {
+    "data_id": 99,
+    "most_common_answer": "correct. The two terms are \"conductivity\" and \"resistivity.\" Conductivity measures how well a solution conducts electricity, while resistivity measures how much it opposes that flow. They are inversely related, meaning that as one increases, the other decreases. Your critique effectively clarifies their definitions and relationship",
+    "all_predicted_answers": [
+      "correct. The two terms are \"conductivity\" and \"resistivity.\" Conductivity measures how well a solution conducts electricity, while resistivity measures how much it opposes that flow. They are inversely related, meaning that as one increases, the other decreases. Your critique effectively clarifies their definitions and relationship"
+    ],
+    "answer_distribution": {
+      "correct. The two terms are \"conductivity\" and \"resistivity.\" Conductivity measures how well a solution conducts electricity, while resistivity measures how much it opposes that flow. They are inversely related, meaning that as one increases, the other decreases. Your critique effectively clarifies their definitions and relationship": 1
+    },
+    "ground_truth": [
+      "polar and nonpolar"
+    ]
+  },
+  {
+    "data_id": 100,
+    "most_common_answer": "is \"carbohydrates",
+    "all_predicted_answers": [
+      "is \"carbohydrates"
+    ],
+    "answer_distribution": {
+      "is \"carbohydrates": 1
+    },
+    "ground_truth": [
+      "carbohydrates"
+    ]
+  }
+]

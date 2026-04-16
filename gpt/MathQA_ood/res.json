@@ -1,0 +1,1354 @@
+[
+  {
+    "data_id": 0,
+    "question": "Question: the average of 13 result is 60 . average of the first 7 of them is 57 and that of the last 7 is 61 . find the 8 th result ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "46"
+    ]
+  },
+  {
+    "data_id": 1,
+    "question": "Question: a shopkeeper buys mangoes at the rate of 4 a rupee and sells them at 3 a rupee . find his net profit or loss percent ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "33.33%"
+    ],
+    "most_common_answer": "33.33%",
+    "answer_distribution": {
+      "33.33%": 1
+    },
+    "ground_truth": [
+      "33 1 / 3 %"
+    ]
+  },
+  {
+    "data_id": 2,
+    "question": "Question: a meeting has to be conducted with 6 managers . find the number of ways in which the managers may be selected from among 9 managers , if there are 2 managers who refuse to attend the meeting together .\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "49"
+    ],
+    "most_common_answer": "49",
+    "answer_distribution": {
+      "49": 1
+    },
+    "ground_truth": [
+      "49"
+    ]
+  },
+  {
+    "data_id": 3,
+    "question": "Question: a boat having a length 5 m and breadth 2 m is floating on a lake . the boat sinks by 1 cm when a man gets on it . the mass of the man is :\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "10"
+    ],
+    "most_common_answer": "10",
+    "answer_distribution": {
+      "10": 1
+    },
+    "ground_truth": [
+      "100 kg"
+    ]
+  },
+  {
+    "data_id": 4,
+    "question": "Question: if n is the product of integers from 1 to 20 inclusive what is the greatest integer k for which 2 ^ k is a factor of n ? .\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "18"
+    ],
+    "most_common_answer": "18",
+    "answer_distribution": {
+      "18": 1
+    },
+    "ground_truth": [
+      "18"
+    ]
+  },
+  {
+    "data_id": 5,
+    "question": "Question: at scratch and dents rent - a - car , it costs $ 34.95 a day plus $ 0.23 per mile to rent a car . at rent - a - lemon , the charge is $ 25.00 a day plus $ 1.31 per mile . if you need to rent a car for 3 days , how many miles ( to nearest tenth ) must you drive for a car from both agencies to cost the same amount ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "27.6"
+    ],
+    "most_common_answer": "27.6",
+    "answer_distribution": {
+      "27.6": 1
+    },
+    "ground_truth": [
+      "27.6 miles"
+    ]
+  },
+  {
+    "data_id": 6,
+    "question": "Question: according to the directions on the can of frozen orange juice concentrate , 1 can of concentrate is to be mixed with 3 cans of water to make orange juice . how many 12 ounces cans of the concentrate are required to prepare 240 6 ounces servings of orange juice ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "",
+      "30"
+    ],
+    "most_common_answer": "30",
+    "answer_distribution": {
+      "": 1,
+      "30": 1
+    },
+    "ground_truth": [
+      "e ) 30"
+    ]
+  },
+  {
+    "data_id": 7,
+    "question": "Question: what annual installment will discharge a debt of $ 1092 due in 3 years at 12 % simple interest ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "$ 325"
+    ]
+  },
+  {
+    "data_id": 8,
+    "question": "Question: what least number should be added to 1536 , so that the sum is completely divisible by 21 ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "18"
+    ],
+    "most_common_answer": "18",
+    "answer_distribution": {
+      "18": 1
+    },
+    "ground_truth": [
+      "18"
+    ]
+  },
+  {
+    "data_id": 9,
+    "question": "Question: a spirit and water solution is sold in a market . the cost per liter of the solution is directly proportional to the part ( fraction ) of spirit ( by volume ) the solution has . a solution of 1 liter of spirit and 1 liter of water costs 40 cents . how many cents does a solution of 1 liter of spirit and 2 liters of water cost ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "40"
+    ]
+  },
+  {
+    "data_id": 10,
+    "question": "Question: the pinedale bus line travels at an average speed of 60 km / h , and has stops every 5 minutes along its route . yahya wants to go from his house to the pinedale mall , which is 9 stops away . how far away , in kilometers , is pinedale mall away from yahya ' s house ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "45"
+    ],
+    "most_common_answer": "45",
+    "answer_distribution": {
+      "45": 1
+    },
+    "ground_truth": [
+      "45 km"
+    ]
+  },
+  {
+    "data_id": 11,
+    "question": "Question: 7 m - 20 = 2 m , then m + 7 is equal to ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "11"
+    ],
+    "most_common_answer": "11",
+    "answer_distribution": {
+      "11": 1
+    },
+    "ground_truth": [
+      "11"
+    ]
+  },
+  {
+    "data_id": 12,
+    "question": "Question: renu can do a piece of work in 6 days , but with the help of her friend suma , she can do it in 5 days . in what time suma can do it alone ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "30"
+    ],
+    "most_common_answer": "30",
+    "answer_distribution": {
+      "30": 1
+    },
+    "ground_truth": [
+      "30"
+    ]
+  },
+  {
+    "data_id": 13,
+    "question": "Question: a man can do a piece of work in 6 days , but with the help of his son he can do it in 3 days . in what time can the son do it alone ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "6"
+    ],
+    "most_common_answer": "6",
+    "answer_distribution": {
+      "6": 1
+    },
+    "ground_truth": [
+      "6 days"
+    ]
+  },
+  {
+    "data_id": 14,
+    "question": "Question: martin buys a pencil and a notebook for 80 cents . at the same store , gloria buys a notebook and an eraser for $ 1.15 cents , and zachary buys a pencil and an eraser for 75 cents . how many cents would it cost to buy 3 pencils , 3 notebooks , and 3 erasers ? ( assume that there is no volume discount . )\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "405"
+    ],
+    "most_common_answer": "405",
+    "answer_distribution": {
+      "405": 1
+    },
+    "ground_truth": [
+      "405"
+    ]
+  },
+  {
+    "data_id": 15,
+    "question": "Question: a hostel had provisions for 250 men for 44 days . if 50 men left the hostel , how long will the food last at the same rate ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "55"
+    ],
+    "most_common_answer": "55",
+    "answer_distribution": {
+      "55": 1
+    },
+    "ground_truth": [
+      "55"
+    ]
+  },
+  {
+    "data_id": 16,
+    "question": "Question: if shreehari walks in the speed of 4.5 km / hr from his house , in what time will he reach his school which is 750 m long from his house ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "10"
+    ],
+    "most_common_answer": "10",
+    "answer_distribution": {
+      "10": 1
+    },
+    "ground_truth": [
+      "10"
+    ]
+  },
+  {
+    "data_id": 17,
+    "question": "Question: the angle between the minute hand and the hour hand of a clock when the time is 4.20 , is\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "10"
+    ],
+    "most_common_answer": "10",
+    "answer_distribution": {
+      "10": 1
+    },
+    "ground_truth": [
+      "10 °"
+    ]
+  },
+  {
+    "data_id": 18,
+    "question": "Question: 45 pupil , out of them 12 in debate only and 22 in singing only . then how many in both ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "11"
+    ],
+    "most_common_answer": "11",
+    "answer_distribution": {
+      "11": 1
+    },
+    "ground_truth": [
+      "11"
+    ]
+  },
+  {
+    "data_id": 19,
+    "question": "Question: in township k each property is taxed at 10 percent of its assessed value . if the assessed value of a property in township k is increased from $ 20,000 to $ 24,000 , by how much will the property tax increase ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "400"
+    ],
+    "most_common_answer": "400",
+    "answer_distribution": {
+      "400": 1
+    },
+    "ground_truth": [
+      "$ 400"
+    ]
+  },
+  {
+    "data_id": 20,
+    "question": "Question: car z travels 55 miles per gallon of gasoline when driven at a constant rate of 45 miles per hour , but travels 20 percent fewer miles per gallon of gasoline when driven at a constant rate of 60 miles per hour . how many miles does car z travel on 10 gallons of gasoline when driven at a constant rate of 60 miles per hour ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "440"
+    ],
+    "most_common_answer": "440",
+    "answer_distribution": {
+      "440": 1
+    },
+    "ground_truth": [
+      "440"
+    ]
+  },
+  {
+    "data_id": 21,
+    "question": "Question: vijay sells a cupboard at 10 % below cost price . had he got rs . 1500 more , he would have made a profit of 10 % . what is the cost price of the cupboard ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "7500"
+    ],
+    "most_common_answer": "7500",
+    "answer_distribution": {
+      "7500": 1
+    },
+    "ground_truth": [
+      "7500"
+    ]
+  },
+  {
+    "data_id": 22,
+    "question": "Question: which is the least number that must be subtracted from 1856 so that the remainder when divided by 7 , 12 , 10 is 4 ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "172"
+    ],
+    "most_common_answer": "172",
+    "answer_distribution": {
+      "172": 1
+    },
+    "ground_truth": [
+      "172"
+    ]
+  },
+  {
+    "data_id": 23,
+    "question": "Question: a cube of side 5.5 meter length is cut into small cubes of side 110 cm each . how many such small cubes can be obtained ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "125"
+    ],
+    "most_common_answer": "125",
+    "answer_distribution": {
+      "125": 1
+    },
+    "ground_truth": [
+      "125"
+    ]
+  },
+  {
+    "data_id": 24,
+    "question": "Question: a customer bought a product at the shop . however , the shopkeeper increased the price of the product by 20 % so that the customer could not buy the required amount of the product . the customer managed to buy only 80 % of the required amount . what is the difference in the amount of money that the customer paid for the second purchase compared to the first purchase ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "0.04PQ",
+      "4%"
+    ],
+    "most_common_answer": "4%",
+    "answer_distribution": {
+      "0.04PQ": 1,
+      "4%": 1
+    },
+    "ground_truth": [
+      "4 %"
+    ]
+  },
+  {
+    "data_id": 25,
+    "question": "Question: if the a radio is sold for rs 490 and sold for rs 465.50 . find loss % .\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "5 %"
+    ]
+  },
+  {
+    "data_id": 26,
+    "question": "Question: find the product of the place value and face value of 3 in 5769354\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "90000"
+    ],
+    "most_common_answer": "90000",
+    "answer_distribution": {
+      "90000": 1
+    },
+    "ground_truth": [
+      "900"
+    ]
+  },
+  {
+    "data_id": 27,
+    "question": "Question: last year the price range ( per kg ) for 100 varieties of apples in wholesale market was $ 100 . if the prices of each of the 100 varieties increased by 10 percent this year over what it was last year , what is the range of the wholesale prices of the 1000 varieties of apples this year ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "110"
+    ],
+    "most_common_answer": "110",
+    "answer_distribution": {
+      "110": 1
+    },
+    "ground_truth": [
+      "$ 110"
+    ]
+  },
+  {
+    "data_id": 28,
+    "question": "Question: danny is sitting on a rectangular box . the area of the front face of the box is half the area of the top face , and the area of the top face is 1.5 times the area of the side face . if the volume of the box is 1536 , what is the area of the side face of the box ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "",
+      "128"
+    ],
+    "most_common_answer": "128",
+    "answer_distribution": {
+      "": 1,
+      "128": 1
+    },
+    "ground_truth": [
+      "128"
+    ]
+  },
+  {
+    "data_id": 29,
+    "question": "Question: the area of a rectangular field is equal to 500 square meters . its perimeter is equal to 90 meters . find the width of this rectangle .\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "20"
+    ],
+    "most_common_answer": "20",
+    "answer_distribution": {
+      "20": 1
+    },
+    "ground_truth": [
+      "20"
+    ]
+  },
+  {
+    "data_id": 30,
+    "question": "Question: if ( 2 to the x ) - ( 2 to the ( x - 2 ) ) = 3 ( 2 to the 9 ) , what is the value of x ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "11"
+    ],
+    "most_common_answer": "11",
+    "answer_distribution": {
+      "11": 1
+    },
+    "ground_truth": [
+      "11"
+    ]
+  },
+  {
+    "data_id": 31,
+    "question": "Question: the sum of all the integers s such that - 26 < s < 24 is\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "-49"
+    ],
+    "most_common_answer": "-49",
+    "answer_distribution": {
+      "-49": 1
+    },
+    "ground_truth": [
+      "49"
+    ]
+  },
+  {
+    "data_id": 32,
+    "question": "Question: if taxi fares were $ 2.00 for the first 1 / 5 mile and $ 0.40 for each 1 / 5 mile there after , then the taxi fare for a 4 - mile ride was\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "",
+      "9.60"
+    ],
+    "most_common_answer": "9.60",
+    "answer_distribution": {
+      "": 1,
+      "9.60": 1
+    },
+    "ground_truth": [
+      "$ 9.60"
+    ]
+  },
+  {
+    "data_id": 33,
+    "question": "Question: a certain fruit stand sold apples for $ 0.70 each and guava for $ 0.50 each . if a customer purchased both apples and bananas from the stand for a total of $ 6.30 , what total number of apples and bananas did the customer purchase ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "11"
+    ],
+    "most_common_answer": "11",
+    "answer_distribution": {
+      "11": 1
+    },
+    "ground_truth": [
+      "11"
+    ]
+  },
+  {
+    "data_id": 34,
+    "question": "Question: q is as much younger than r as he is older than t . if the sum of the ages of r and t is 50 years , what is definitely the difference between r and q ' s age ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "25"
+    ]
+  },
+  {
+    "data_id": 35,
+    "question": "Question: find the value of 201834 x 99999 = m ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "201833999998"
+    ],
+    "most_common_answer": "201833999998",
+    "answer_distribution": {
+      "201833999998": 1
+    },
+    "ground_truth": [
+      "20183198166"
+    ]
+  },
+  {
+    "data_id": 36,
+    "question": "Question: uncle bruce is baking chocolate chip cookies . he has 36 ounces of dough ( with no chocolate ) and 16 ounces of chocolate . how many ounces of chocolate are left over if he uses all the dough but only wants the cookies to consist of 20 % chocolate ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "7"
+    ],
+    "most_common_answer": "7",
+    "answer_distribution": {
+      "7": 1
+    },
+    "ground_truth": [
+      "7"
+    ]
+  },
+  {
+    "data_id": 37,
+    "question": "Question: 23 , 29 , 31 , 37 , 41 , 43 , 47 , 53 , 59 , 61 , ( . . . )\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "67"
+    ],
+    "most_common_answer": "67",
+    "answer_distribution": {
+      "67": 1
+    },
+    "ground_truth": [
+      "67"
+    ]
+  },
+  {
+    "data_id": 38,
+    "question": "Question: how long does a train 125 m long running at the speed of 78 km / hr takes to cross a bridge 125 m length ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "11.55"
+    ],
+    "most_common_answer": "11.55",
+    "answer_distribution": {
+      "11.55": 1
+    },
+    "ground_truth": [
+      "11.5 sec"
+    ]
+  },
+  {
+    "data_id": 39,
+    "question": "Question: a merchant marks his goods up by 30 % and then offers a discount of 20 % on the marked price . what % profit does the merchant make after the discount ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "4%"
+    ],
+    "most_common_answer": "4%",
+    "answer_distribution": {
+      "4%": 1
+    },
+    "ground_truth": [
+      "4 %"
+    ]
+  },
+  {
+    "data_id": 40,
+    "question": "Question: a store sells 2 kinds of jelly beans mixes ( a and b ) both made up of red and yellow beans . if b contains 20 % more red beans than a but 10 % fewer yellow beans . and jar a contains twice as many red beans as yellow by what percent is the number of beans in jar b larger than the number in jar a\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "10"
+    ],
+    "most_common_answer": "10",
+    "answer_distribution": {
+      "10": 1
+    },
+    "ground_truth": [
+      "10"
+    ]
+  },
+  {
+    "data_id": 41,
+    "question": "Question: some persons can do a piece of work in 32 days . two times the number of these people will do half of that work in ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "8"
+    ],
+    "most_common_answer": "8",
+    "answer_distribution": {
+      "8": 1
+    },
+    "ground_truth": [
+      "8"
+    ]
+  },
+  {
+    "data_id": 42,
+    "question": "Question: a multiple choice test consists of 4 questions , and each question has 5 answer choices . in how many e ways can the test be completed if every question is unanswered ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "625"
+    ]
+  },
+  {
+    "data_id": 43,
+    "question": "Question: a dealer offers a cash discount of 16 % and still makes a profit of 25 % when he further allows 60 articles to be sold at the cost price of 50 articles to a particular sticky bargainer . how much percent above the cost price were his articles listed ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "48.8%"
+    ],
+    "most_common_answer": "48.8%",
+    "answer_distribution": {
+      "48.8%": 1
+    },
+    "ground_truth": [
+      "78 + ( 4 / 7 ) %"
+    ]
+  },
+  {
+    "data_id": 44,
+    "question": "Question: the average age of 50 students in a class is 10 years . if teacher ' s age is also included then average increases 1 year then find the teacher ' s age ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "61"
+    ],
+    "most_common_answer": "61",
+    "answer_distribution": {
+      "61": 1
+    },
+    "ground_truth": [
+      "61"
+    ]
+  },
+  {
+    "data_id": 45,
+    "question": "Question: a cistern can be filled by a tap in 5 hours while it can be emptied by another tap in 10 hours . if both the taps are opened simultaneously then after how much time will the cistern get filled ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "10"
+    ],
+    "most_common_answer": "10",
+    "answer_distribution": {
+      "10": 1
+    },
+    "ground_truth": [
+      "10 hr"
+    ]
+  },
+  {
+    "data_id": 46,
+    "question": "Question: a man swims downstream 30 km and upstream 12 km taking 3 hours each time , what is the speed of the man in still water ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "7"
+    ],
+    "most_common_answer": "7",
+    "answer_distribution": {
+      "7": 1
+    },
+    "ground_truth": [
+      "7"
+    ]
+  },
+  {
+    "data_id": 47,
+    "question": "Question: exactly 15 % of the reporters for a certain wire service cover local politics in country x . if 25 % of the reporters who cover politics for the wire service do not cover local politics in country x , what percent of the reporters for the wire service do not cover politics ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "80 %"
+    ]
+  },
+  {
+    "data_id": 48,
+    "question": "Question: 125 liters of a mixture of milk and water contains in the ratio 3 : 2 . how much water should now be added so that the ratio of milk and water becomes 3 : 4 ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "50"
+    ],
+    "most_common_answer": "50",
+    "answer_distribution": {
+      "50": 1
+    },
+    "ground_truth": [
+      "50 liters"
+    ]
+  },
+  {
+    "data_id": 49,
+    "question": "Question: a pupil ' s marks were wrongly entered as 73 instead of 40 . due to the average marks for the class got increased by half . the number of pupils in the class is ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "66"
+    ],
+    "most_common_answer": "66",
+    "answer_distribution": {
+      "66": 1
+    },
+    "ground_truth": [
+      "66"
+    ]
+  },
+  {
+    "data_id": 50,
+    "question": "Question: the ratio between the perimeter and the width of a rectangle is 5 : 1 . if the area of the rectangle is 216 sq . cm , what is the width of the rectangle ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "12"
+    ],
+    "most_common_answer": "12",
+    "answer_distribution": {
+      "12": 1
+    },
+    "ground_truth": [
+      "12 cm"
+    ]
+  },
+  {
+    "data_id": 51,
+    "question": "Question: working at their respective constant rates , machine a makes 100 copies in 15 minutes and machine b makes 150 copies in 10 minutes . if these machines work simultaneously at their respective rates for 30 minutes , what is the total number of copies that they will produce ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "650"
+    ],
+    "most_common_answer": "650",
+    "answer_distribution": {
+      "650": 1
+    },
+    "ground_truth": [
+      "650"
+    ]
+  },
+  {
+    "data_id": 52,
+    "question": "Question: a student got 72 % in math and 82 % in history . to get an overall average of 75 % , how much should the student get in the third subject ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "71"
+    ],
+    "most_common_answer": "71",
+    "answer_distribution": {
+      "71": 1
+    },
+    "ground_truth": [
+      "71 %"
+    ]
+  },
+  {
+    "data_id": 53,
+    "question": "Question: a hiker walked for 3 days . she walked 18 miles on the first day , walking 3 miles per hour . on the second day she walked for one less hour but she walked one mile per hour , faster than on the first day . on the third day she walked at 7 miles per hour for 2 hours . how many miles in total did she walk ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "52"
+    ],
+    "most_common_answer": "52",
+    "answer_distribution": {
+      "52": 1
+    },
+    "ground_truth": [
+      "52"
+    ]
+  },
+  {
+    "data_id": 54,
+    "question": "Question: 12008 - 50 ÷ 10.00 = ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "12003"
+    ],
+    "most_common_answer": "12003",
+    "answer_distribution": {
+      "12003": 1
+    },
+    "ground_truth": [
+      "12003"
+    ]
+  },
+  {
+    "data_id": 55,
+    "question": "Question: there is a lot of speculation that the economy of a country depends on how fast people spend their money in addition to how much they save . auggie was very curious to test this theory . auggie spent all of his money in 5 stores . in each store , he spent rs . 4 more than one - half of what he had when he went in . how many rupees did auggie have when he entered the first store ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "248"
+    ]
+  },
+  {
+    "data_id": 56,
+    "question": "Question: at what rate percent on simple interest will rs . 750 amount to rs . 825 in 5 years ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "2%"
+    ],
+    "most_common_answer": "2%",
+    "answer_distribution": {
+      "2%": 1
+    },
+    "ground_truth": [
+      "2"
+    ]
+  },
+  {
+    "data_id": 57,
+    "question": "Question: how many cubes of 5 cm edge can be cut out of a cube of 20 cm edge\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "64"
+    ]
+  },
+  {
+    "data_id": 58,
+    "question": "Question: what is the sum of all the odd numbers between 24 and 50 , inclusive ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "481"
+    ],
+    "most_common_answer": "481",
+    "answer_distribution": {
+      "481": 1
+    },
+    "ground_truth": [
+      "481"
+    ]
+  },
+  {
+    "data_id": 59,
+    "question": "Question: if a # b = ab – b + b ^ 2 , then 3 # 4 =\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "24"
+    ],
+    "most_common_answer": "24",
+    "answer_distribution": {
+      "24": 1
+    },
+    "ground_truth": [
+      "24"
+    ]
+  },
+  {
+    "data_id": 60,
+    "question": "Question: in a garden , there are 10 rows and 15 columns of mango trees . the distance between the two trees is 2 metres and a distance of one metre is left from all sides of the boundary of the garden . the length of the garden is\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "32"
+    ],
+    "most_common_answer": "32",
+    "answer_distribution": {
+      "32": 1
+    },
+    "ground_truth": [
+      "30 m"
+    ]
+  },
+  {
+    "data_id": 61,
+    "question": "Question: a full stationary oil tank that is a right circular cylinder has a radius of 100 feet and a height of 25 feet . oil is pumped from the stationary tank to an oil truck that has a tank that is a right circular cylinder until the truck ' s tank is completely filled . if the truck ' s tank has a radius of 6 feet and a height of 10 feet , how far ( in feet ) did the oil level drop in the stationary tank ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "0.036"
+    ],
+    "most_common_answer": "0.036",
+    "answer_distribution": {
+      "0.036": 1
+    },
+    "ground_truth": [
+      "0.036"
+    ]
+  },
+  {
+    "data_id": 62,
+    "question": "Question: on thursday mabel handled 90 transactions . anthony handled 10 % more transactions than mabel , cal handled 2 / 3 rds of the transactions that anthony handled , and jade handled 16 more transactions than cal . how much transactions did jade handled ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "82"
+    ],
+    "most_common_answer": "82",
+    "answer_distribution": {
+      "82": 1
+    },
+    "ground_truth": [
+      "82"
+    ]
+  },
+  {
+    "data_id": 63,
+    "question": "Question: if x ¤ y = ( x + y ) ^ 2 - ( x - y ) ^ 2 . then √ 7 ¤ √ 7 =\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "28"
+    ],
+    "most_common_answer": "28",
+    "answer_distribution": {
+      "28": 1
+    },
+    "ground_truth": [
+      "28"
+    ]
+  },
+  {
+    "data_id": 64,
+    "question": "Question: in an election between two candidates a and b , the number of valid votes received by a exceeds those received by b by 15 % of the total number of votes polled . if 20 % of the votes polled were invalid and a total of 4720 votes were polled , then how many valid votes did b get ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "1534"
+    ],
+    "most_common_answer": "1534",
+    "answer_distribution": {
+      "1534": 1
+    },
+    "ground_truth": [
+      "1534"
+    ]
+  },
+  {
+    "data_id": 65,
+    "question": "Question: how many positive integers less than 400 can be formed using the numbers 1 , 2 , 3 and 5 for the digits ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "68"
+    ],
+    "most_common_answer": "68",
+    "answer_distribution": {
+      "68": 1
+    },
+    "ground_truth": [
+      "68"
+    ]
+  },
+  {
+    "data_id": 66,
+    "question": "Question: how many even multiples of 65 are there between 649 and 1301 ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "7"
+    ],
+    "most_common_answer": "7",
+    "answer_distribution": {
+      "7": 1
+    },
+    "ground_truth": [
+      "6"
+    ]
+  },
+  {
+    "data_id": 67,
+    "question": "Question: out of 400 students of a school , 325 play football , 175 play cricket and 50 neither play football nor cricket . how many students play both football and cricket ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "150"
+    ],
+    "most_common_answer": "150",
+    "answer_distribution": {
+      "150": 1
+    },
+    "ground_truth": [
+      "150"
+    ]
+  },
+  {
+    "data_id": 68,
+    "question": "Question: what percent is 400 gm of 1 kg ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "40%"
+    ],
+    "most_common_answer": "40%",
+    "answer_distribution": {
+      "40%": 1
+    },
+    "ground_truth": [
+      "40 %"
+    ]
+  },
+  {
+    "data_id": 69,
+    "question": "Question: one copy machine can make 30 copies a minute , and a second copy machine makes 20 copies a minute . if the two copiers work together , how long would it take them to make 2,000 copies ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "40"
+    ],
+    "most_common_answer": "40",
+    "answer_distribution": {
+      "40": 1
+    },
+    "ground_truth": [
+      "40 minutes"
+    ]
+  },
+  {
+    "data_id": 70,
+    "question": "Question: tickets to a certain concert sell for $ 20 each . the first 10 people to show up at the ticket booth received a 40 % discount , and the next 20 received a 15 % discount . if 52 people bought tickets to the concert , what was the total revenue from ticket sales ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "900"
+    ],
+    "most_common_answer": "900",
+    "answer_distribution": {
+      "900": 1
+    },
+    "ground_truth": [
+      "$ 900"
+    ]
+  },
+  {
+    "data_id": 71,
+    "question": "Question: a sum fetched total simple interest of 4016.25 at the rate of 9 p . c . p . a . in 5 years . what is the sum ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "8925"
+    ],
+    "most_common_answer": "8925",
+    "answer_distribution": {
+      "8925": 1
+    },
+    "ground_truth": [
+      "8925"
+    ]
+  },
+  {
+    "data_id": 72,
+    "question": "Question: the average temperature for monday , tuesday and wednsday is 36.3 degrees c . the average temperature for tuesday , wednesday and thursday is 36.7 degrees c . if monday ’ s temperature recorded as 39 degrees c , find the thursday ’ s temperature ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "40.2"
+    ],
+    "most_common_answer": "40.2",
+    "answer_distribution": {
+      "40.2": 1
+    },
+    "ground_truth": [
+      "40.2 degrees c"
+    ]
+  },
+  {
+    "data_id": 73,
+    "question": "Question: the smallest number when increased by ` ` 1 ` ` is exactly divisible by 2 , 8 , 24 , 36 is :\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "71"
+    ],
+    "most_common_answer": "71",
+    "answer_distribution": {
+      "71": 1
+    },
+    "ground_truth": [
+      "71"
+    ]
+  },
+  {
+    "data_id": 74,
+    "question": "Question: the length of a rectangular floor is more than its breadth by 200 % . if rs . 324 is required to paint the floor at the rate of rs . 3 per sq m , then what would be the length of the floor ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "18"
+    ],
+    "most_common_answer": "18",
+    "answer_distribution": {
+      "18": 1
+    },
+    "ground_truth": [
+      "18 m"
+    ]
+  },
+  {
+    "data_id": 75,
+    "question": "Question: 1370 , 1320 , x , - 180 , - 6430\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "1070"
+    ]
+  },
+  {
+    "data_id": 76,
+    "question": "Question: andrew travelling to 7 cities . gasoline prices varied from city to city . $ 1.75 , $ 1.61 , $ 1.79 , $ 2.11 , $ 1.96 , $ 2.09 , $ 1.82 . what is the median gasoline price ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "$1.89"
+    ],
+    "most_common_answer": "$1.89",
+    "answer_distribution": {
+      "$1.89": 1
+    },
+    "ground_truth": [
+      "$ 1.82"
+    ]
+  },
+  {
+    "data_id": 77,
+    "question": "Question: mary can do a piece of work in 12 days . rosy is 50 % more efficient than mary . the number of days taken by rosy to do the same piece of work is ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "8"
+    ],
+    "most_common_answer": "8",
+    "answer_distribution": {
+      "8": 1
+    },
+    "ground_truth": [
+      "8"
+    ]
+  },
+  {
+    "data_id": 78,
+    "question": "Question: mahesh can do a piece of work in 30 days . he works at it for 20 days and then rajesh finished it in 30 days . how long will y take to complete the work ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "90"
+    ]
+  },
+  {
+    "data_id": 79,
+    "question": "Question: there are 32 stations between ernakulam and chennai . how many second class tickets have to be printed , so that a passenger can travel from one station to any other station ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "561"
+    ],
+    "most_common_answer": "561",
+    "answer_distribution": {
+      "561": 1
+    },
+    "ground_truth": [
+      "1122"
+    ]
+  },
+  {
+    "data_id": 80,
+    "question": "Question: a and b enterd into a partnership investing rs . 16000 and rs . 12000 respectively . after 3 months , a withdrew rs . 5000 while b invested rs . 5000 more . after 3 more months . c joins the business with a capital of rs . 21000 . the share of b exceeds that of c , out of a total profit of rs . 26400 after one year by\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "rs . 3600"
+    ]
+  },
+  {
+    "data_id": 81,
+    "question": "Question: the perimeter of a triangle is 44 cm and the in radius of the triangle is 2.5 cm . what is the area of the triangle ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "55"
+    ],
+    "most_common_answer": "55",
+    "answer_distribution": {
+      "55": 1
+    },
+    "ground_truth": [
+      "55"
+    ]
+  },
+  {
+    "data_id": 82,
+    "question": "Question: there are 690 male and female participants in a meeting . half the female participants and one - quarter of the male participants are democrats . one - third of all the participants are democrats . how many of the democrats are female ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "115"
+    ],
+    "most_common_answer": "115",
+    "answer_distribution": {
+      "115": 1
+    },
+    "ground_truth": [
+      "115"
+    ]
+  },
+  {
+    "data_id": 83,
+    "question": "Question: how many seconds will a train 150 meters long take to cross a bridge 200 meters long if the speed of the train is 54 kmph ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "23.33"
+    ],
+    "most_common_answer": "23.33",
+    "answer_distribution": {
+      "23.33": 1
+    },
+    "ground_truth": [
+      "23.3 sec"
+    ]
+  },
+  {
+    "data_id": 84,
+    "question": "Question: a fruit seller had some oranges . he sells 10 % oranges and still has 360 oranges . how many oranges he had originally ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "400"
+    ],
+    "most_common_answer": "400",
+    "answer_distribution": {
+      "400": 1
+    },
+    "ground_truth": [
+      "400"
+    ]
+  },
+  {
+    "data_id": 85,
+    "question": "Question: the average expenditure of a labourer for 6 months was 95 and he fell into debt . in the next 4 months by reducing his monthly expenses to 60 he not only cleared off his debt but also saved 30 . his monthly income i\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "84"
+    ],
+    "most_common_answer": "84",
+    "answer_distribution": {
+      "84": 1
+    },
+    "ground_truth": [
+      "84"
+    ]
+  },
+  {
+    "data_id": 86,
+    "question": "Question: a man covers a certain distance q in a train . if the train moved 4 km / hr faster , it would take 30 min less . if it moved 2 km / hr slower , it would take 20 mins more . find the distance ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "60"
+    ],
+    "most_common_answer": "60",
+    "answer_distribution": {
+      "60": 1
+    },
+    "ground_truth": [
+      "60 km"
+    ]
+  },
+  {
+    "data_id": 87,
+    "question": "Question: john and andrew can finish the work 9 days if they work together . they worked together for 6 days and then andrew left . john finished the remaining work in another 6 days . in how many days john alone can finish the work ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "18"
+    ],
+    "most_common_answer": "18",
+    "answer_distribution": {
+      "18": 1
+    },
+    "ground_truth": [
+      "18 days"
+    ]
+  },
+  {
+    "data_id": 88,
+    "question": "Question: how long does a train 250 meters long running at the rate of 72 km / hr take to cross a bridge 150 meters in length ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "20"
+    ],
+    "most_common_answer": "20",
+    "answer_distribution": {
+      "20": 1
+    },
+    "ground_truth": [
+      "20 sec"
+    ]
+  },
+  {
+    "data_id": 89,
+    "question": "Question: 33 1 / 3 % of 240 ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "80"
+    ],
+    "most_common_answer": "80",
+    "answer_distribution": {
+      "80": 1
+    },
+    "ground_truth": [
+      "80"
+    ]
+  },
+  {
+    "data_id": 90,
+    "question": "Question: a train 120 m long is running with a speed of 62 kmph . in what time will it pass a man who is running at 8 kmph in the same direction in which the train is going\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "8"
+    ],
+    "most_common_answer": "8",
+    "answer_distribution": {
+      "8": 1
+    },
+    "ground_truth": [
+      "8 sec"
+    ]
+  },
+  {
+    "data_id": 91,
+    "question": "Question: the least number , which when divided by 12 , 15 , 20 and 54 leaves in each case a remainder of 8 , is :\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "548"
+    ],
+    "most_common_answer": "548",
+    "answer_distribution": {
+      "548": 1
+    },
+    "ground_truth": [
+      "548"
+    ]
+  },
+  {
+    "data_id": 92,
+    "question": "Question: in town p , 70 percent of the population are employed , and 42 percent of the population are employed males . what percent of the employed people in town p are females ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "40"
+    ],
+    "most_common_answer": "40",
+    "answer_distribution": {
+      "40": 1
+    },
+    "ground_truth": [
+      "40 %"
+    ]
+  },
+  {
+    "data_id": 93,
+    "question": "Question: if the wheel is 14 cm then the number of revolutions to cover a distance of 2288 cm is ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "52"
+    ],
+    "most_common_answer": "52",
+    "answer_distribution": {
+      "52": 1
+    },
+    "ground_truth": [
+      "26"
+    ]
+  },
+  {
+    "data_id": 94,
+    "question": "Question: a person lent a certain sum of money at 5 % per annum at simple interest and in 8 years the interest amounted to $ 420 less than the sum lent . what was the sum lent ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      "700"
+    ],
+    "most_common_answer": "700",
+    "answer_distribution": {
+      "700": 1
+    },
+    "ground_truth": [
+      "700"
+    ]
+  },
+  {
+    "data_id": 95,
+    "question": "Question: rs . 2500 is divided into two parts such that if one part be put out at 5 % simple interest and the other at 6 % , the yearly annual income may be rs . 125 . how much was lent at 5 % ?\nFirst, provide a simple explanation of the question and give it to the large language model for a more accurate answer. Focus on explaining the question without deep reasoning in the first step. After receiving the response, think about the large language model's response, and by interacting with the large language model again and again, arrive at the final answer. Proceed step by step with the following rules:\n1. Only in the first step, provide a brief explanation of the question and give it to the large language model:\n   <think>(Brief thinking must not be over 80 words)</think>\n   <interaction_prompt>(give the question and its explanation to the large language model)</interaction_prompt>\n2. After the first step, in each interaction with the large language model, write:\n   <think>(your reasoning for the receiving response and question)</think>\n   <interaction_prompt>(new request to refine or validate the answer)</interaction_prompt>\n3. Each <interaction_prompt> must build on what came before. Do not just repeat the same content. Let the content of the <interaction_prompt>...</interaction_prompt> evolve naturally (for example: outline → add details → refine → check). \n4. Continue producing think within <think></think> and call tool within <interaction_prompt></interaction_prompt> until the answer is ready.\n5. Once the answer is complete, write:\n   <think>(final reasoning with the <interaction_response> and question)</think>\n   <answer>(final answer for the question)</answer>",
+    "all_predicted_answers": [
+      ""
+    ],
+    "most_common_answer": "",
+    "answer_distribution": {
+      "": 1
+    },
+    "ground_truth": [
+      "2500"
+    ]
+  }
+]

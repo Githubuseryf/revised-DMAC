@@ -1,0 +1,17 @@
+{
+  "count": 96,
+  "exact_match": {
+    "mean": 0.4895833333333333,
+    "sum": 47
+  },
+  "substring_match": {
+    "mean": 0.6041666666666666,
+    "sum": 58
+  },
+  "f1": {
+    "mean": 0.5427579365079366
+  },
+  "semantic_similarity": {
+    "mean": 0.7729792776226532
+  }
+}

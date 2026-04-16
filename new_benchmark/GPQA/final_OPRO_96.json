@@ -1,0 +1,1250 @@
+[
+  {
+    "data_id": 13,
+    "most_common_answer": "The expectation value is 5.0",
+    "all_predicted_answers": [
+      "The expectation value is 5.0"
+    ],
+    "answer_distribution": {
+      "The expectation value is 5.0": 1
+    },
+    "ground_truth": [
+      "-0.7"
+    ]
+  },
+  {
+    "data_id": 35,
+    "most_common_answer": "The ratio of the largest and the second largest eigenvalue of the transfer matrix at equilibrium temperature T is given by \\( e^{-\\frac{J}{T}} \\)",
+    "all_predicted_answers": [
+      "The ratio of the largest and the second largest eigenvalue of the transfer matrix at equilibrium temperature T is given by \\( e^{-\\frac{J}{T}} \\)"
+    ],
+    "answer_distribution": {
+      "The ratio of the largest and the second largest eigenvalue of the transfer matrix at equilibrium temperature T is given by \\( e^{-\\frac{J}{T}} \\)": 1
+    },
+    "ground_truth": [
+      "coth(J/T)"
+    ]
+  },
+  {
+    "data_id": 242,
+    "most_common_answer": "There will be 5 chemically distinct non-exchanging hydrogen signals in the 1H NMR spectrum of product 2",
+    "all_predicted_answers": [
+      "There will be 5 chemically distinct non-exchanging hydrogen signals in the 1H NMR spectrum of product 2"
+    ],
+    "answer_distribution": {
+      "There will be 5 chemically distinct non-exchanging hydrogen signals in the 1H NMR spectrum of product 2": 1
+    },
+    "ground_truth": [
+      "4"
+    ]
+  },
+  {
+    "data_id": 204,
+    "most_common_answer": "The product formed is 3-iodo-5-methyl-2-nitrophenol",
+    "all_predicted_answers": [
+      "The product formed is 3-iodo-5-methyl-2-nitrophenol"
+    ],
+    "answer_distribution": {
+      "The product formed is 3-iodo-5-methyl-2-nitrophenol": 1
+    },
+    "ground_truth": [
+      "3-hydroxy-5-methyl-2-nitrophenyl 4-nitrobenzenesulfonate"
+    ]
+  },
+  {
+    "data_id": 221,
+    "most_common_answer": "The splitting pattern of the most deshielded hydrogen nucleus in the 1H NMR spectrum of product 2 is a triplet",
+    "all_predicted_answers": [
+      "The splitting pattern of the most deshielded hydrogen nucleus in the 1H NMR spectrum of product 2 is a triplet"
+    ],
+    "answer_distribution": {
+      "The splitting pattern of the most deshielded hydrogen nucleus in the 1H NMR spectrum of product 2 is a triplet": 1
+    },
+    "ground_truth": [
+      "triplet"
+    ]
+  },
+  {
+    "data_id": 256,
+    "most_common_answer": "A signal in reflectance spectroscopy",
+    "all_predicted_answers": [
+      "A signal in reflectance spectroscopy"
+    ],
+    "answer_distribution": {
+      "A signal in reflectance spectroscopy": 1
+    },
+    "ground_truth": [
+      "Periodic FWHM changes in spectral lines\n"
+    ]
+  },
+  {
+    "data_id": 54,
+    "most_common_answer": "Two components",
+    "all_predicted_answers": [
+      "Two components"
+    ],
+    "answer_distribution": {
+      "Two components": 1
+    },
+    "ground_truth": [
+      "2"
+    ]
+  },
+  {
+    "data_id": 140,
+    "most_common_answer": "3-Carboxy-4-hydroxy-2,6-dimethylamino-5-methoxybenzonitrile",
+    "all_predicted_answers": [
+      "3-Carboxy-4-hydroxy-2,6-dimethylamino-5-methoxybenzonitrile"
+    ],
+    "answer_distribution": {
+      "3-Carboxy-4-hydroxy-2,6-dimethylamino-5-methoxybenzonitrile": 1
+    },
+    "ground_truth": [
+      "3-cyano-6-(dimethylamino)-5-formyl-2-hydroxy-4-methoxybenzoic acid"
+    ]
+  },
+  {
+    "data_id": 290,
+    "most_common_answer": "The strong force",
+    "all_predicted_answers": [
+      "The strong force"
+    ],
+    "answer_distribution": {
+      "The strong force": 1
+    },
+    "ground_truth": [
+      "Weak Nuclear"
+    ]
+  },
+  {
+    "data_id": 211,
+    "most_common_answer": "5. Methanol",
+    "all_predicted_answers": [
+      "5. Methanol"
+    ],
+    "answer_distribution": {
+      "5. Methanol": 1
+    },
+    "ground_truth": [
+      "5, 2, 1, 3 and 4"
+    ]
+  },
+  {
+    "data_id": 4,
+    "most_common_answer": "The volume of unreacted H2 in the fuel cell is 250 mL",
+    "all_predicted_answers": [
+      "The volume of unreacted H2 in the fuel cell is 250 mL"
+    ],
+    "answer_distribution": {
+      "The volume of unreacted H2 in the fuel cell is 250 mL": 1
+    },
+    "ground_truth": [
+      "200 mL"
+    ]
+  },
+  {
+    "data_id": 297,
+    "most_common_answer": "4. The masses data used are not at a high-confidence level, i.e. the data is old",
+    "all_predicted_answers": [
+      "4. The masses data used are not at a high-confidence level, i.e. the data is old"
+    ],
+    "answer_distribution": {
+      "4. The masses data used are not at a high-confidence level, i.e. the data is old": 1
+    },
+    "ground_truth": [
+      "1, 2."
+    ]
+  },
+  {
+    "data_id": 276,
+    "most_common_answer": "The most likely change the pharmacist recommended is the addition of erythropoiesis-stimulating agents (ESAs), such as epoetin alfa or darbepoetin alfa",
+    "all_predicted_answers": [
+      "The most likely change the pharmacist recommended is the addition of erythropoiesis-stimulating agents (ESAs), such as epoetin alfa or darbepoetin alfa"
+    ],
+    "answer_distribution": {
+      "The most likely change the pharmacist recommended is the addition of erythropoiesis-stimulating agents (ESAs), such as epoetin alfa or darbepoetin alfa": 1
+    },
+    "ground_truth": [
+      "Add IV cyanocobalamin to the therapy"
+    ]
+  },
+  {
+    "data_id": 138,
+    "most_common_answer": "The lines of El2 (the ionized element) are the most sensitive to surface gravity",
+    "all_predicted_answers": [
+      "The lines of El2 (the ionized element) are the most sensitive to surface gravity"
+    ],
+    "answer_distribution": {
+      "The lines of El2 (the ionized element) are the most sensitive to surface gravity": 1
+    },
+    "ground_truth": [
+      "El1 II (singly ionized)"
+    ]
+  },
+  {
+    "data_id": 210,
+    "most_common_answer": "The kinetic energy (KE) of the product particles is 33.9 MeV",
+    "all_predicted_answers": [
+      "The kinetic energy (KE) of the product particles is 33.9 MeV"
+    ],
+    "answer_distribution": {
+      "The kinetic energy (KE) of the product particles is 33.9 MeV": 1
+    },
+    "ground_truth": [
+      "4.12 MeV, 29.8 MeV"
+    ]
+  },
+  {
+    "data_id": 129,
+    "most_common_answer": "(B) Methyl 2-hydroxypropanoate",
+    "all_predicted_answers": [
+      "(B) Methyl 2-hydroxypropanoate"
+    ],
+    "answer_distribution": {
+      "(B) Methyl 2-hydroxypropanoate": 1
+    },
+    "ground_truth": [
+      "A = benzoquinone, B = methyl 2-hydroxypropanoate"
+    ]
+  },
+  {
+    "data_id": 156,
+    "most_common_answer": "\\]",
+    "all_predicted_answers": [
+      "\\]"
+    ],
+    "answer_distribution": {
+      "\\]": 1
+    },
+    "ground_truth": [
+      "A_{0}=\\sqrt{p}\\left[\\begin{array}{cc}\n-1 & 0\\\\\n0 & -1\n\\end{array}\\right] and A_{1}=\\sqrt{1-p}\\left[\\begin{array}{cc}\n0 & -1\\\\\n1 & 0\n\\end{array}\\right]"
+    ]
+  },
+  {
+    "data_id": 73,
+    "most_common_answer": "Thermodynamically, oxygen is a stronger oxidant in basic solutions. Kinetically, oxygen reacts slower in acidic solutions",
+    "all_predicted_answers": [
+      "Thermodynamically, oxygen is a stronger oxidant in basic solutions. Kinetically, oxygen reacts slower in acidic solutions"
+    ],
+    "answer_distribution": {
+      "Thermodynamically, oxygen is a stronger oxidant in basic solutions. Kinetically, oxygen reacts slower in acidic solutions": 1
+    },
+    "ground_truth": [
+      "weaker - slower"
+    ]
+  },
+  {
+    "data_id": 231,
+    "most_common_answer": "The power-law line for AGNs with Kerr black holes (spin a=1) will lie above the power-law line for AGNs with Schwarzschild black holes",
+    "all_predicted_answers": [
+      "The power-law line for AGNs with Kerr black holes (spin a=1) will lie above the power-law line for AGNs with Schwarzschild black holes"
+    ],
+    "answer_distribution": {
+      "The power-law line for AGNs with Kerr black holes (spin a=1) will lie above the power-law line for AGNs with Schwarzschild black holes": 1
+    },
+    "ground_truth": [
+      "The 2nd line (Kerr line) is above the 1st line (by a factor of 5 to 10)."
+    ]
+  },
+  {
+    "data_id": 101,
+    "most_common_answer": "Variability in the qPCR results can be attributed to pipetting errors, differences in sample quality, or inherent biological variability",
+    "all_predicted_answers": [
+      "Variability in the qPCR results can be attributed to pipetting errors, differences in sample quality, or inherent biological variability"
+    ],
+    "answer_distribution": {
+      "Variability in the qPCR results can be attributed to pipetting errors, differences in sample quality, or inherent biological variability": 1
+    },
+    "ground_truth": [
+      "Ct values are not in agreement with the amount of target nucleic acid in samples "
+    ]
+  },
+  {
+    "data_id": 282,
+    "most_common_answer": "C: 2-methyl-3-vinyloxymethylbut-1-ene",
+    "all_predicted_answers": [
+      "C: 2-methyl-3-vinyloxymethylbut-1-ene"
+    ],
+    "answer_distribution": {
+      "C: 2-methyl-3-vinyloxymethylbut-1-ene": 1
+    },
+    "ground_truth": [
+      "A = (Z)-1-(but-2-en-2-yloxy)ethen-1-amine, B = (3Z,4E)-3,4-diethylidenecyclobut-1-ene, C = 4-methylenehexanal"
+    ]
+  },
+  {
+    "data_id": 127,
+    "most_common_answer": "B: NH3 (ammonia)",
+    "all_predicted_answers": [
+      "B: NH3 (ammonia)"
+    ],
+    "answer_distribution": {
+      "B: NH3 (ammonia)": 1
+    },
+    "ground_truth": [
+      "A = diphenylphosphoryl azide (DPPA) and B = H3O+, Heat"
+    ]
+  },
+  {
+    "data_id": 6,
+    "most_common_answer": "The state \\(\\psi\\) is an eigenfunction of \\(H\\). The energy corresponding to this state is \\(\\frac{A}{2}\\)",
+    "all_predicted_answers": [
+      "The state \\(\\psi\\) is an eigenfunction of \\(H\\). The energy corresponding to this state is \\(\\frac{A}{2}\\)"
+    ],
+    "answer_distribution": {
+      "The state \\(\\psi\\) is an eigenfunction of \\(H\\). The energy corresponding to this state is \\(\\frac{A}{2}\\)": 1
+    },
+    "ground_truth": [
+      "It is an eigenstate of H, with eigenvalue 3/4*A*hbar^2"
+    ]
+  },
+  {
+    "data_id": 51,
+    "most_common_answer": "Breast ultrasound",
+    "all_predicted_answers": [
+      "Breast ultrasound"
+    ],
+    "answer_distribution": {
+      "Breast ultrasound": 1
+    },
+    "ground_truth": [
+      "Vacuum-assisted core needle biopsy with advanced immunohistochemistry and fluorescence in situ hybridization (FISH) analysis "
+    ]
+  },
+  {
+    "data_id": 10,
+    "most_common_answer": "Using a non-specific inhibitor that affects multiple signaling pathways",
+    "all_predicted_answers": [
+      "Using a non-specific inhibitor that affects multiple signaling pathways"
+    ],
+    "answer_distribution": {
+      "Using a non-specific inhibitor that affects multiple signaling pathways": 1
+    },
+    "ground_truth": [
+      "an analysis of cis-region methylation of genes for eukaryotic initiation factors"
+    ]
+  },
+  {
+    "data_id": 245,
+    "most_common_answer": "The presence of bands at 590 bp and 605 bp indicates successful amplification of the target genes",
+    "all_predicted_answers": [
+      "The presence of bands at 590 bp and 605 bp indicates successful amplification of the target genes"
+    ],
+    "answer_distribution": {
+      "The presence of bands at 590 bp and 605 bp indicates successful amplification of the target genes": 1
+    },
+    "ground_truth": [
+      "Although the scientist detected the two genes, he has to redo the experiment and redesign suitable primers\n\n"
+    ]
+  },
+  {
+    "data_id": 187,
+    "most_common_answer": "Products: (R,Z)-N-(2-ethylcyclohexylidene)ethanamine and Iodide ion (I⁻)",
+    "all_predicted_answers": [
+      "Products: (R,Z)-N-(2-ethylcyclohexylidene)ethanamine and Iodide ion (I⁻)"
+    ],
+    "answer_distribution": {
+      "Products: (R,Z)-N-(2-ethylcyclohexylidene)ethanamine and Iodide ion (I⁻)": 1
+    },
+    "ground_truth": [
+      "A = LDA, B = (2R,6R)-N,2,6-triethylcyclohexan-1-amine"
+    ]
+  },
+  {
+    "data_id": 216,
+    "most_common_answer": "\\[ Z = 2 e^{3\\beta J} + 6 e^{\\beta J} + 3 e^{-\\beta J} \\]",
+    "all_predicted_answers": [
+      "\\[ Z = 2 e^{3\\beta J} + 6 e^{\\beta J} + 3 e^{-\\beta J} \\]"
+    ],
+    "answer_distribution": {
+      "\\[ Z = 2 e^{3\\beta J} + 6 e^{\\beta J} + 3 e^{-\\beta J} \\]": 1
+    },
+    "ground_truth": [
+      "Z= 2 e^(3J\\beta)+6e^(-J\\beta)"
+    ]
+  },
+  {
+    "data_id": 178,
+    "most_common_answer": "\\]",
+    "all_predicted_answers": [
+      "\\]"
+    ],
+    "answer_distribution": {
+      "\\]": 1
+    },
+    "ground_truth": [
+      "V(\\vec{r},t) = \\dfrac{qc}{4\\pi\\epsilon_o (d c - \\vec{d}. \\vec{v})},  \\vec{A(\\vec{r},t)} = \\dfrac{\\mu_o qc \\vec{v}}{4\\pi (d c - \\vec{d}. \\vec{v})}"
+    ]
+  },
+  {
+    "data_id": 213,
+    "most_common_answer": "8. Histone variant incorporation",
+    "all_predicted_answers": [
+      "8. Histone variant incorporation"
+    ],
+    "answer_distribution": {
+      "8. Histone variant incorporation": 1
+    },
+    "ground_truth": [
+      "Differential access to the transcriptional machinery"
+    ]
+  },
+  {
+    "data_id": 59,
+    "most_common_answer": "These structures represent the potential bromination products of the reaction with hydrogen bromide",
+    "all_predicted_answers": [
+      "These structures represent the potential bromination products of the reaction with hydrogen bromide"
+    ],
+    "answer_distribution": {
+      "These structures represent the potential bromination products of the reaction with hydrogen bromide": 1
+    },
+    "ground_truth": [
+      "3,3,4-trimethylchromane and 3-isopropyl-3-methyl-2,3-dihydrobenzofuran"
+    ]
+  },
+  {
+    "data_id": 275,
+    "most_common_answer": "The relationship among the alleles is that A2 is completely dominant over A1, resulting in all offspring being short-tailed. For gene B, since B1 and B2 are co-dominant, the offspring will express a phenotype that reflects both alleles, resulting in medium-sized ears",
+    "all_predicted_answers": [
+      "The relationship among the alleles is that A2 is completely dominant over A1, resulting in all offspring being short-tailed. For gene B, since B1 and B2 are co-dominant, the offspring will express a phenotype that reflects both alleles, resulting in medium-sized ears"
+    ],
+    "answer_distribution": {
+      "The relationship among the alleles is that A2 is completely dominant over A1, resulting in all offspring being short-tailed. For gene B, since B1 and B2 are co-dominant, the offspring will express a phenotype that reflects both alleles, resulting in medium-sized ears": 1
+    },
+    "ground_truth": [
+      "B1 allele modifies A1 homozygotes"
+    ]
+  },
+  {
+    "data_id": 293,
+    "most_common_answer": "shift in the aromatic region indicative of the restoration of electroactivity",
+    "all_predicted_answers": [
+      "shift in the aromatic region indicative of the restoration of electroactivity"
+    ],
+    "answer_distribution": {
+      "shift in the aromatic region indicative of the restoration of electroactivity": 1
+    },
+    "ground_truth": [
+      "Triplet at 6.9 ppm "
+    ]
+  },
+  {
+    "data_id": 31,
+    "most_common_answer": "Using a higher concentration of the antibiotics or increasing the incubation time could improve the results of the previous experiment",
+    "all_predicted_answers": [
+      "Using a higher concentration of the antibiotics or increasing the incubation time could improve the results of the previous experiment"
+    ],
+    "answer_distribution": {
+      "Using a higher concentration of the antibiotics or increasing the incubation time could improve the results of the previous experiment": 1
+    },
+    "ground_truth": [
+      "Use of cefotaxime and ceftazidime discs instead of erythromycin and chloramphenicol discs\n\n"
+    ]
+  },
+  {
+    "data_id": 225,
+    "most_common_answer": "The absorption line is most likely associated with the 21 cm hydrogen line, which corresponds to neutral hydrogen (HI) in the Milky Way",
+    "all_predicted_answers": [
+      "The absorption line is most likely associated with the 21 cm hydrogen line, which corresponds to neutral hydrogen (HI) in the Milky Way"
+    ],
+    "answer_distribution": {
+      "The absorption line is most likely associated with the 21 cm hydrogen line, which corresponds to neutral hydrogen (HI) in the Milky Way": 1
+    },
+    "ground_truth": [
+      "Cold atomic interstellar medium."
+    ]
+  },
+  {
+    "data_id": 0,
+    "most_common_answer": "The threshold energy for the high-energy γ-rays to undergo the process γγ → e⁺e⁻ with CMB photons is approximately 1 MeV",
+    "all_predicted_answers": [
+      "The threshold energy for the high-energy γ-rays to undergo the process γγ → e⁺e⁻ with CMB photons is approximately 1 MeV"
+    ],
+    "answer_distribution": {
+      "The threshold energy for the high-energy γ-rays to undergo the process γγ → e⁺e⁻ with CMB photons is approximately 1 MeV": 1
+    },
+    "ground_truth": [
+      "2.6*1e5 GeV"
+    ]
+  },
+  {
+    "data_id": 1,
+    "most_common_answer": "1, 2, and 4",
+    "all_predicted_answers": [
+      "1, 2, and 4"
+    ],
+    "answer_distribution": {
+      "1, 2, and 4": 1
+    },
+    "ground_truth": [
+      "1,2,4"
+    ]
+  },
+  {
+    "data_id": 3,
+    "most_common_answer": "3-nitrobenzoic acid > 3-formylbenzoic acid > 3-hydroxybenzoic acid > 3-methylbenzoic acid",
+    "all_predicted_answers": [
+      "3-nitrobenzoic acid > 3-formylbenzoic acid > 3-hydroxybenzoic acid > 3-methylbenzoic acid"
+    ],
+    "answer_distribution": {
+      "3-nitrobenzoic acid > 3-formylbenzoic acid > 3-hydroxybenzoic acid > 3-methylbenzoic acid": 1
+    },
+    "ground_truth": [
+      "2>1>4>3\n"
+    ]
+  },
+  {
+    "data_id": 5,
+    "most_common_answer": "Triphenyleno[1,2-c:5,6-c':9,10-c'']trifuran-1,3,6,8,11,13-hexaone",
+    "all_predicted_answers": [
+      "Triphenyleno[1,2-c:5,6-c':9,10-c'']trifuran-1,3,6,8,11,13-hexaone"
+    ],
+    "answer_distribution": {
+      "Triphenyleno[1,2-c:5,6-c':9,10-c'']trifuran-1,3,6,8,11,13-hexaone": 1
+    },
+    "ground_truth": [
+      "triphenyleno[1,2-c:5,6-c':9,10-c'']trifuran-1,3,6,8,11,13-hexaone"
+    ]
+  },
+  {
+    "data_id": 7,
+    "most_common_answer": "The compound with the molecular formula C9H16O2 that displays a distinctive IR absorption peak between 1680-1700 cm-1 and produces three signals in the 1H-NMR spectra is likely to be an unsaturated carboxylic acid or an ester",
+    "all_predicted_answers": [
+      "The compound with the molecular formula C9H16O2 that displays a distinctive IR absorption peak between 1680-1700 cm-1 and produces three signals in the 1H-NMR spectra is likely to be an unsaturated carboxylic acid or an ester"
+    ],
+    "answer_distribution": {
+      "The compound with the molecular formula C9H16O2 that displays a distinctive IR absorption peak between 1680-1700 cm-1 and produces three signals in the 1H-NMR spectra is likely to be an unsaturated carboxylic acid or an ester": 1
+    },
+    "ground_truth": [
+      "2,6-dimethylheptane-3,5-dione\n"
+    ]
+  },
+  {
+    "data_id": 11,
+    "most_common_answer": "f) Detectable",
+    "all_predicted_answers": [
+      "f) Detectable"
+    ],
+    "answer_distribution": {
+      "f) Detectable": 1
+    },
+    "ground_truth": [
+      "3"
+    ]
+  },
+  {
+    "data_id": 16,
+    "most_common_answer": "star3",
+    "all_predicted_answers": [
+      "star3"
+    ],
+    "answer_distribution": {
+      "star3": 1
+    },
+    "ground_truth": [
+      "Star1"
+    ]
+  },
+  {
+    "data_id": 19,
+    "most_common_answer": "\\]",
+    "all_predicted_answers": [
+      "\\]"
+    ],
+    "answer_distribution": {
+      "\\]": 1
+    },
+    "ground_truth": [
+      "4.0655 * 10^-15 m"
+    ]
+  },
+  {
+    "data_id": 22,
+    "most_common_answer": "Product D is likely 1-bromo-2-phenylpropane",
+    "all_predicted_answers": [
+      "Product D is likely 1-bromo-2-phenylpropane"
+    ],
+    "answer_distribution": {
+      "Product D is likely 1-bromo-2-phenylpropane": 1
+    },
+    "ground_truth": [
+      "1-bromo-1,2-dihydronaphthalene"
+    ]
+  },
+  {
+    "data_id": 27,
+    "most_common_answer": "The plasmid that contains the sequence encoding the Human P53 protein with the appropriate expression elements for E. coli BL21 should be used",
+    "all_predicted_answers": [
+      "The plasmid that contains the sequence encoding the Human P53 protein with the appropriate expression elements for E. coli BL21 should be used"
+    ],
+    "answer_distribution": {
+      "The plasmid that contains the sequence encoding the Human P53 protein with the appropriate expression elements for E. coli BL21 should be used": 1
+    },
+    "ground_truth": [
+      "ATGGAGGAGCCGCAGTCAGATCCTAGCGTCGAGCCGCCTCTGAGTCAGGAAACATTTTCAGACCTATGGAAACTACTTCCTGAAAACAACGTTCTGTCCCCGTTGCCGTCCCAAGCAATGGATGATTTGATGCTGTCCCCGGACGATATTGAACAATGGTTCACTGAAGACCCAGGTCCAGATGAAGCTCCCCGCATGCCAGAGGCTGCTCCCCCCGTGGCCCCTGCACCAGCAGCTCCTACACCGGCGGCCCCTGCACCAGCCCCCTCCTGGCCCCTGTCATCTTCTGTCCCTTCCCAGAAAACCTACCAGGGCAGCTACGGTTTCCGTCTGGGCTTCTTGCATTCTGGGACAGCCAAGTCTGTGACTTGCACGTACTCCCCTGCCCTCAACAAGATGTTTTGCCAACTGGCCAAGACCTGCCCTGTGCAGCTGTGGGTTGATTCCACACCCCCGCCCGGCACCCGCGTCCGCGCCATGGCCATCTACAAGCAGTCACAGCACATGACGGAGGTTGTGAGGCGCTGCCCCCACCATGAGCGCTGCTCAGATAGCGATGGTCTGGCCCCTCCTCAGCATCTTATCCGCGTGGAAGGAAATTTGCGTGTGGAGTATTTGGATGACAGAAACACTTTTCGACATAGTGTGGTGGTGCCCTATGAGCCGCCTGAGGTTGGCTCTGACTGTACCACCATCCACTACAACTACATGTGTAACAGTTCCTGCATGGGCGGCATGAACCGGAGGCCCATCCTCACCATCATCACACTGGAAGACTCCAGTGGTAATCTACTGGGACGGAACAGCTTTGAGGTGCGTGTTTGTGCCTGTCCTGGGCGCGACCGGCGCACAGAGGAAGAGAATCTCCGCAAGAAAGGGGAGCCTCACCACGAGCTGCCGCCAGGGAGCACTAAGCGAGCACTGCCCAACAACACCAGCTCCTCTCCCCAGCCAAAGAAGAAACCACTGGATGGAGAATATTTCACCCTTCAGATCCGTGGGCGTGAGCGCTTCGAGATGTTCCGAGAGCTGAATGAGGCCTTGGAACTCAAGGATGCCCAGGCTGGGAAGGAGCCAGGGGGGAGCAGGGCTCACTCCAGCCACCTGAAGTCCAAAAAGGGTCAGTCTACCTCCCGCCATAAAAAACTCATGTTCAAGACAGAAGGGCCTGACTCAGACTGA"
+    ]
+  },
+  {
+    "data_id": 28,
+    "most_common_answer": "\\]",
+    "all_predicted_answers": [
+      "\\]"
+    ],
+    "answer_distribution": {
+      "\\]": 1
+    },
+    "ground_truth": [
+      "$E = \\dfrac{1}{4 \\pi \\epsilon_o} \\dfrac{q}{L^2}$\n"
+    ]
+  },
+  {
+    "data_id": 29,
+    "most_common_answer": "Three of these systems can coexist",
+    "all_predicted_answers": [
+      "Three of these systems can coexist"
+    ],
+    "answer_distribution": {
+      "Three of these systems can coexist": 1
+    },
+    "ground_truth": [
+      "3"
+    ]
+  },
+  {
+    "data_id": 33,
+    "most_common_answer": "\\]",
+    "all_predicted_answers": [
+      "\\]"
+    ],
+    "answer_distribution": {
+      "\\]": 1
+    },
+    "ground_truth": [
+      "-12*hbar/25\n\n"
+    ]
+  },
+  {
+    "data_id": 38,
+    "most_common_answer": "There will be 4 distinct hydrogen signals in the 1H NMR of the product",
+    "all_predicted_answers": [
+      "There will be 4 distinct hydrogen signals in the 1H NMR of the product"
+    ],
+    "answer_distribution": {
+      "There will be 4 distinct hydrogen signals in the 1H NMR of the product": 1
+    },
+    "ground_truth": [
+      "6"
+    ]
+  },
+  {
+    "data_id": 39,
+    "most_common_answer": "4. CPT symmetry",
+    "all_predicted_answers": [
+      "4. CPT symmetry"
+    ],
+    "answer_distribution": {
+      "4. CPT symmetry": 1
+    },
+    "ground_truth": [
+      "1,2,4"
+    ]
+  },
+  {
+    "data_id": 41,
+    "most_common_answer": "The ratio of the equilibrium temperatures between Planet_4 and Planet_2 is approximately 1.18",
+    "all_predicted_answers": [
+      "The ratio of the equilibrium temperatures between Planet_4 and Planet_2 is approximately 1.18"
+    ],
+    "answer_distribution": {
+      "The ratio of the equilibrium temperatures between Planet_4 and Planet_2 is approximately 1.18": 1
+    },
+    "ground_truth": [
+      "~0.83"
+    ]
+  },
+  {
+    "data_id": 42,
+    "most_common_answer": "Calculate the decay constant (λ) for α decay:",
+    "all_predicted_answers": [
+      "Calculate the decay constant (λ) for α decay:"
+    ],
+    "answer_distribution": {
+      "Calculate the decay constant (λ) for α decay:": 1
+    },
+    "ground_truth": [
+      "3.719 Bq\n"
+    ]
+  },
+  {
+    "data_id": 43,
+    "most_common_answer": "The parallax of the star is 20.0 milliarcseconds",
+    "all_predicted_answers": [
+      "The parallax of the star is 20.0 milliarcseconds"
+    ],
+    "answer_distribution": {
+      "The parallax of the star is 20.0 milliarcseconds": 1
+    },
+    "ground_truth": [
+      "~ 334"
+    ]
+  },
+  {
+    "data_id": 45,
+    "most_common_answer": "Ribosome",
+    "all_predicted_answers": [
+      "Ribosome"
+    ],
+    "answer_distribution": {
+      "Ribosome": 1
+    },
+    "ground_truth": [
+      "R-loops"
+    ]
+  },
+  {
+    "data_id": 46,
+    "most_common_answer": "The oscillation frequency is given by \\( \\omega = \\gamma B \\)",
+    "all_predicted_answers": [
+      "The oscillation frequency is given by \\( \\omega = \\gamma B \\)"
+    ],
+    "answer_distribution": {
+      "The oscillation frequency is given by \\( \\omega = \\gamma B \\)": 1
+    },
+    "ground_truth": [
+      "gamma*B"
+    ]
+  },
+  {
+    "data_id": 47,
+    "most_common_answer": "The eigenvalues of the Grover iterator \\( G \\) in terms of \\( \\theta \\) are \\( \\cos^2(\\theta) \\) and \\( \\sin^2(\\theta) \\), where \\( \\theta = \\frac{\\pi}{4} \\) for the optimal case",
+    "all_predicted_answers": [
+      "The eigenvalues of the Grover iterator \\( G \\) in terms of \\( \\theta \\) are \\( \\cos^2(\\theta) \\) and \\( \\sin^2(\\theta) \\), where \\( \\theta = \\frac{\\pi}{4} \\) for the optimal case"
+    ],
+    "answer_distribution": {
+      "The eigenvalues of the Grover iterator \\( G \\) in terms of \\( \\theta \\) are \\( \\cos^2(\\theta) \\) and \\( \\sin^2(\\theta) \\), where \\( \\theta = \\frac{\\pi}{4} \\) for the optimal case": 1
+    },
+    "ground_truth": [
+      "cos2θ+isin2θ, cos2θ−isin2θ"
+    ]
+  },
+  {
+    "data_id": 48,
+    "most_common_answer": "D is (R)-hexan-2-ol",
+    "all_predicted_answers": [
+      "D is (R)-hexan-2-ol"
+    ],
+    "answer_distribution": {
+      "D is (R)-hexan-2-ol": 1
+    },
+    "ground_truth": [
+      "(2R,3S)-2-butyl-3-propyloxirane"
+    ]
+  },
+  {
+    "data_id": 49,
+    "most_common_answer": "The brightness of the star decreases by a factor of 100",
+    "all_predicted_answers": [
+      "The brightness of the star decreases by a factor of 100"
+    ],
+    "answer_distribution": {
+      "The brightness of the star decreases by a factor of 100": 1
+    },
+    "ground_truth": [
+      "~620\n\n"
+    ]
+  },
+  {
+    "data_id": 52,
+    "most_common_answer": "M is a mutation that is likely essential for growth; Y is a selectable marker that allows for the identification of the plasmid; Z is a selectable marker that allows for the replacement of the original gene with the mutated version; A is a substance that is necessary for growth but is not provided in the absence of the plasmid",
+    "all_predicted_answers": [
+      "M is a mutation that is likely essential for growth; Y is a selectable marker that allows for the identification of the plasmid; Z is a selectable marker that allows for the replacement of the original gene with the mutated version; A is a substance that is necessary for growth but is not provided in the absence of the plasmid"
+    ],
+    "answer_distribution": {
+      "M is a mutation that is likely essential for growth; Y is a selectable marker that allows for the identification of the plasmid; Z is a selectable marker that allows for the replacement of the original gene with the mutated version; A is a substance that is necessary for growth but is not provided in the absence of the plasmid": 1
+    },
+    "ground_truth": [
+      "Lethal, URA3, LEU2, 5'-FOA"
+    ]
+  },
+  {
+    "data_id": 55,
+    "most_common_answer": "- Incorrect ID conversion",
+    "all_predicted_answers": [
+      "- Incorrect ID conversion"
+    ],
+    "answer_distribution": {
+      "- Incorrect ID conversion": 1
+    },
+    "ground_truth": [
+      "3 and 4"
+    ]
+  },
+  {
+    "data_id": 56,
+    "most_common_answer": "The order of magnitude of the maximum possible number of unique full-length protein sequences is 10^18",
+    "all_predicted_answers": [
+      "The order of magnitude of the maximum possible number of unique full-length protein sequences is 10^18"
+    ],
+    "answer_distribution": {
+      "The order of magnitude of the maximum possible number of unique full-length protein sequences is 10^18": 1
+    },
+    "ground_truth": [
+      "10^13 "
+    ]
+  },
+  {
+    "data_id": 57,
+    "most_common_answer": "The uncertainty \\(\\Delta P_z\\) of \\(P_z\\) is \\(\\hbar\\)",
+    "all_predicted_answers": [
+      "The uncertainty \\(\\Delta P_z\\) of \\(P_z\\) is \\(\\hbar\\)"
+    ],
+    "answer_distribution": {
+      "The uncertainty \\(\\Delta P_z\\) of \\(P_z\\) is \\(\\hbar\\)": 1
+    },
+    "ground_truth": [
+      "\\hbar/\\sqrt{2}\n"
+    ]
+  },
+  {
+    "data_id": 60,
+    "most_common_answer": "Operator product expansion",
+    "all_predicted_answers": [
+      "Operator product expansion"
+    ],
+    "answer_distribution": {
+      "Operator product expansion": 1
+    },
+    "ground_truth": [
+      "Ultraviolet completion"
+    ]
+  },
+  {
+    "data_id": 62,
+    "most_common_answer": "Compound C is 1,3-hexadiene",
+    "all_predicted_answers": [
+      "Compound C is 1,3-hexadiene"
+    ],
+    "answer_distribution": {
+      "Compound C is 1,3-hexadiene": 1
+    },
+    "ground_truth": [
+      "Cyclooctadecanonaene"
+    ]
+  },
+  {
+    "data_id": 64,
+    "most_common_answer": "4: 3,8-dimethyl-5,6-dihydrobenzo[c]cinnoline",
+    "all_predicted_answers": [
+      "4: 3,8-dimethyl-5,6-dihydrobenzo[c]cinnoline"
+    ],
+    "answer_distribution": {
+      "4: 3,8-dimethyl-5,6-dihydrobenzo[c]cinnoline": 1
+    },
+    "ground_truth": [
+      "2"
+    ]
+  },
+  {
+    "data_id": 66,
+    "most_common_answer": "The transition probability \\( P(\\nu_e \\rightarrow \\nu_\\mu) = 1 \\) occurs at the mixing angle \\( \\theta = \\frac{\\pi}{4} \\)",
+    "all_predicted_answers": [
+      "The transition probability \\( P(\\nu_e \\rightarrow \\nu_\\mu) = 1 \\) occurs at the mixing angle \\( \\theta = \\frac{\\pi}{4} \\)"
+    ],
+    "answer_distribution": {
+      "The transition probability \\( P(\\nu_e \\rightarrow \\nu_\\mu) = 1 \\) occurs at the mixing angle \\( \\theta = \\frac{\\pi}{4} \\)": 1
+    },
+    "ground_truth": [
+      "pi/4"
+    ]
+  },
+  {
+    "data_id": 67,
+    "most_common_answer": "D2h",
+    "all_predicted_answers": [
+      "D2h"
+    ],
+    "answer_distribution": {
+      "D2h": 1
+    },
+    "ground_truth": [
+      "C2v"
+    ]
+  },
+  {
+    "data_id": 68,
+    "most_common_answer": "There are 9 chemically distinct hydrogen atoms on product 4",
+    "all_predicted_answers": [
+      "There are 9 chemically distinct hydrogen atoms on product 4"
+    ],
+    "answer_distribution": {
+      "There are 9 chemically distinct hydrogen atoms on product 4": 1
+    },
+    "ground_truth": [
+      "6"
+    ]
+  },
+  {
+    "data_id": 69,
+    "most_common_answer": "The maximum possible energy of the system is -1",
+    "all_predicted_answers": [
+      "The maximum possible energy of the system is -1"
+    ],
+    "answer_distribution": {
+      "The maximum possible energy of the system is -1": 1
+    },
+    "ground_truth": [
+      "1/4"
+    ]
+  },
+  {
+    "data_id": 70,
+    "most_common_answer": "Therefore, the enthalpy of formation of (CH3)2C=CH-CH2-CH(CH3)-CH2-CH=C(CH3)2 is -1200 kJ/mol",
+    "all_predicted_answers": [
+      "Therefore, the enthalpy of formation of (CH3)2C=CH-CH2-CH(CH3)-CH2-CH=C(CH3)2 is -1200 kJ/mol"
+    ],
+    "answer_distribution": {
+      "Therefore, the enthalpy of formation of (CH3)2C=CH-CH2-CH(CH3)-CH2-CH=C(CH3)2 is -1200 kJ/mol": 1
+    },
+    "ground_truth": [
+      "11.44 kJ/g"
+    ]
+  },
+  {
+    "data_id": 71,
+    "most_common_answer": "The maximum factor by which the brightness of the system varies is approximately 2.5",
+    "all_predicted_answers": [
+      "The maximum factor by which the brightness of the system varies is approximately 2.5"
+    ],
+    "answer_distribution": {
+      "The maximum factor by which the brightness of the system varies is approximately 2.5": 1
+    },
+    "ground_truth": [
+      "~ 1.33"
+    ]
+  },
+  {
+    "data_id": 75,
+    "most_common_answer": "The major isomer of product 3 is bicyclo[4.2.0]octa-1,3,5-triene",
+    "all_predicted_answers": [
+      "The major isomer of product 3 is bicyclo[4.2.0]octa-1,3,5-triene"
+    ],
+    "answer_distribution": {
+      "The major isomer of product 3 is bicyclo[4.2.0]octa-1,3,5-triene": 1
+    },
+    "ground_truth": [
+      "name: dimethyl (1R,4S,4aS,4bR,5S,8R,8aS,8bR,10S,11R)-1,4,4a,4b,5,8,8a,8b-octahydro-1,4-ethano-5,8-methanobiphenylene-10,11-dicarboxylate\n\nSMILES: O=C(OC)[C@H]1[C@@H](C=C2)[C@@H]3[C@@H]([C@@H]4[C@H]3[C@@H]5C=C[C@H]4C5)[C@@H]2[C@H]1C(OC)=O"
+    ]
+  },
+  {
+    "data_id": 76,
+    "most_common_answer": "At equivalence point: pH ≈ 9.25",
+    "all_predicted_answers": [
+      "At equivalence point: pH ≈ 9.25"
+    ],
+    "answer_distribution": {
+      "At equivalence point: pH ≈ 9.25": 1
+    },
+    "ground_truth": [
+      "4.26; 8.52"
+    ]
+  },
+  {
+    "data_id": 77,
+    "most_common_answer": "\\]",
+    "all_predicted_answers": [
+      "\\]"
+    ],
+    "answer_distribution": {
+      "\\]": 1
+    },
+    "ground_truth": [
+      "+\\infty"
+    ]
+  },
+  {
+    "data_id": 79,
+    "most_common_answer": "So, \\(B_x = 0\\), \\(B_y = 0\\), and \\(B_z = 0\\)",
+    "all_predicted_answers": [
+      "So, \\(B_x = 0\\), \\(B_y = 0\\), and \\(B_z = 0\\)"
+    ],
+    "answer_distribution": {
+      "So, \\(B_x = 0\\), \\(B_y = 0\\), and \\(B_z = 0\\)": 1
+    },
+    "ground_truth": [
+      "B_{x}=\\frac{3\\mu_{0}}{4\\pi}M\\frac{xz}{r^{5}};\\quad B_{y}=\\frac{3\\mu_{0}}{4\\pi}M\\frac{yz}{r^{5}};\\quad B_{z}=\\frac{3\\mu_{0}}{4\\pi}M\\frac{3z^{2}-r^{2}}{r^{5}}"
+    ]
+  },
+  {
+    "data_id": 84,
+    "most_common_answer": "The index of hydrogen deficiency of the product is 2",
+    "all_predicted_answers": [
+      "The index of hydrogen deficiency of the product is 2"
+    ],
+    "answer_distribution": {
+      "The index of hydrogen deficiency of the product is 2": 1
+    },
+    "ground_truth": [
+      "1"
+    ]
+  },
+  {
+    "data_id": 85,
+    "most_common_answer": "The probability that the measurement of the observable will yield 0 at time t is 0.5",
+    "all_predicted_answers": [
+      "The probability that the measurement of the observable will yield 0 at time t is 0.5"
+    ],
+    "answer_distribution": {
+      "The probability that the measurement of the observable will yield 0 at time t is 0.5": 1
+    },
+    "ground_truth": [
+      "1/3\n"
+    ]
+  },
+  {
+    "data_id": 87,
+    "most_common_answer": "The frequency of the photon due to the hyperfine transition in the ground state neutral hydrogen atom, if the spin of the electron was 3/2, would be approximately 1.42 GHz",
+    "all_predicted_answers": [
+      "The frequency of the photon due to the hyperfine transition in the ground state neutral hydrogen atom, if the spin of the electron was 3/2, would be approximately 1.42 GHz"
+    ],
+    "answer_distribution": {
+      "The frequency of the photon due to the hyperfine transition in the ground state neutral hydrogen atom, if the spin of the electron was 3/2, would be approximately 1.42 GHz": 1
+    },
+    "ground_truth": [
+      "2840 MHz\n\n"
+    ]
+  },
+  {
+    "data_id": 90,
+    "most_common_answer": "N_{\\text{interact",
+    "all_predicted_answers": [
+      "N_{\\text{interact"
+    ],
+    "answer_distribution": {
+      "N_{\\text{interact": 1
+    },
+    "ground_truth": [
+      "35"
+    ]
+  },
+  {
+    "data_id": 91,
+    "most_common_answer": "Approximately 1,200 gamma-rays were detected",
+    "all_predicted_answers": [
+      "Approximately 1,200 gamma-rays were detected"
+    ],
+    "answer_distribution": {
+      "Approximately 1,200 gamma-rays were detected": 1
+    },
+    "ground_truth": [
+      "1 million (10^6)."
+    ]
+  },
+  {
+    "data_id": 94,
+    "most_common_answer": "\\]",
+    "all_predicted_answers": [
+      "\\]"
+    ],
+    "answer_distribution": {
+      "\\]": 1
+    },
+    "ground_truth": [
+      "(1+n*v)/(n+v)\n\n"
+    ]
+  },
+  {
+    "data_id": 95,
+    "most_common_answer": "I am unable to provide specific nucleotide sequences or results without additional context or data. Please refer to a genomic database or resource for the exact sequence surrounding rs113993960",
+    "all_predicted_answers": [
+      "I am unable to provide specific nucleotide sequences or results without additional context or data. Please refer to a genomic database or resource for the exact sequence surrounding rs113993960"
+    ],
+    "answer_distribution": {
+      "I am unable to provide specific nucleotide sequences or results without additional context or data. Please refer to a genomic database or resource for the exact sequence surrounding rs113993960": 1
+    },
+    "ground_truth": [
+      "5'GATGATAATT GGAGGCAAGT GAATCCTGAG CGTGATTTGA\nTAATGACCTA ATAATGATGG GTTTTATTTC CAGACTTCAC\nTTCTAATGGT GATTATGGGA GAACTGGAGC CTTCAGAGGG\nTAAAATTAAG CACAGTGGAA GAATTTCATT CTGTTCTCAG\nTTTTCCTGGA TTATGCCTGG CACCATTAAA GAAAATATCA\n\n3'TGGTGTTTCC TATGATGAAT ATAGATACAG AAGCGTCATC\nAAAGCATGCC AACTAGAAGA GGTAAGAAAC TATGTGAAAA\nCTTTTTGATT ATGCATATGA ACCCTTCACA CTACCCAAAT\nTATATATTTG GCTCCATATT CAATCGGTTA GTCTACATAT\nATTTATGTTT CCTCTATGGG TAAGCTACTG TGAATGGATC"
+    ]
+  },
+  {
+    "data_id": 98,
+    "most_common_answer": "The radius of star A is approximately 3.5 times the radius of the sun",
+    "all_predicted_answers": [
+      "The radius of star A is approximately 3.5 times the radius of the sun"
+    ],
+    "answer_distribution": {
+      "The radius of star A is approximately 3.5 times the radius of the sun": 1
+    },
+    "ground_truth": [
+      "0.19\n\n"
+    ]
+  },
+  {
+    "data_id": 99,
+    "most_common_answer": "\\]",
+    "all_predicted_answers": [
+      "\\]"
+    ],
+    "answer_distribution": {
+      "\\]": 1
+    },
+    "ground_truth": [
+      "\\frac{V}{2 \\pi^2 \\hbar^3} \\frac{p_0^2 + (E-\\Delta)/b}{\\sqrt{b(E-\\Delta)}}"
+    ]
+  },
+  {
+    "data_id": 104,
+    "most_common_answer": "The upper limit of the variance of \\(\\gamma\\) can be written as \\(\\frac{1}{4(1+\\gamma^2)}\\)",
+    "all_predicted_answers": [
+      "The upper limit of the variance of \\(\\gamma\\) can be written as \\(\\frac{1}{4(1+\\gamma^2)}\\)"
+    ],
+    "answer_distribution": {
+      "The upper limit of the variance of \\(\\gamma\\) can be written as \\(\\frac{1}{4(1+\\gamma^2)}\\)": 1
+    },
+    "ground_truth": [
+      "2\\gamma^2 - 0.5"
+    ]
+  },
+  {
+    "data_id": 106,
+    "most_common_answer": "The U(1) gauge group can be approximated by a discrete group with the greatest possible precision",
+    "all_predicted_answers": [
+      "The U(1) gauge group can be approximated by a discrete group with the greatest possible precision"
+    ],
+    "answer_distribution": {
+      "The U(1) gauge group can be approximated by a discrete group with the greatest possible precision": 1
+    },
+    "ground_truth": [
+      "U(1)Y"
+    ]
+  },
+  {
+    "data_id": 107,
+    "most_common_answer": "The major product is 5-fluorocyclopentene-1,2-dicarboxylic anhydride",
+    "all_predicted_answers": [
+      "The major product is 5-fluorocyclopentene-1,2-dicarboxylic anhydride"
+    ],
+    "answer_distribution": {
+      "The major product is 5-fluorocyclopentene-1,2-dicarboxylic anhydride": 1
+    },
+    "ground_truth": [
+      "(3aR,4R,7S,7aS,8r)-8-fluoro-3a,4,7,7a-tetrahydro-4,7-methanoisobenzofuran-1,3-dione"
+    ]
+  },
+  {
+    "data_id": 265,
+    "most_common_answer": "I, II, IV",
+    "all_predicted_answers": [
+      "I, II, IV"
+    ],
+    "answer_distribution": {
+      "I, II, IV": 1
+    },
+    "ground_truth": [
+      "I, II, IV"
+    ]
+  },
+  {
+    "data_id": 8,
+    "most_common_answer": "Somatic hypermutation",
+    "all_predicted_answers": [
+      "Somatic hypermutation"
+    ],
+    "answer_distribution": {
+      "Somatic hypermutation": 1
+    },
+    "ground_truth": [
+      "somatic hypermutation"
+    ]
+  },
+  {
+    "data_id": 61,
+    "most_common_answer": "Four of the compounds exhibit optical activity",
+    "all_predicted_answers": [
+      "Four of the compounds exhibit optical activity"
+    ],
+    "answer_distribution": {
+      "Four of the compounds exhibit optical activity": 1
+    },
+    "ground_truth": [
+      "4"
+    ]
+  },
+  {
+    "data_id": 74,
+    "most_common_answer": "Trans-propenyl acetate",
+    "all_predicted_answers": [
+      "Trans-propenyl acetate"
+    ],
+    "answer_distribution": {
+      "Trans-propenyl acetate": 1
+    },
+    "ground_truth": [
+      "Trans-propenyl acetate"
+    ]
+  },
+  {
+    "data_id": 142,
+    "most_common_answer": "Star2: RA = 2 deg, Dec = +14 deg, Vmag = 7.5 mag",
+    "all_predicted_answers": [
+      "Star2: RA = 2 deg, Dec = +14 deg, Vmag = 7.5 mag"
+    ],
+    "answer_distribution": {
+      "Star2: RA = 2 deg, Dec = +14 deg, Vmag = 7.5 mag": 1
+    },
+    "ground_truth": [
+      "Star1"
+    ]
+  },
+  {
+    "data_id": 241,
+    "most_common_answer": "The correct statement is: \"One can use a catalyst of a group VIa transition metal in combination with specific activators",
+    "all_predicted_answers": [
+      "The correct statement is: \"One can use a catalyst of a group VIa transition metal in combination with specific activators"
+    ],
+    "answer_distribution": {
+      "The correct statement is: \"One can use a catalyst of a group VIa transition metal in combination with specific activators": 1
+    },
+    "ground_truth": [
+      "One can use a catalyst of a group VIa transition metal in combination with specific activators."
+    ]
+  },
+  {
+    "data_id": 145,
+    "most_common_answer": "c) A two-star system with individual apparent magnitudes of Vmag_1 = 7 and Vmag_2 = 8 mag, both at distances of 5 parsecs",
+    "all_predicted_answers": [
+      "c) A two-star system with individual apparent magnitudes of Vmag_1 = 7 and Vmag_2 = 8 mag, both at distances of 5 parsecs"
+    ],
+    "answer_distribution": {
+      "c) A two-star system with individual apparent magnitudes of Vmag_1 = 7 and Vmag_2 = 8 mag, both at distances of 5 parsecs": 1
+    },
+    "ground_truth": [
+      "A two-star system with individual absolute magnitudes of Vmag_1 = 7 and Vmag_2 = 7 mag, both at distances of 10 parsecs."
+    ]
+  },
+  {
+    "data_id": 208,
+    "most_common_answer": "B: 5-methylhexan-2-one",
+    "all_predicted_answers": [
+      "B: 5-methylhexan-2-one"
+    ],
+    "answer_distribution": {
+      "B: 5-methylhexan-2-one": 1
+    },
+    "ground_truth": [
+      "A = 4-isopropylcyclohexan-1-one, B = 5-methylhexan-2-one"
+    ]
+  },
+  {
+    "data_id": 191,
+    "most_common_answer": "The mass dimension of \\(\\kappa\\) is 3. The theory is not renormalizable",
+    "all_predicted_answers": [
+      "The mass dimension of \\(\\kappa\\) is 3. The theory is not renormalizable"
+    ],
+    "answer_distribution": {
+      "The mass dimension of \\(\\kappa\\) is 3. The theory is not renormalizable": 1
+    },
+    "ground_truth": [
+      "The mass dimension \\left[\\kappa\\right]_{M}=-1. The theory is not renormalizable."
+    ]
+  }
+]
