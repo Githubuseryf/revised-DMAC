@@ -15,11 +15,11 @@
 
 ---
 
-## What is DMAC?
+## What is OrchMAS?
 
 Large language models are powerful, but their output quality is often constrained by how well the input prompt is formulated. Most users lack the expertise to craft optimal instructions for complex tasks.
 
-**DMAC** addresses this gap with a two-tier architecture:
+**OrchMAS** addresses this gap with a two-tier architecture:
 
 - A **compact policy model** that acts as the *orchestrator* — it decomposes problems, formulates targeted prompts, and selects appropriate agent personas
 - A **large-scale worker model** (e.g., GPT-class) that serves as the *executor* — it receives refined instructions and produces high-quality responses
@@ -94,7 +94,7 @@ The orchestrator communicates with the worker LLM via an **OpenAI-compatible API
 
 ### Option A: Cloud / Third-Party API
 
-Open `dmac/tool/tools/LLM_tool_dynamic_agent.py` and set:
+Open `OrchMAS/tool/tools/LLM_tool_dynamic_agent.py` and set:
 
 ```python
 API_KEY = "your_key_here"
@@ -129,10 +129,10 @@ BASE_URL = "http://<YOUR_SERVER>:8006/v1"
 Launch GRPO training with Ray + FSDP + vLLM rollout:
 
 ```bash
-nohup bash run_dmac.sh > training.out 2>&1 &
+nohup bash run_OrchMAS.sh > training.out 2>&1 &
 ```
 
-Notable training parameters in `run_dmac.sh`:
+Notable training parameters in `run_OrchMAS.sh`:
 
 | Parameter | Value | Purpose |
 |---|---|---|
@@ -214,8 +214,8 @@ Results are saved as per-dataset `eval.json` and an aggregated CSV summary.
 ## Project Layout
 
 ```
-dmac/
-├── dmac/                        # Core framework
+OrchMAS/
+├── OrchMAS/                        # Core framework
 │   ├── src/                     # RL training logic (trainer, actor, critic, reward)
 │   ├── tool/
 │   │   ├── envs/                # Execution environments (NousToolEnv, etc.)
@@ -224,8 +224,8 @@ dmac/
 │   └── vllm_infer/config.py     # Model serving & inference config
 ├── verl/                        # veRL library (editable install)
 ├── dataset/                     # Train / test Parquet files
-├── DMAC_Qwen3_chat_template.jinja  # Custom chat template for the policy model
-├── run_dmac.sh                  # RL training entry point
+├── OrchMAS_Qwen3_chat_template.jinja  # Custom chat template for the policy model
+├── run_OrchMAS.sh                  # RL training entry point
 ├── model_merge.sh               # FSDP checkpoint merger
 ├── vllm_serve.sh                # Serve the trained policy model
 ├── vllm_api.sh                  # Serve the worker LLM locally
