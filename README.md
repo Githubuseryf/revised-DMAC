@@ -1,4 +1,4 @@
-# DMAC: Dynamic Multi-Agent Collaboration for LLM Interaction
+# OrchMAS: Orchestrated Reasoning with Multi Collaborative Heterogeneous Scientific Expert Structured Agents
 
 <div align="center">
 
